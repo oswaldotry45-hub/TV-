@@ -1,0 +1,2278 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",ECUAVISA
+https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",ECUAVISA
+http://45.71.38.3:8010/play/a07z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",ECUAVISA
+http://177.234.230.206:8011/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",ECUAVISA
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RTSSAT.rs" group-title="ECUADOR",RTS
+https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RTSSAT.rs" group-title="ECUADOR",RTS
+https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="RTSSAT.rs" group-title="ECUADOR",RTS
+http://45.71.38.3:8010/play/a0hf/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TELEAMAZONAS
+http://181.188.216.5:8011/play/a008/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TELEAMAZONAS
+http://181.188.216.5:8011/play/a008/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TELEAMAZONAS
+http://45.71.38.3:8010/play/a0iw/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TELEAMAZONAS
+http://45.71.38.3:8010/play/a0iz/index.m3u8
+#EXTINF:0 tvg-id="EcuadorTV.us" group-title="ECUADOR",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="EcuadorTV.us" group-title="ECUADOR",ECUADOR TV
+http://45.71.38.3:8010/play/a0g5/index.m3u8
+#EXTINF:0 tvg-id="EcuadorTV.us" group-title="ECUADOR",ECUADOR TV
+http://177.234.230.206:8011/play/a090/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",GAMAVICION
+http://45.225.90.239:8011/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TC TELEVICION
+http://45.225.90.239:8011/play/a00h/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TC TELEVICION
+http://38.180.133.31:8000/play/a13t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TC TELEVICION
+http://177.234.230.206:8011/play/a099/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",CANAL UNO
+https://movil.ejeserver.com/live/canaluno.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",RTU NOTICIAS
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TELERAMA
+https://envivo.telerama.ec/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",PURUWA TV RIOBAMBA
+https://liveontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1831296780.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",ZARACAY TV |ECU|
+https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",MULTICANAL CATAMAYO
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TV COLOR CANAL 36 LATACUNGA
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",NORTOVICION TV TULCAN
+https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",RED TVE VENTANAS
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",TVPJ
+https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="tvcen" group-title="ECUADOR",TVC
+https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",IMPERIO TV CANAL 6
+https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="ECUADOR",FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="ext" group-title="RUNTIME",RUNTIME CINE SERIES
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUNTIME",RUNTIME ACCIN
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:0 tvg-id="RuntimeCrimen.es" group-title="RUNTIME",RUNTIME CRIMEN
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+#EXTINF:0 tvg-id="RuntimeRomance.es" group-title="RUNTIME",RUNTIME ROMANCE
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+#EXTINF:0 tvg-id="RuntimeThrillerTerror.es" group-title="RUNTIME",RUNTIME THRILLER TERROR
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+#EXTINF:0 tvg-id="RuntimeComedia.es" group-title="RUNTIME",RUNTIME COMEDIA
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUNTIME",RUNTIME CLSICOS
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RUNTIME",RUNTIME TRASH
+https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="RUNTIME",SANGRE FRIA
+https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",RAKUTEN ACCION
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",RAKUTEN PELIS TOP
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",RAKUTEN DRAMA
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",RAKUTEN FAMILIA
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",RAKUTEN THRILLERS
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",RAKUTEN VIKI DORAMAS
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="RAKUTEN",MY TIME MOVIE NETWORK
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="SkyCinemaAction.uk" group-title="FREE TV",ACTION
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV  STELAR
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV TERROR
+https://amg01024-olympusat-horrorfy-ono-ad-ky.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV LIVE
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV FAMILIA
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV DRAMA
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV SURENO
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FREE TV SABER MAS
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE TV",FreeTV Asia
+https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="TV PELICULAS",MILENIO TV
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="AMC.uk" group-title="TV PELICULAS",AMC
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="TV PELICULAS",AMC
+http://181.13.252.102:8000/play/a01z/index.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="TV PELICULAS",AMC
+http://45.71.38.3:8010/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="TV PELICULAS",AMC HD
+http://45.71.38.3:8010/play/a0cj/index.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="TV PELICULAS",AMC HD
+http://45.71.38.3:8010/play/a054/index.m3u8
+#EXTINF:0 tvg-id="AandE.de" group-title="TV PELICULAS",A&E
+http://181.13.252.102:8000/play/a05i/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="AandE.de" group-title="TV PELICULAS",A&E
+http://45.71.38.3:8010/play/a04k/index.m3u8
+#EXTINF:0 tvg-id="AyEHD.cl" group-title="TV PELICULAS",A&E HD
+http://45.71.38.3:8010/play/a0c7/index.m3u8
+#EXTINF:0 tvg-id="AyEHD.cl" group-title="TV PELICULAS",A&E HD
+http://45.71.38.3:8010/play/a053/index.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="TV PELICULAS",AXN
+http://45.71.38.3:8010/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="Axn.br" group-title="TV PELICULAS",AXN HD
+http://45.71.38.3:8010/play/a0j7/index.m3u8
+#EXTINF:0 tvg-id="Axn.br" group-title="TV PELICULAS",AXN HD
+http://45.71.38.3:8010/play/a07s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",ATRESPLAYER
+http://177.234.230.206:8011/play/a0pe/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",ATRESPLAYER
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="TV PELICULAS",AXN
+http://181.13.252.102:8000/play/a05f/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="BomCine.es" group-title="TV PELICULAS",BOM CINE
+http://176.65.146.237:8401/play/a09d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",CINE ROMANTICO
+http://200.59.188.3:8000/play/a0i0?network_id=656
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",+CINE CLASSIC
+http://190.211.163.19:9999/play/a0fj?sd=10&rebase=on
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="TV PELICULAS",Cine Latino
+http://45.71.38.3:8010/play/a07l/index.m3u8
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="TV PELICULAS",Cinecanal HD
+http://45.71.38.3:8010/play/a0j4/index.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="TV PELICULAS",CINECANAL
+http://177.234.230.206:8011/play/a0oe/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Cinemax.bg" group-title="TV PELICULAS",Cinemax
+http://45.71.38.3:8010/play/a0bq/index.m3u8
+#EXTINF:0 tvg-id="Cinemax.br" group-title="TV PELICULAS",Cinemax HD
+http://45.71.38.3:8010/play/a0bx/index.m3u8
+#EXTINF:0 tvg-id="Cinemax.bg" group-title="TV PELICULAS",CINEMAX
+http://181.13.252.102:8000/play/a04s/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",CINE STELAR
+http://177.234.230.206:8011/play/a0a5/index.m3u8
+#EXTINF:0 tvg-id="CityTV.bg" group-title="TV PELICULAS",City TV
+http://45.71.38.3:8010/play/a08c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",Clover
+http://45.71.38.3:8010/play/a0gi/index.m3u8
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="TV PELICULAS",COSMO TV
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",COSMOS
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",CANAL STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",CINE PREMIUN
+http://177.234.230.206:8011/play/a0a5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",CINEMA PREMIUM
+http://177.234.230.206:8011/play/a09r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",DHE
+http://45.71.38.3:8010/play/a06b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",DHE HD
+http://45.71.38.3:8010/play/a059/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",EXTREMA TV CINE ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2000635494.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="TV PELICULAS",FX
+http://177.234.230.206:8011/play/a0k5/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",GOLDEN PREMIER
+http://45.71.37.196:8010/play/a0im/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",HMTV HD
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",HBO +
+http://38.250.119.233:4444/play/a0a4/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="HBO2.cl" group-title="TV PELICULAS",HBO 2
+http://38.250.119.233:4444/play/a02t/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="HBO.bg" group-title="TV PELICULAS",HBO
+http://200.59.188.3:8000/play/a03r?sd=10&rebase=on
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="TV PELICULAS",HBO FAMILY
+http://200.59.188.3:8000/play/a06o?sd=10&rebase=on
+#EXTINF:0 tvg-id="Maxprime.br" group-title="TV PELICULAS",HBO XTREME
+http://200.59.188.3:8000/play/a0t5?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",ORBIT TV
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ParamountNetwork.cz" group-title="TV PELICULAS",PARAMOUNT NETWORK
+http://181.13.252.102:8000/play/a02y/index.m3u8
+#EXTINF:0 tvg-id="PlanetaTV.bg" group-title="TV PELICULAS",PLANETA TV
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="STARChannel.es" group-title="TV PELICULAS",STAR CHANNEL
+http://45.71.38.3:8010/play/a07a/index.m3u8
+#EXTINF:0 tvg-id="StarChannel.br" group-title="TV PELICULAS",STAR CHANNEL HD
+http://45.71.38.3:8010/play/a0jd/index.m3u8
+#EXTINF:0 tvg-id="StarChannel.br" group-title="TV PELICULAS",STAR CHANNEL HD
+http://45.71.38.3:8010/play/a04t/index.m3u8
+#EXTINF:0 tvg-id="STARChannel.es" group-title="TV PELICULAS",STAR Channel
+http://45.71.38.3:8010/play/a0ih/index.m3u8
+#EXTINF:0 tvg-id="STARChannel.es" group-title="TV PELICULAS",STAR CHANNEL
+http://181.13.252.102:8000/play/a079/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Space.pe" group-title="TV PELICULAS",SPACE
+http://45.71.37.196:8010/play/a00d/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="TV PELICULAS",Space HD
+http://45.71.38.3:8010/play/a0j9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",Star TVE HD
+http://45.71.38.3:8010/play/a05b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",Stingray Concerts HD
+http://45.71.38.3:8010/play/a08q/index.m3u8
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="TV PELICULAS",Studio Universal HD
+http://45.71.38.3:8010/play/a04z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",Sun Channel HD
+http://45.71.38.3:8010/play/a0js/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",SOMOS DEL ESTE TV
+http://177.234.230.206:8011/play/a0p5/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="TCM.uk" group-title="TV PELICULAS",TCM
+http://45.71.38.3:8010/play/a03x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",TODO CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:0 tvg-id="TNT.ro" group-title="TV PELICULAS",TNT
+http://191.52.214.5:8000/play/a024/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="TV PELICULAS",TNT Series HD
+http://45.71.38.3:8010/play/a0jh/index.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="TV PELICULAS",TNT Series HD
+http://45.71.38.3:8010/play/a05y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL CINEMA ESTE HD
+http://45.71.38.3:8010/play/a064/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL COMEDY HD
+http://45.71.38.3:8010/play/a05q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL CRIME HD
+http://45.71.38.3:8010/play/a05p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL PREMIERE HD
+http://45.71.38.3:8010/play/a05m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL PREMIERE O HD
+http://45.71.38.3:8010/play/a05n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL REALITY HD
+http://45.71.38.3:8010/play/a05o/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="TV PELICULAS",Universal
+http://45.71.38.3:8010/play/a0id/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="TV PELICULAS",Universal
+http://45.71.38.3:8010/play/a07j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",UNIVERSAL CINEMA
+http://177.234.230.206:8011/play/a0dn/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="Universal.uk" group-title="TV PELICULAS",UNIVERSAL CHANNEL
+http://191.52.214.5:8000/play/a08h/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="VISION.ca" group-title="TV PELICULAS",VISION TV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",VILLA ALTAGRACIA TV
+https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="TV PELICULAS",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="TV PELICULAS",WARNER HD
+http://45.71.38.3:8010/play/a04u/index.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="TV PELICULAS",Warner
+http://45.71.38.3:8010/play/a04i/index.m3u8
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="TV PELICULAS",Warner Channel HD
+http://45.71.38.3:8010/play/a0j6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV PELICULAS",WOW TV MOVIES
+http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="TV PELICULAS",WARNER CHANNEL
+http://177.234.230.206:8011/play/a0og/index.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Canela.TV Clsicos
+https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Canela.TV Hollywood y Ms
+https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Canela.TV Narco-Drama
+https://jmp2.uk/rok-3bc1756db0ef525b9cab86edcd426c55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Cine de Horror
+https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Cine EstrellaTV
+https://jmp2.uk/rok-5dbf591219b15aa8bb3a7b73b59307f0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Cine Romantico
+https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Cinpolis Channel
+https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",FilmRise Pelculas Gratis
+https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",Todo Cine
+https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",ARTFLIX PELICULAS CLASICAS
+https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",BUTACA TV
+https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist_1920x1080.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",CANELA TV CLASICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",CANELA CINEMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="CANELA TV",PELIMEX PELICILAS MEXICANAS
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY ONE  HITS ACCION
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY ONE  SERIES THRILLER
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY ONE SERIES COMEDIA
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY ONE XITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",SONY ONE THE BLACKLITS
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="SONY ONE HITS",SONY
+http://45.71.38.3:8010/play/a04h/index.m3u8
+#EXTINF:0 tvg-id="Sony.br" group-title="SONY ONE HITS",Sony HD
+http://45.71.38.3:8010/play/a0j5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",Sony Movies HD
+http://45.71.38.3:8010/play/a058/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",LG 1: Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",LG 1: Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",CINE FEEL GOOD VERDI
+https://is.gd/8r7Ezz/Users/oswaldotry45/3D%20Objects/master.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="SONY ONE HITS",GRJNGO PELICULAS DEL OESTE
+https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="DOCUMENTALES",Animal Planet
+http://45.71.38.3:8010/play/a04m/index.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="DOCUMENTALES",Animal Planet HD
+http://45.71.38.3:8010/play/a0j0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",COPS en Espaol
+https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",Crmenes Verdaderos
+https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",Curiosity Explora
+https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",DISC THEATHER HD
+http://45.71.38.3:8010/play/a05g/index.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTALES",Discovery Channel
+http://45.71.38.3:8010/play/a04l/index.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTALES",Discovery Channel
+http://45.71.38.3:8010/play/a0ml/index.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTALES",Discovery Channel  HD
+http://45.71.38.3:8010/play/a0je/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",Discovery H&H HD
+http://45.71.38.3:8010/play/a0bg/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",Discovery H&H HD
+http://45.71.38.3:8010/play/a0m1/index.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="DOCUMENTALES",Discovery HD
+http://45.71.38.3:8010/play/a0lu/index.m3u8
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="DOCUMENTALES",Discovery Home & Health
+http://45.71.38.3:8010/play/a07c/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="DOCUMENTALES",Discovery Science
+http://45.71.38.3:8010/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="DOCUMENTALES",Discovery Theater HD
+http://45.71.38.3:8010/play/a0ec/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="DOCUMENTALES",Discovery Turbo
+http://45.71.38.3:8010/play/a0bw/index.m3u8
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="DOCUMENTALES",Discovery World HD
+http://45.71.38.3:8010/play/a0jl/index.m3u8
+#EXTINF:0 tvg-id="Disney.uk" group-title="DOCUMENTALES",Disney Channel
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:0 tvg-id="Disney.uk" group-title="DOCUMENTALES",Disney Channel
+http://201.217.246.177:8000/play/a02r/index.m3u8
+#EXTINF:0 tvg-id="Disney.uk" group-title="DOCUMENTALES",Disney Channel
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTALES",Danger TV
+https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",BEIN SPORTS XTRA USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",BEIN SPORTS  EXTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",BEIN Sports XTRA En Espaol
+http://200.59.188.3:8000/play/a0cm
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",BEIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="DEPORTES",BEIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Canela.TV Deportes
+https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ECDF SD
+http://177.234.230.206:8011/play/a0t9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",FUTBOL EC
+http://177.234.230.206:8011/play/a09z/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN
+http://177.234.230.206:8011/play/a0eh/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN
+http://177.234.230.206:8011/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="DEPORTES",ESPN 2
+http://177.234.230.206:8011/play/a0ig/index.m3u8
+#EXTINF:0 tvg-id="ESPN2HD.ar" group-title="DEPORTES",ESPN 2 HD
+http://177.234.230.206:8011/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="ESPN2HD.ar" group-title="DEPORTES",ESPN 2 HD
+http://177.234.230.206:8011/play/a0kg/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 2 NARANJA
+http://177.234.230.206:8011/play/a0ae/index.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="DEPORTES",ESPN 3 HD
+http://177.234.230.206:8011/play/a0ox/index.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="DEPORTES",ESPN 3 HD
+http://177.234.230.206:8011/play/a01e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 3 NARANJA
+http://177.234.230.206:8011/play/a0ad/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="DEPORTES",ESPN 4
+http://177.234.230.206:8011/play/a0q0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 4 NARANJA
+http://177.234.230.206:8011/play/a0af/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 4HD
+http://177.234.230.206:8011/play/a0ol/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 4HD
+http://177.234.230.206:8011/play/a0c8/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="DEPORTES",ESPN 5
+http://177.234.230.206:8011/play/a0s3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 5HD
+http://177.234.230.206:8011/play/a0dr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 6HD
+http://177.234.230.206:8011/play/a0iz/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 6HD
+http://177.234.230.206:8011/play/a01f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 7
+http://177.234.230.206:8011/play/a0q1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 7HD
+http://177.234.230.206:8011/play/a0k2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN CO
+http://177.234.230.206:8011/play/a0np/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN HD
+http://177.234.230.206:8011/play/a0o4/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN HD
+http://177.234.230.206:8011/play/a015/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN HD
+http://177.234.230.206:8011/play/a0fe/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN NARANJA
+http://177.234.230.206:8011/play/a0ag/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Premium HD
+http://177.234.230.206:8011/play/a0o6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Premium HD
+http://177.234.230.206:8011/play/a0fh/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN
+http://45.71.38.3:8010/play/a0i7/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN
+http://45.71.38.3:8010/play/a086/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN HD
+http://45.71.38.3:8010/play/a015/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN HD
+http://45.71.38.3:8010/play/a0jb/index.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="DEPORTES",ESPN HD
+http://45.71.38.3:8010/play/a05s/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="DEPORTES",ESPN 2
+http://45.71.38.3:8010/play/a09j/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="DEPORTES",ESPN 2
+http://45.71.38.3:8010/play/a04q/index.m3u8
+#EXTINF:0 tvg-id="ESPN2HD.ar" group-title="DEPORTES",ESPN 2 HD
+http://45.71.38.3:8010/play/a05t/index.m3u8
+#EXTINF:0 tvg-id="ESPN2HD.ar" group-title="DEPORTES",ESPN 2 HD
+http://45.71.38.3:8010/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="DEPORTES",ESPN 3
+http://45.71.38.3:8010/play/a0hj/index.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="DEPORTES",ESPN 3 HD
+http://45.71.38.3:8010/play/a05u/index.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="DEPORTES",ESPN 3 HD
+http://45.71.38.3:8010/play/a0jj/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="DEPORTES",ESPN 4
+http://45.71.38.3:8010/play/a03q/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="DEPORTES",ESPN  4 HD
+http://45.71.38.3:8010/play/a02w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 4HD
+http://45.71.38.3:8010/play/a0jc/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="DEPORTES",ESPN 5
+http://45.71.38.3:8010/play/a0al/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="DEPORTES",ESPN 5
+http://45.71.38.3:8010/play/a0g0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 5  HD
+http://45.71.38.3:8010/play/a07u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 5HD
+http://45.71.38.3:8010/play/a0jg/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 6 HD
+http://45.71.38.3:8010/play/a05v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 6HD
+http://45.71.38.3:8010/play/a0c2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN 7HD
+http://45.71.38.3:8010/play/a0d3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Premium HD
+http://45.71.38.3:8010/play/a0ep/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Premium HD
+http://45.71.38.3:8010/play/a017/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN USA +
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:0 tvg-id="Foxsportshd.br" group-title="DEPORTES",Fox Sports HD
+http://45.71.38.3:8010/play/a0jz/index.m3u8
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="DEPORTES",Fox Sports 2 HD
+http://45.71.38.3:8010/play/a0jv/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.nl" group-title="DEPORTES",Fox Sports 3 HD
+http://45.71.38.3:8010/play/a0k2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Fubo Sports Network
+https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",LIGA ESPAOLA
+http://45.5.117.57:8200/play/a050/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",VIX LIGA ESPAOLA
+http://45.186.106.220:5550/play/a051/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="LA1.es" group-title="DEPORTES",La 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+#EXTINF:0 tvg-id="LA2.es" group-title="DEPORTES",La 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",SKY SPORTS LA LIGA |ESPAA|
+http://103.111.40.242:9999/play/a00d/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TNT SPORTS
+http://45.71.38.3:8010/play/a0mf/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TNT SPORTS
+http://45.71.38.3:8010/play/a0mf/index.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="DEPORTES",TyC Sports
+http://45.71.38.3:8010/play/a0fi/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TUDN
+http://45.5.117.57:8200/play/a04t/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Tigo Sports HD
+http://45.71.38.3:8010/play/a05d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Tigo Sports HD
+http://45.71.38.3:8010/play/a05d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",TDP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Serenity
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Han llegado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6dd2161b65001a9c2ad9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cube
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Grizzly Man
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/627379c273a0a1001451f581.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La boda de Rosa
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ef891189ba442cd92561d2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",50/50
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e113d1f456458f6cf34e75.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms extrao que la ficcin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ea4314e8cf626542d281a7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El duodcimo hombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b5b84a5d2668ecc5083e62.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Partido
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b38898d09180014437c98.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Campo Del Honor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496aff93e00013efc953.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Alamein - La linea del fuoco
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b35b9ff93e00013ec3cbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Planes de boda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67cadb9275fa8457009140c5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Larry Crowne nunca es tarde
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b313e46d9b28853d680239.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Code
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e3a624bf27b0013169afa.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Juntos En Combate
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496dff93e00013efc9c4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",9 De Abril
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4699b20f820013534bbf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Trece das
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e3bd8170fdf0013908d37.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Algo Prestado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/675824d22678a500143c745a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El zapatero
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729e43d2678a5001418eec6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Crossworlds: entre dos mundos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60057a1e813b2d001b6871ee.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Negacin (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c49ba882f6d0013a70e7c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Flight 7500
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5ff2ee74eff9b2001a7f5bb0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Atrapamoscas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729fc20321c1900139e5102.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ghost In The Shell
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6257ea018f17ad0013f6752e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ghosts Of The Abyss
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66b33a61b20e790013a49c2d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La buena mentira
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcedf8d00c60014803570.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los los de Gray
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735dc77b7ea5e0013a6b8e6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El grito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61645fa2a8dd34001a3aa5ad.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La sombra del cazador
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67582a8b091e240013522ebd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Presunta inocencia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6fa694da5ab00130b16b1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Wagons East
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d9a0887d70330014d5421e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ola
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b88b578a22200133892f5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La mujer de negro: El ngel de la muerte
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729fc1d321c1900139e5092.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Reina Cristina
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad7601a6bb3b001471c4eb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Locos por Madonna
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d565348f4001aec1555.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Lagerfeld El Kaiser de la Moda LT
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d0c662d03001b521790.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",conos de Nuestra Era: Marilyn Monroe
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1ee1af79c700136f8c19.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dioses y monstruos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e183bfa72a5001a5fa6c0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El roast de Bruce Willis
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa915d1a51490013414b00.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El roast de Justin Bieber
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa84b2af99a50013dad299.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Serenity
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La carrera
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371a41321c190013a008c1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Leyenda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b67c235736001ac4453d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una historia real
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6384a5949112e1001306e6ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El detective de Arthur Hailey
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a2dc905bcdf001a32a43d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Presunta inocencia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6fa694da5ab00130b16b1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Timeline
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6720cb81af99a50013ad5e7e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Empire Records
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60780ca8f96a44001a1d815a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Negocios de familia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b66d235736001ac443d6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Red
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f71928b6c03610013ac0294.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Valkiria
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf0fa72a5001a5fda18.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hombre Irracional
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mis dos amores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c16db45a1001a79aac9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Premonicin (Afterwards)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e378f170fdf00138fa2ad.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La vecina de al lado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a3235736001ac4490d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",16 calles
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6720cb71af99a50013ad5858.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Larry Crowne nunca es tarde
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b313e46d9b28853d680239.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El velo pintado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c484b7ea5e0013a68055.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Tercer Hombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf38894c1ec0013765a68.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Trece das
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e3bd8170fdf0013908d37.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tres mujeres y un plan
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b3127f74645d925d56b909.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cdigo fuente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc142678a50014518e59.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Life of Brian
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tipos Legales
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b04e26cc40014b2b7e5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Grandmaster
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d0438528f1d30013ed3f64.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Code
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e3a624bf27b0013169afa.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Campo Del Honor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496aff93e00013efc953.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ola
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b88b578a22200133892f5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Siete das y una vida
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b67d235736001ac44569.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Reflejos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b68c235736001ac446cd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El escritor fantasma
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d3ffb7ea5e0013a6a2e2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bellas Criaturas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6761a171381eea0013640bd3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Road
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ce5fa72a5001a5fd945.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Brazil
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b662235736001ac442c1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tigerland
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a7235736001ac44965.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Muerte y la Doncella
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bedb7ea5e0013f37c81.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Take the Money and Run
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2c072678a500143eebe1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms extrao que la ficcin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67ea4314e8cf626542d281a7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Suspicion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2c042678a500143eea35.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nosferatu
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaac774755c001a4c9e7a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Doble identidad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e183cfa72a5001a5fa6dd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Johnny Cogi su Fusil
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bffb7ea5e0013f38045.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Winter's Bone
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618102f8436116001a0bbea1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",1492: La Conquista del Paraso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e431f576be6001373af90.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La decisin de Sophie
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c84ff21e500131cb334.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Hombre del Brazo de Oro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618263c7b5d0e9001a8ca9ef.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mi pie izquierdo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c89ff21e500131cb453.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hamlet
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618a26b7f23da3001b149d2e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Gatopardo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723d3c1ac5b40013b799f0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",New York I Love You
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead37db45a1001a795479.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Breve encuentro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6189443a836015001bd0728d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Charada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaa9c74755c001a4c9942.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Luna Nueva
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6114cd6fdf179f0013199224.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Zapatillas Rojas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61894447836015001bd07335.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",3:10 to Yuma
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e17f1fa72a5001a5fa195.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Rescate en Damasco
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cc2fa72a5001a5fd6fb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las crnicas de la Grulla Blanca
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a299225fde2001af578d5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El super chef
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655cbeea1d1d8e00135eca3f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hiena salvaje
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655cc5f22085480014d22ab2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El estilo de la serpiente y la grulla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc6f6f05d00135e9956.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Timeline
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6720cb81af99a50013ad5e7e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tipos Legales
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b04e26cc40014b2b7e5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Juntos En Combate
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496dff93e00013efc9c4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Point Man
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ada7641390014cb4e1d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Red
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f71928b6c03610013ac0294.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Grandmaster
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d0438528f1d30013ed3f64.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Brotherhood
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a7503a9322c00013eb2455.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms All De La Onda Expansiva
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64103a61183a5400136fa8f4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mentiras e Ilusiones
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c30db45a1001a79abf5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El ltimo patriota
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f562df4f7db51001a3c5fbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Beastmaster
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6745dfa2882f6d00132252bc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Valkiria
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf0fa72a5001a5fda18.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La carrera
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371a41321c190013a008c1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Rey Arturo: El Ascenso de Excalibur
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d394ba369d001340ea00.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Baron Rojo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4804acbab10014b6de8a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sunchaser
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60780caef96a44001a1d81b2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cdigo fuente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc142678a50014518e59.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Capitn Amrica
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e2622833ae001393797d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ace Bodyguard
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a74ed46134930013b921d4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",12 Hours
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a75b8a17101c00138d8937.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Monter's Battlefield
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a754722fca060013122bd5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Doble identidad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e183cfa72a5001a5fa6dd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Jui kuen - El Mono Borracho en el Ojo del Tigre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee25af64f180013aeae5d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bestia de carga
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ad3fe51e4001aac9dc9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Valentine: venganza oscura
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6426c871fe0679001a24d58d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute: Camina o Revienta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e965c30400136adae4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute II: Maana ser libre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1ec65c30400136adbbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alpha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479d9cb0324001353e300.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sultanes del Sur
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876afae26cc40014b2b0a7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vampyre Nation
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a705e3cd246001343e2da.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Eclipse Total
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf38d94c1ec0013765b3a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Force of Impact
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac4fe51e4001aac9d27.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La aventura del Poseidn: Captulo 1
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0cf2fb65b870013cb8aa5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tormenta de Lava
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929aa5fe51e4001aac9c15.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nuclear Hurricane
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ab2fe51e4001aac9ca0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Titanic II
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/603cf1284d8d87001aaa909f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",San Andreas mega sesmo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6093a2a15cb63f001a15108f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Llamarada solar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929abbfe51e4001aac9cd6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tormenta colosal
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/604f890112d561001a4eef76.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Unthinkable
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d399ba369d001340ea70.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tentculos de las Bermudas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa38b6a72b000130cc8ae.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",10000 Days
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948bf61f1b1001afec82f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La era del maana
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa39b6a72b000130cca94.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una historia real
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6384a5949112e1001306e6ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mobius
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ab4fe51e4001aac9cbb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La sabidura de los cocodrilos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eac8edb45a1001a795067.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cube
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Voces en la noche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf2fa72a5001a5fda3b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Darkness
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e182efa72a5001a5fa5d8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El detective de Arthur Hailey
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a2dc905bcdf001a32a43d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cdigo fuente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc142678a50014518e59.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fear X
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Juego asesino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Red
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f71928b6c03610013ac0294.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Todo por un Sueo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6189443d836015001bd072b3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Reflejos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b68c235736001ac446cd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sombras en el silencio
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60780cabf96a44001a1d8186.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El escritor fantasma
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735d3ffb7ea5e0013a6a2e2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La mujer de negro: El ngel de la muerte
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729fc1d321c1900139e5092.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Picnic at Hanging Rock
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67404979091e240013216a95.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Guilty Ones
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66a75e676134930013ba1c38.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sin Salida
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fa40a5aa6e00138ec954.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Anabel
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64c78085ab3edd00133de992.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ira de la bestia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f800a4827fc001aba1419.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Apariencias
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64106a315d300f001323be52.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Quien eres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6b4bd86acfd001367051a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Transsiberian
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876ae6e26cc40014b29aac.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sultanes del Sur
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876afae26cc40014b2b0a7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El miau del gato
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8b2c5290fbf4001aa3ad4e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Unthinkable
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d399ba369d001340ea70.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Flight 7500
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5ff2ee74eff9b2001a7f5bb0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Special Delivery
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6316baddf1b7001a80d203.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Palabras Encadenadas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748ade6e53d0013675d0b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms All De La Onda Expansiva
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64103a61183a5400136fa8f4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Senda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e565c30400136ada9f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dagon La Secta Del Mar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e182dfa72a5001a5fa5bb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dark Intentions
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3d2fa72a5001a5f79cd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dictado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e1839fa72a5001a5fa6a3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dangerous Lessons
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3d1fa72a5001a5f79ae.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Acoso perfecto
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ce6b82798844001b1957d5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Dead Girl ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad6efae83c950013967c3f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Moebius
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748b9e6e53d00136768be.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Presunta inocencia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6fa694da5ab00130b16b1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fra como un diamante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad6c3abc652100135227b8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Distrito 34: Corrupcin total
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60798062235736001ac4abe4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Stranger In The House
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4b5f0e61f1b1001afedbc6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cuatro vidas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cd8fa72a5001a5fd861.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Shark Shock
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a6ef63cd246001343e17c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La isla de la niebla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eac8cdb45a1001a79504a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ausentes
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479e1cb0324001353e3ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Romasanta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a2ed994a9f0a001394398f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Segundo Nombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6284ad37c514110013494c93.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alpha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479d9cb0324001353e300.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dangerous Company
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3cffa72a5001a5f798f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Past Sins
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4b5f0c61f1b1001afedba9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Miranda de Marc Munden
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead20db45a1001a795340.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Obsession
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f3a2c2aa610001a82fc06.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cries In The Dark
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3cbfa72a5001a5f7955.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Enemy Within
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6316beddf1b7001a80d239.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ghost In The Shell
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6257ea018f17ad0013f6752e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cube
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Crossworlds: entre dos mundos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60057a1e813b2d001b6871ee.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Han llegado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6dd2161b65001a9c2ad9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cdigo fuente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcc142678a50014518e59.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Flight 7500
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5ff2ee74eff9b2001a7f5bb0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Premonicin (Afterwards)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/677e378f170fdf00138fa2ad.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Timeline
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6720cb81af99a50013ad5e7e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Brazil
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b662235736001ac442c1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Capitn Amrica
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e2622833ae001393797d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El final de la cuenta atrs
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b3c306f10014a6a585.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El increble hombre menguante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b8c306f10014a6a624.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fahrenheit 451
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0a812678a50014db53ef.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cdigo 46
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f620804fb35bf001af7bf86.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Amo del Calabozo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636ce7c4bc198f0013381ba8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hijos de Dune
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a309a727df0001a281d6d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Megalodn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa3966a72b000130cc9f2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Shark Shock
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a6ef63cd246001343e17c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",C.H.U.D.
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6393088c753d210014220953.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Titanic II
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/603cf1284d8d87001aaa909f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vampyre Nation
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a705e3cd246001343e2da.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Moebius
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748b9e6e53d00136768be.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Moby Dick 2010
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa3936a72b000130cc99f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tormenta colosal
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/604f890112d561001a4eef76.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Ataque de los Tomates Asesinos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc0f6f05d00135e975e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",San Andreas mega sesmo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6093a2a15cb63f001a15108f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Rey Arturo: El Ascenso de Excalibur
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d394ba369d001340ea00.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",10000 Days
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948bf61f1b1001afec82f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Eclipse Total
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf38d94c1ec0013765b3a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Oceans Rising
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa3916a72b000130cc950.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Return of the Killer Tomatoes!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee52bd65d070014fb1c4f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tentculos de las Bermudas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa38b6a72b000130cc8ae.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Romasanta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a2ed994a9f0a001394398f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La era del maana
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608fa39b6a72b000130cca94.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Freaked. La disparatada parada de los monstruos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6393110af1ac720013bca579.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La maldicin de la bruja del sueo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636a6d891ac5b40013b48c92.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Cuatro Guerreros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d35dba369d001340e5df.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El aparecido
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f96a1a715b9be001ada4daf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Megashark Vs. Kolossus
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/603cf12c4d8d87001aaa9124.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nuclear Hurricane
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ab2fe51e4001aac9ca0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Llamarada solar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929abbfe51e4001aac9cd6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Force of Impact
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac4fe51e4001aac9d27.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tormenta de Lava
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929aa5fe51e4001aac9c15.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Capricornio Uno
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61894441836015001bd072dd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dagon La Secta Del Mar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e182dfa72a5001a5fa5bb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un Trabajo Embarazoso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ce9fa72a5001a5fd9a0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Empire Records
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60780ca8f96a44001a1d815a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La vecina de al lado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a3235736001ac4490d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pars puede esperar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b29e26cc40014b2dad1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Doctor de la Felicidad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655ccb91d68a20001305ac4d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La frmula de la felicidad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65002729f439aa00132c2812.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un hombre solitario
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c66db45a1001a79add1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",New York I Love You
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead37db45a1001a795479.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",50/50
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67e113d1f456458f6cf34e75.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tipos Legales
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b04e26cc40014b2b7e5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Conversaciones con otras mujeres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d2481af97d0100131e0fbc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Life of Brian
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hojas de hierba
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c27db45a1001a79abbb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Wagons East
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d9a0887d70330014d5421e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Diario de un ejecutivo agresivo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654378c1a78f0d001a7ee478.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Planes de boda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67cadb9275fa8457009140c5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Incidencias
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462697a08618001349157a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Atrapamoscas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729fc20321c1900139e5102.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Chaperone
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cddfa72a5001a5fd8b6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Abajo el amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b66b235736001ac443a5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El zapatero
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6729e43d2678a5001418eec6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El hombre que no saba nada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a5235736001ac44939.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Larry Crowne nunca es tarde
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b313e46d9b28853d680239.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Take the Money and Run
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2c072678a500143eebe1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hncame el diente
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a8235736001ac44991.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cambio De Ruta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4801acbab10014b6dcc6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",No Se Si Cortarme Las Venas O Dejarmelas Largas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ad47641390014cb4a9b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Atrapado en un pirado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b686235736001ac4464d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un padre de cuidado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b676235736001ac444b9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Memorias de un hombre invisible
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b68a235736001ac446a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Negocios de familia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b66d235736001ac443d6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Adivina quin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b675235736001ac4448d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Carpool todos al coche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608930e7dfb0ed001b306fc8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un vecino con Pocas luces
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b669235736001ac44379.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Marmaduke
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b685235736001ac44621.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Algo Prestado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/675824d22678a500143c745a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Monte Carlo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637249ef36d64a00145a344a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",They Came Together
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66b33a67b20e790013a49d68.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El cochecito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hiena salvaje
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655cc5f22085480014d22ab2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El balneario de Battle Creek
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655b7a152f9f5b0013e61bf3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hrcules en Nueva York
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8b2c4f90fbf4001aa3ad18.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El hotel de los fantasmas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c75d9b8262d0013a59d46.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bendita Locura
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d39dba369d001340eae4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El super chef
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655cbeea1d1d8e00135eca3f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tres pequeos ninjas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c91ea174b1400143a712e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Creepshow 2
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372298ccea64000135d61d1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Creepshow ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637228ee3416c70013e6c7e6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Querida Elisabeth
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6502c8c53b20050013826194.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El permiso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6502cb92c5645000137ea73a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Seor y Seora Adelman
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fd0cb97a1e0013cb03e9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Jui kuen - El Mono Borracho en el Ojo del Tigre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee25af64f180013aeae5d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Pequea Tienda De Los Horrores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37f94c1ec0013765937.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Freaked. La disparatada parada de los monstruos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6393110af1ac720013bca579.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Solteras Indisponibles
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc527f02fd74a0014cd4a2b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dulce como el amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ce6314f97d0100130e9318.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un asesino muy tico
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b411bd88bc2000134e3da7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mil Cosas Que Hara Por Ti
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1f9ff9e43001a695dfc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Crossworlds: entre dos mundos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60057a1e813b2d001b6871ee.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Viaje a Italia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618263c1b5d0e9001a8ca993.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Andrea y Lorenzo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc5201f39211a001a8b266e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tapas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876af6e26cc40014b2af56.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",All's Faire in Love
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e17f5fa72a5001a5fa1d3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Lotoman 003
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc52758ce9667001a28ebfa.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Dalton Contra Lucky Luke
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eaccbdb45a1001a79515d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Fabulosos M Mejores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc5273c39211a001a8b26f0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nicky Deuce
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948b261f1b1001afec7d0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Manolito Gafotas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748bde6e53d0013676f4d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Todo por un Sueo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6189443d836015001bd072b3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Concursante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6207fcfb35bf001af7bef9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sexo por Compasion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b36e26cc40014b2e9bc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Today's Special
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4b5f1161f1b1001afedc06.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pants On Fire
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f69edb0e4b56900138a1ddc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Aventuras De Moriana
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc526b90983410013db2b2f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Ataque de los Tomates Asesinos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fedcc0f6f05d00135e975e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Return of the Killer Tomatoes!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee52bd65d070014fb1c4f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El roast de Justin Bieber
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa84b2af99a50013dad299.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El roast de Bruce Willis
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa915d1a51490013414b00.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Concursante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6207fcfb35bf001af7bef9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hombre Irracional
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Take the Money and Run
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2c072678a500143eebe1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Johnny Cogi su Fusil
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bffb7ea5e0013f38045.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fahrenheit 451
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0a812678a50014db53ef.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La nuit amricaine
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405e92091e24001321ad2c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Life of Brian
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67405a5ae07f280013146825.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Stromboli (Terra di Dio)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/674058f4e07f280013146425.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Muerte y la Doncella
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bedb7ea5e0013f37c81.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La buena mentira
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcedf8d00c60014803570.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alarma en el expreso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f615c2d6a90013d02a2f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Atormentada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f784112397001480895c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los golfos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Winter's Bone
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618102f8436116001a0bbea1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Y Dios cre la mujer
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655ca86e12fb50001327c407.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Y la nave va
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c7fa724664a0013c0eeef.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El dulce porvenir
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65645a92620638001396e36a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vivir!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655ca9d82f9f5b0013ed3490.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Simple men
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c83de24664a0013c1132f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Si no nosotros quin?
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d4279db8187f00136a40b6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Agua tibia bajo un puente rojo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c94ba174b1400143a74c0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",En un mundo mejor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d2d7c5fad1f80013b31b73.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fausto
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d4279bb8187f00136a3a4c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Unthinkable
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d399ba369d001340ea70.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nader y Simin una separacin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d18625d2de2a001300337c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Pacifista
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628637f494317400134cb3b9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Conversaciones con otras mujeres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d2481af97d0100131e0fbc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Reina Cristina
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad7601a6bb3b001471c4eb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Midiendo el mundo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad6c3dbc65210013522817.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ficcin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861ebea6d5630013068e64.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una vida sencilla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4d3eeb8a3001307b4d8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Adle y el misterio de la momia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6720ccdb18d3ba00135afce2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Marmaduke
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b685235736001ac44621.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Perro al rescate
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b66f235736001ac44406.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Carpool todos al coche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/608930e7dfb0ed001b306fc8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pequeos Invasores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637e1681d6253300132a920b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Beastmaster
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6745dfa2882f6d00132252bc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Leyenda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b67c235736001ac4453d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Donkey Xote
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65c0d362d22ce50014129626.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tres pequeos ninjas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c91ea174b1400143a712e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El ladrn de Shanghai
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a33704827fc001a120671.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Manolito Gafotas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748bde6e53d0013676f4d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La isla misteriosa de Julio Verne
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/654a5d9c91ee7c001ab0fb4f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pants On Fire
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f69edb0e4b56900138a1ddc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Radio Rebel
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948b061f1b1001afec7b3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Chaperone
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cddfa72a5001a5fd8b6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A Second Chance
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e6faedb45a1001a793bd2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Cuatro Guerreros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6299d35dba369d001340e5df.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Alamein - La linea del fuoco
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b35b9ff93e00013ec3cbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Heroes De Las Ardenas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b3b5d8d09180014437db1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",9 De Abril
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4699b20f820013534bbf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Baron Rojo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4804acbab10014b6de8a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Campo Del Honor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496aff93e00013efc953.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Juntos En Combate
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b496dff93e00013efc9c4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Estrella Del Norte
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ad27641390014cb4a29.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tu Y Yo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ad77641390014cb4c5e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Point Man
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b4ada7641390014cb4e1d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El duodcimo hombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67b5b84a5d2668ecc5083e62.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ola
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/679b88b578a22200133892f5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La huella del silencio
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b65d235736001ac44239.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms fuerte que su destino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b665235736001ac44321.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tigerland
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a7235736001ac44965.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fuera de control
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b692235736001ac4476d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Caza de brujas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60795a0af6870e001a5d054d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Distrito 34: Corrupcin total
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60798062235736001ac4abe4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los reyes del mambo tocan canciones de amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60813c96d55d910013f24e90.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Slo ellas... los chicos a un lado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b660235736001ac44291.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La sombra del cazador
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67582a8b091e240013522ebd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hombre Irracional
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67371fe7a7fde5001326babc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Johnny Cogi su Fusil
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bffb7ea5e0013f38045.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Negacin (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673c49ba882f6d0013a70e7c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Picnic at Hanging Rock
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67404979091e240013216a95.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La buena mentira
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/672dcedf8d00c60014803570.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Siempre a tu lado Hachiko
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cccfa72a5001a5fd796.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bolero
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638e0fde42c230013d48fc5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El dulce porvenir
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65645a92620638001396e36a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El ayuda de cmara
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5ff2ee71eff9b2001a7f5b74.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una historia real
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6384a5949112e1001306e6ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vivir!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655ca9d82f9f5b0013ed3490.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Chicos de Scotsboro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861eb7a6d56300130687b2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los golfos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El permiso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6502cb92c5645000137ea73a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Fuerza De Uno
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637e3423eaede800137892c8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hurricane
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fb00203b20050013642af0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",1492: La Conquista del Paraso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e431f576be6001373af90.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Agua tibia bajo un puente rojo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c94ba174b1400143a74c0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Invencible
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1ddb042817b001a8bb1b7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Road
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ce5fa72a5001a5fd945.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Valkiria
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf0fa72a5001a5fda18.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El precio de la verdad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61ea6de2161b65001a9c2c97.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Seor y Seora Adelman
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fd0cb97a1e0013cb03e9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Conversaciones con otras mujeres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d2481af97d0100131e0fbc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Presunta inocencia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6fa694da5ab00130b16b1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Anna Karenina La venganza es el perdn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6426c878fe0679001a24d7dc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La tregua
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eac90db45a1001a795084.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Inocencia rebelde
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b41321bc652100135392bc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",En un mundo mejor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d2d7c5fad1f80013b31b73.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Solo o en compaa de otros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1cb65c30400136ad7c2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El libro del amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60780e20918e16001a517bee.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ali
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b595e8bc6521001354ad16.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un pas en frica
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6a541501aab0013b8d69a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fra como un diamante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad6c3abc652100135227b8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El jorobado de Notre Dame
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/639315374f35ef00136a81b5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Malquerido
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc5256d0dddaf0013b5eeb8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Red
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f71928b6c03610013ac0294.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extra-Terrestres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc52624ce9667001a28eb5f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute: Camina o Revienta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e965c30400136adae4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Way
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876aece26cc40014b29fa8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La decisin de Sophie
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c84ff21e500131cb334.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute II: Maana ser libre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1ec65c30400136adbbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mara Montez
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc5278139211a001a8b270f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mi pie izquierdo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c89ff21e500131cb453.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cowards
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6284ad66c51411001349799f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Dead Girl ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad6efae83c950013967c3f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Loca
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa28c0bb06bf7001ade7bbc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mis dos amores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c16db45a1001a79aac9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Burning Plain
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cdbfa72a5001a5fd899.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una vida sencilla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4d3eeb8a3001307b4d8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Little Fish
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eacc4db45a1001a7950fe.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A Decent Proposal
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6316b8ddf1b7001a80d1e6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las horas del verano
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929abdfe51e4001aac9cf1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dioses y monstruos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e183bfa72a5001a5fa6c0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Si no nosotros quin?
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d4279db8187f00136a40b6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Gran Duelo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e1843fa72a5001a5fa74f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cosecha amarga
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c99ff21e500131cb673.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Con sangre y fuego
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c91ff21e500131cb4f9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ciudadano Kane
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673aff424ad856001349a59d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Best Years of Our Lives
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6745de3da7fde50013c6bacf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Suspicion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2c042678a500143eea35.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Fiera de mi Nia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673afddde103890013db9e17.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Stromboli (Terra di Dio)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/674058f4e07f280013146425.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Matrimonio Original
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0d60882f6d0013934cfc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",They Shoot Horses Don't They?
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f24f9e07f28001302e21b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Seven Days in May
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67404c49c394bf0013b24bd7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Train
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f2395321c19001338047f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Retorno Pasado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bf0b7ea5e0013f37e2c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",King Kong
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bf3b7ea5e0013f37fd7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Posada de Jamaica
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0d5d882f6d0013934c90.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Bishop's Wife
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67449912882f6d0013033945.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms All de la Duda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673afc72091e240013b337a8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Noche del Demonio
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0d58882f6d0013934bba.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Operacin Pacfico
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0a852678a50014db559a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El increble hombre menguante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4b8c306f10014a6a624.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Young and Innocent
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f3ce1321c1900133833d9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bluebeard
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6654637aaf79c70013a139fe.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El doble asesinato en la calle Morgue
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f1e441d4c70014ccfe4f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Atormentada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f784112397001480895c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alarma en el expreso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f615c2d6a90013d02a2f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El cochecito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ministry of Fear
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee257f64f180013aeacd6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Luna Nueva
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6114cd6fdf179f0013199224.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Tercer Hombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf38894c1ec0013765a68.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Hombre del Brazo de Oro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618263c7b5d0e9001a8ca9ef.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Charada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaa9c74755c001a4c9942.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hamlet
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618a26b7f23da3001b149d2e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Informer ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372363436d64a00145a309f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Nieves Del Kilimanjaro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37c94c1ec0013765860.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Pequea Tienda De Los Horrores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/610bf37f94c1ec0013765937.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Prize
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee528d65d070014fb1b4f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Gatopardo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723d3c1ac5b40013b799f0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El hombre de la mancha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/656f0b2824664a00134e690a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Zapatillas Rojas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61894447836015001bd07335.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Copacabana ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637227de1ac5b40013b77697.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Public Enemy ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e37dc36d64a0014593df8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Jorobado de Notre Dame
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee68cf64f180013aeb187.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Oklahoma!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/656f0c8fb8262d001327f168.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Infierno en el Pacfico
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c7b6a21ca0c00136638b1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Thief of Bagdad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fede226b9e3e00137b59c8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Y Dios cre la mujer
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655ca86e12fb50001327c407.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The 39 Steps ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e4322576be6001373aff8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El libro de la selva
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ad71c98ba71d0013ead065.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Santa Fe Trail ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63721fb10888bc001ad6e4ff.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Breve encuentro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6189443a836015001bd0728d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El asesinato de Julio Csar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fed9f03d4f920013a6d96f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Devil's Disciple
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee969020c540013075227.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Adis a las Armas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaae74755c001a4c9b97.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ave del paraso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaa9674755c001a4c9844.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A 45 Minutes de Hollywood
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614d81d7aeae500014d8f4f8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Boeing Boeing ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63721ce4576be60013743650.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A vida o muerte
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61894434836015001bd07239.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tulsa Ciudad de Lucha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61653f16a6e392001bc0a47d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637231fc8515d3001320f3f4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",En Guerra con el Ejrcito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6405a5f8aa6b7900130aba21.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Diez negritos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4feeeb8a3001307b6ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Crnica de un Amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e1828fa72a5001a5fa564.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Number Seventeen ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e431c576be6001373aeb3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ayer Hoy Y Maana
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f562de7f7db51001a3c5ecf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Plein soleil ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e448136d64a0014593ff7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Agchate maldito!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e449936d64a00145940ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Avalancha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637225516089a700137a909e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Duel in the Sun ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372309141c0980014a40d9e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Hitch-Hiker ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372336c9debef0013b5f098.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El seor de las moscas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63930e29a8f5a40013c8a2d9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Naked Kiss ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f90f3593c001aa34dc5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Kansas City Confidential ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637231f98515d3001320f378.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Billy Dos Sombreros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637226c41ac5b40013b7628f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Antes de la Revolucin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637223e9df7dfa001350ae0d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cadenas Rotas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6183d80e54ba66001a6a2ef2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dodsworth ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63722a31cea64000135d6a3f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A Double Life
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63722dc71ac5b40013b77bc1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Ejrcito de las Sombras
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723ea592944d001480aa4c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",South of St. Louis ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637223ecdf7dfa001350ae72.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Il grande silenzio ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723a72fc0c0b0013b5ffd7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Da de la Ira
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372390ddf7dfa001350daaa.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Legend of the Lost ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637225546089a700137a911a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Forajido
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614d81e8aeae500014d8f73f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un cubo de sangre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c97ff21e500131cb61c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Stranger NYX ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61668aa1b8333a001ad6170d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Gran McLintock!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaac474755c001a4c9daf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Meet John Doe ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f7cf3593c001aa34b25.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cyrano de Bergerac
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4d8eeb8a3001307b506.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El sureo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4ddeeb8a3001307b534.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bodas Reales
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaac974755c001a4c9eb9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Mayor Atraco Frustrado del Oeste
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a052e6cb032400134d7434.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Carroza De Oro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a052d5cb032400134d5f20.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La dinasta del petrleo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61bb4804b3ddda00136929f1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ltima vez que vi Pars
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f8bf3593c001aa34d43.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Lost World ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f8df3593c001aa34d86.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los peligros de la gloria
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaadd74755c001a4ca1a0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cara de mueca
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaa574755c001a4c9a2b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vengeance Valley ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaafd74755c001a4ca580.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El beso de la muerte
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaae674755c001a4ca271.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Rain ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f7ef3593c001aa34b80.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Whistle Stop ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617281e200d95f001a3bc609.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Great Flamarion ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f85f3593c001aa34c2d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Woman on the Run ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eab0074755c001a4ca5bb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Solo Ante el Peligro
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0d5b882f6d0013934c27.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Horse Soldiers
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673f27ccb7ea5e00132dfc75.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Rio Grande
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/67404ae4e103890013151cf8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Jonny Guitar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0d52882f6d00139349a2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Busca tu refugio
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f351af79c700138e6dea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Da de la Ira
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372390ddf7dfa001350daaa.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Camino de Oregn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f77a11239700148086e3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Descanse en paz (Requiescant)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f348af79c700138e6ad5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Serenity
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",End Of A Gun
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685293c7f50b9615cccd9090.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Camino de la venganza
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f618c2d6a90013d02bb3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Barbarosa
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638df913b5b1000147bcae3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Caza al sol
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f4adc306f10014a6a38e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",3:10 to Yuma
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e17f1fa72a5001a5fa195.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Duel in the Sun ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372309141c0980014a40d9e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Agchate maldito!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e449936d64a00145940ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Gran McLintock!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaac474755c001a4c9daf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Shepherd of the Hills
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee3b9cecd3f001332173d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Santa Clara
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/602266353db1af001c821559.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Gran Duelo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e1843fa72a5001a5fa74f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Forajido
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614d81e8aeae500014d8f73f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El virginiano
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e184bfa72a5001a5fa7de.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Da de los Forajidos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e37de36d64a0014593ed3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ruta de Denver
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655b7a112f9f5b0013e61af9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Coraje de mujer
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655b5c8d12fb500013177dee.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Proud Rebel ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617281df00d95f001a3bc546.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ride in the Whirlwind ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e448436d64a0014594072.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Billy Dos Sombreros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637226c41ac5b40013b7628f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Juan Colorado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa28b82fdb601001af137b8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Americano
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee959020c540013074ced.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La dinasta del petrleo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61bb4804b3ddda00136929f1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Santa Fe Trail ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63721fb10888bc001ad6e4ff.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Dalton Contra Lucky Luke
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4eaccbdb45a1001a79515d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Wagons East
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60d9a0887d70330014d5421e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Il grande silenzio ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63723a72fc0c0b0013b5ffd7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",South of St. Louis ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637223ecdf7dfa001350ae72.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Mayor Atraco Frustrado del Oeste
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a052e6cb032400134d7434.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vengeance Valley ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaafd74755c001a4ca580.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Painted Desert ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61640f92f3593c001aa34dec.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Oklahoma!
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/656f0c8fb8262d001327f168.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La vecina de al lado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b6a3235736001ac4490d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Devulveme mi suerte
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b67a235736001ac44511.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El sueo de una noche de verano
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b655235736001ac4417d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La excepcin a la regla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b694235736001ac4479d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pequeo Manhattan
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b67f235736001ac44595.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Breaking Up
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60b8a0d07a53cd0014844b6f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Seduccin a la carta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b698235736001ac447fd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ms fuerte que su destino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b665235736001ac44321.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Abajo el amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b66b235736001ac443a5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Monte Carlo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/637249ef36d64a00145a344a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Siete das y una vida
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6076b67d235736001ac44569.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bellas Criaturas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6761a171381eea0013640bd3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Algo Prestado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/675824d22678a500143c745a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El velo pintado
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735c484b7ea5e0013a68055.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los los de Gray
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6735dc77b7ea5e0013a6b8e6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El jorobado de Notre Dame
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/639315374f35ef00136a81b5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",They Came Together
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66b33a67b20e790013a49d68.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mia Sarah
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6646267ca086180013490df9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",New York I Love You
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead37db45a1001a795479.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mis dos amores
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c16db45a1001a79aac9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La frmula de la felicidad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65002729f439aa00132c2812.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una novia muy especial
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f7192786c03610013ac0146.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Agua tibia bajo un puente rojo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c94ba174b1400143a74c0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un Trabajo Embarazoso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ce9fa72a5001a5fd9a0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Anna Karenina La venganza es el perdn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6426c878fe0679001a24d7dc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Seor y Seora Adelman
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64d1fd0cb97a1e0013cb03e9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nunca es tarde para enamorarse
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c1adb45a1001a79ab0b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un amor de verano
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ce68b2798844001b194615.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Conversaciones con otras mujeres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d2481af97d0100131e0fbc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Unidos por el destino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ceefa72a5001a5fd9f7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El amor y otros desastres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f929ac7fe51e4001aac9d42.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mi ex mi novia y yo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead1bdb45a1001a795306.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Luna oculta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f71928e6c03610013ac02ca.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Una pizca de amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63ce6a1a5b790200141046d3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",4 Wedding Planners
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948c261f1b1001afec84a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Papita Man Tostn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc527acce9667001a28ec11.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un pas en frica
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b6a541501aab0013b8d69a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cosecha amarga
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c99ff21e500131cb673.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",De nuevo el amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f523c24db45a1001a79ab81.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Today's Special
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4b5f1161f1b1001afedc06.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Amanece En Edimburgo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e17f7fa72a5001a5fa1f0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nadie es perfecto
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ead2edb45a1001a795422.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pars puede esperar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b29e26cc40014b2dad1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un toque de seduccion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5ce8fa72a5001a5fd983.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sweet Home Carolina
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e6f95db45a1001a793bae.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Con sangre y fuego
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c91ff21e500131cb4f9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El que caminaba solo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60cc7c62529bee00141df80f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dance-Off
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3cdfa72a5001a5f7970.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Before You Say I Do
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4948ab61f1b1001afec779.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Agentes del amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/60b88a10e97de800133dd529.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",All's Faire in Love
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e17f5fa72a5001a5fa1d3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",When Sparks Fly
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4b5f0f61f1b1001afedbe3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Amor A Primera Visa
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e17fdfa72a5001a5fa264.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A Second Chance
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e6faedb45a1001a793bd2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Golden Christmas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4b5f0861f1b1001afedb6d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",3 Times A Charm
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6316c1ddf1b7001a80d277.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Christmas Mail
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3c5fa72a5001a5f7919.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Amor en pleno vuelo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7c0b9e2a3e1001a7c5a2e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Princesa De Invierno
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d67eda79dde00142005ab.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mensaje De Amor En Una Botella
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/660d6952a79dde00142006b4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Juego asesino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63d7b6fd5957f2001315ff13.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Plein soleil ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e448136d64a0014593ff7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Muerte y la Doncella
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/673b0bedb7ea5e0013f37c81.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Voces en la noche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4f5cf2fa72a5001a5fda3b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fear X
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/655c77322f9f5b0013eca968.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Hitch-Hiker ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6372336c9debef0013b5f098.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ausentes
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479e1cb0324001353e3ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bluebeard
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6654637aaf79c70013a139fe.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ministry of Fear
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64fee257f64f180013aeacd6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Woman on the Run ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eab0074755c001a4ca5bb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Casa Roja
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaaf374755c001a4ca3f8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Palabras Encadenadas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748ade6e53d0013675d0b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El doble asesinato en la calle Morgue
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6638f1e441d4c70014ccfe4f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cube
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61dec514635aeb001ac7d706.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Apariencias
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64106a315d300f001323be52.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Un cubo de sangre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62384c97ff21e500131cb61c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dark Intentions
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4ab3d2fa72a5001a5f79cd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El malvado Zaroff
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dda942817b001a8bb0fb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Senda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e565c30400136ada9f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alpha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479d9cb0324001353e300.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Diez negritos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61a4a4feeeb8a3001307b6ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Public Enemy ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e37dc36d64a0014593df8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sherlock Holmes: Terror en la Noche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaacf74755c001a4ca03f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sherlock Holmes: El Arma Secreta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/615eaad274755c001a4ca08e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sherlock Holmes
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6166d4364f409e001a473204.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Archivos Gubernamentales de OVNIs Desclasificados
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2998f93268001393c322.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Accidente OVNI en Roswell
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ecdc3fe060c0013f61a67.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres en la URSS
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b92fa2a6001001a569079.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Roswell: La Verdad No Revelada ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540ca858026ff001af4e886.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Proyecto Serpo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7fc725fde2001a8f3a3b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hopkinsville: Los Duendes Extraterrestres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f71fc727df0001a9b744e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Encubrimientos y Conspiraciones: El Globo Espa Chino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7ff005bcdf001abfd574.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Incidente del Lago Falcon
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6af13e6938001a752343.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Base De Dulce: Los Nuevos Illuminati
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f698e4827fc001ab99583.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres Ancestrales: El Origen de la Humanidad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6c5e727df0001a9b7074.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Batalla OVNI de Los ngeles
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b921b3e6938001a521e93.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Testigos: Encuentros con Antiguos Aliengenas ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540c9333e6938001a81ae3a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres entre Nosotros: La Teora de Michael Wolf
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b803da61c2a001b8e0a0f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cazadores De Ovnis: Los Uflogos Italianos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b801191ee7c001a35afb9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cazadores De Ovnis II: Cuentos del Universo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b7f99727df0001a5fec08.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cclope Extraterrestre: El Extraordinario Caso de la Sagrada Familia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6af73e6938001a7524a3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Linda Napolitano: La Abduccin Aliengena del Siglo ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540ca818026ff001af4e789.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres Subterrneos Baba Vanga y Biologa Cuntica
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6f293e6938001a752758.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ingenieros Extraterrestres
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6540c649727df0001ab098e2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres de las Profundidades
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f71f9727df0001a9b7381.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Abduccin de las Colinas: El Incidente Zeta Reticuli
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6828e2a2d8001aefdbd9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Avistamientos Masivos de Extraterrestres: La Verdad Innegable
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f69954827fc001ab997e5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres contra la Guerra Nuclear: Edgar Mitchell
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6f2c3e6938001a752847.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Desde el Hombre Polilla hasta los Reptilianos: Una gua de especies aliengenas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f6af53e6938001a752436.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fotografas Autnticas de un Extraterrestre: El Caso Caponi
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653f71ff727df0001a9b753d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A Haunting in Georgia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65563672939c4b001ac06f1a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",A Haunting in Connecticut
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/65563689d193e8001bccc26c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Asesinado Mientras Caminaba a Casa
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ecf626cfe00130e764c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Doctor Asesino: El Caso de Harold Shipman
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617cf4fe060c0013156d44.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Caso de Madeleine McCann
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665ec9f8626cfe0013fc0990.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Finding Oscar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f757a3d959dbf001a847e74.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Estrategia del Silencio
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f7eeeac72d139001a18f487.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Ocaso de la Yakuza
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f7eeeb072d139001a18f4c1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El cochecito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los golfos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Solo o en compaa de otros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1cb65c30400136ad7c2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Concursante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6207fcfb35bf001af7bef9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tapas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876af6e26cc40014b2af56.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute: Camina o Revienta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e965c30400136adae4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ausentes
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479e1cb0324001353e3ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute II: Maana ser libre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1ec65c30400136adbbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cowards
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6284ad66c51411001349799f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vilas y sus dobles ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aac41c0980014a39174.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alpha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479d9cb0324001353e300.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Marcelino el mejor payaso del mundo ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6358f9e16089a7001371406a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Reset ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aa941c0980014a39107.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ficcin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861ebea6d5630013068e64.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Senda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e565c30400136ada9f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Segundo Nombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6284ad37c514110013494c93.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Romasanta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a2ed994a9f0a001394398f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sexo por Compasion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b36e26cc40014b2e9bc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dagon La Secta Del Mar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e182dfa72a5001a5fa5bb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Roast de Santiago Segura: "Amiguetes los justos"
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa8bd51a51490013413da2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Roast de Santiago Segura: "Amiguetes los justos"
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66fa8bd51a51490013413da2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Incidencias
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66462697a08618001349157a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tapas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876af6e26cc40014b2af56.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Concursante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f6207fcfb35bf001af7bef9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute: Camina o Revienta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e965c30400136adae4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Lute II: Maana ser libre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1ec65c30400136adbbd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cowards
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6284ad66c51411001349799f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Manolito Gafotas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/628748bde6e53d0013676f4d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El cochecito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661d220c0fb7c10013c9118d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los golfos
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/661be2cdb4334b00130f837f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alpha
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479d9cb0324001353e300.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ausentes
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62b479e1cb0324001353e3ea.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Mia Sarah
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6646267ca086180013490df9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ficcin
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62861ebea6d5630013068e64.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Senda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1e565c30400136ada9f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Segundo Nombre
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6284ad37c514110013494c93.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vilas y sus dobles ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aac41c0980014a39174.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Marcelino el mejor payaso del mundo ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6358f9e16089a7001371406a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Reset ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aa941c0980014a39107.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Romasanta
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a2ed994a9f0a001394398f.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Sexo por Compasion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b36e26cc40014b2e9bc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Solo o en compaa de otros
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62a9e1cb65c30400136ad7c2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dagon La Secta Del Mar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4e182dfa72a5001a5fa5bb.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bruce Willis: Hroe Todo Americano
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617ece626cfe00130e75dd.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Espa que Amo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d3917da09001a8fdb38.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Eastwood
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d4954afb6001a9d8294.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hijos de Tesla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614aee9faeae500014d86bf0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Cid La Leyenda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dd9942817b001a8baf8e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Amy Winehouse & Me: Dionne's Story
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6602ecc946b9c600132c1c07.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Da Que Muri La Estrella del Rock: Amy Winehouse
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1d812833ae00135ec075.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Extraterrestres en la URSS
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/653b92fa2a6001001a569079.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vigilante
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d275348f4001aec13ef.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Lagerfeld El Kaiser de la Moda LT
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d0c662d03001b521790.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Gustavo Cisneros: Sin Descanso
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/650beb3e6930bb0013740f74.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Nosotros fuimos a la misin Apolo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614072102b6fc0001451fb69.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Locos por Madonna
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d565348f4001aec1555.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vida Tras Las Estrellas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614aeebad982620013bbf19d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Royal Jewels
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/631b20497a42340013eb9c69.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Astro-turismo sentir el universo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/630ddcf7c38c53001332aaa3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Gaud en la Catedral de Mallorca. El Obispo el Arquitecto y el Baldaquino
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/630ddd00c38c53001332ac8c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Telaraa: El Segundo Imperio Britnico
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1fbff9e43001a695e17.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Ocaso de la Yakuza
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f7eeeb072d139001a18f4c1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Katherine Johnson: Un Valor Atpico
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614071ef73f7ab0013a92eb5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Arangol
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc5203bce9667001a28eb4c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Yo Soy La Salsa
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fc5282d39c1c5001ac39a2d.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Tastil la majestuosa ciudad del siglo XIV
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6318ddf837c5800013b8a478.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El hombre que quiso ser Segundo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d35505332160013379500.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vilas y sus dobles ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aac41c0980014a39174.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Marcelino el mejor payaso del mundo ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6358f9e16089a7001371406a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Carnaval de las dos Orillas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/630ddcfac38c53001332ab78.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fanarqua
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614aee7172d3a200132b825b.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Kate A Young Queen in Waiting
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/631b397790490b00141aa866.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Fallas el Festival del Fuego
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/630ddcfdc38c53001332ac02.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Per milenario la historia inexplorada
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0386879ba2f001a9ea9ad.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Grizzly Man
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/627379c273a0a1001451f581.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alas para la historia el rescate de un mito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0386e79ba2f001a9eaa83.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Joya y los gerreros de la niebla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0389b79ba2f001a9eaf5a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ruta Moche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0387279ba2f001a9eaad4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Alas Verdes del Dragn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61eed76d0a7fe8001a1474ac.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Finding Oscar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f757a3d959dbf001a847e74.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Arbol de Len
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617fe9d1550c2c001a27a991.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Estrategia del Silencio
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f7eeeac72d139001a18f487.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Los Osos Grizzly
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617fe9ce550c2c001a27a8da.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cuba Wild Island of the Caribbean
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1ffff9e43001a695e30.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Wild Mongolia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f818f267ecf48001a337067.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Mundo Rosa de Barbie
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/66617b11c0b6d50014e41e43.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Aute Retrato
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d354d5332160013379489.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El ltimo guion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d35535332160013379573.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Verdadero Oppenheimer
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/665f2d5ea2d475001457c216.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hitler: La Creacin de un Monstruo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6662b5928ea0be0013212358.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Da Que Muri La Estrella del Rock: Amy Winehouse
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1d812833ae00135ec075.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",conos de Nuestra Era: Che Guevara
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1c14b978550013f8d7a6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",conos de Nuestra Era: Marilyn Monroe
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1ee1af79c700136f8c19.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Verano del Amor
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664f1675bec25d0013087edf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Valle de Las Lgrimas
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664c69a72833ae0013417130.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Cid La Leyenda
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c1dd9942817b001a8baf8e.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Time Capsule 69
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d1a54afb6001a9d81e9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hijos de Tesla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/614aee9faeae500014d86bf0.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Kate A Young Queen in Waiting
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/631b397790490b00141aa866.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Olimpiadas de Hitler
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/664c65654d780d0013758299.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La ruta Moche
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0387279ba2f001a9eaad4.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Las Alas Verdes del Dragn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61eed76d0a7fe8001a1474ac.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Royal Jewels
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/631b20497a42340013eb9c69.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Vilas y sus dobles ES
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/636e3aac41c0980014a39174.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El hombre que quiso ser Segundo
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d35505332160013379500.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Telaraa: El Segundo Imperio Britnico
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1fbff9e43001a695e17.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",La Joya y los gerreros de la niebla
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0389b79ba2f001a9eaf5a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Alas para la historia el rescate de un mito
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0386e79ba2f001a9eaa83.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Aute Retrato
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d354d5332160013379489.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El ltimo guion
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/633d35535332160013379573.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",El Arbol de Len
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/617fe9d1550c2c001a27a991.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cuba Wild Island of the Caribbean
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1ffff9e43001a695e30.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Wild Mongolia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f818f267ecf48001a337067.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Rain Forest semillas de selva
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0388a79ba2f001a9eadde.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Aprendiendo el juego de la vida
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/61c0389f79ba2f001a9eafdf.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Viaje a Italia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/618263c1b5d0e9001a8ca993.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Pars puede esperar
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876b29e26cc40014b2dad1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Way
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/62876aece26cc40014b29fa8.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Wild Mongolia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f818f267ecf48001a337067.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Cuba Wild Island of the Caribbean
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5fa3e1ffff9e43001a695e30.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Contraataque 2022
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/647f421e649e97001baaaf33.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Puntapi
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/64802d6291275e001a38b0d6.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Desde Las Gradas Pel
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/63b2946e501aab0013b6c2fe.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Hydro Soul (2017)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479dfb06bf7001adbe6b9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Chasing the Storm
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479b807ce43001307fc4c.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Desde Las Gradas: Maradona
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/647f419c662d03001b48c312.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",1000 Waves to Surfing Glory (2013)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4637748e4fda001a5bed25.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Surf One (2017)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f847a1f740902001a94f2ce.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Speed and Mayhem Down Under
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479fe7f692c001a4dd212.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The Zone (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f847987377682001a5842dc.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",The White Album
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479563bd42e001ac614a9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",AfterGlow
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f847ab272d139001a196a70.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dezert People 13 (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4635b53a6a110013c956f2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Dirty Old Wedge (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4635c363683d00138bae84.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Way of the Ocean: Australia
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4638dd2aa610001a8247b7.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Followcam 7 (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f847b13dada31001ad9be2a.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Bikes Over Baghdad
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4635e5bbff270013bc73c9.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Surfing Presents Du Ciel (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f46379e9dd795001ab50d03.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Children of the Wind (2013)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f46370f9dd795001ab50cf2.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Braaap 16 Over the Edge (2016)
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4636de8e4fda001a5becff.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Burn
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479a0652fb5001add58b5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS PLUTO",Ghost In The Shell
+https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6257ea018f17ad0013f6752e.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Atena (2025)
+https://pomf2.lain.la/f/duegk7w9.mp4
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Terreno elevado (2025)
+https://pomf2.lain.la/f/2y9x5848.mp4
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Tee Yai Nacido para el crimen (2025)
+https://pomf2.lain.la/f/rh3oafiw.mp4
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",El caballero (2025)
+https://pomf2.lain.la/f/e2uwp5l1.mp4
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",El Intermediario (2025)
+https://dl.dropbox.com/scl/fi/ufzg6rufrti6cf13btibb/fisica.mp4?rlkey=uf4hhdl9yplezcdy7m5g2l2x2&st=yav2gc8f&dl=0
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Venganza justificada (2025)
+https://pomf2.lain.la/f/wqb7cxbw.mp4
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Una batalla tras otra (2025)
+https://dl.dropbox.com/scl/fi/srmvwqynt5tszzszqlypk/f-sica.mp4?rlkey=zsos8mndm2ivsn6ggh905jwpq&st=j3t98swf&dl=0
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Juego sucio (2025)
+https://pomf2.lain.la/f/5pukrgyk.mp4?download=1
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",G20(2025)
+https://1a-1791.com/video/fww1/db/s8/2/5/U/S/D/5USDy.aaa.mp4
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",El Apocalipsis de san Juan (2024)
+https://dl.dropbox.com/scl/fi/6zqgyq6xn2en1w41d2t2u/BFLIXjuanspo.mp4?rlkey=omjmnlz7ma15fg3pj15v85ivl&st=43g17p6k&dl=0
+#EXTINF:0 tvg-id="ext" group-title="PELICULAS MP4",La pasin de cristo
+https://dl.dropbox.com/scl/fi/3d9shkr7wlhm14gyda5ff/La-Pasin-de-Cristo-2004-720p-DUAL-865.23-MB.mkv?rlkey=c60zf58p8ca0iou7pi4ld5tpm&st=pbv0zq83&dl=0
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Los milagros del cielo
+https://dl.dropbox.com/scl/fi/vxb7epv7g99vibtlaj7rv/1332x720-Los-milagros-del-cielo.mp4?rlkey=41yu6yunxmuless34az8ln7q1&st=z1zazeka&dl=0
+#EXTINF:0 tvg-id="ext" group-title="PELICULAS MP4",Dios no est muerto
+https://dl.dropbox.com/scl/fi/qrm34yzd2lculqcvurnxy/Dios-No-Esta-Muerto-2014-HD-720p.mkv?rlkey=wv4em72rq0ye0kpgabe7tv9sg&st=eoiw8k91&dl=0
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Dios no est muerto 2
+https://dl.dropbox.com/scl/fi/3klejyd4bgwr87f071vl0/Dios-no-est-muerto-2-2016-1080p-Latino-SD.mp4?rlkey=r6gyaru90rzfct89xf6tok7y0&st=iygyg8pj&dl=0
+#EXTINF:0 tvg-id="ext" group-title="PELICULAS MP4",Dios no est muerto 3
+https://dl.dropbox.com/scl/fi/yhltmz0ua7j5lf4m4zns0/Dios-No-Est-Muerto-3-2018-HD-720p.mkv?rlkey=rws6fdbd54fspc56uwiblouz7&st=fygdvk7z&dl=0,
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Dios no est muerto 4
+https://dl.dropbox.com/scl/fi/l48tinkvncf80e1eepgyy/DIOS-NO-ESTA-MUERTO-4-HD-SUB-LATINO-HD.mp4?rlkey=4xj2bmqovq4isdm09tquqx7zp&st=anr0g0lw&dl=0
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",La ltima tentacin de cristo
+https://dl.dropbox.com/scl/fi/ja2ggfnl1m6ny50f4d1hs/La.Ultima.Tentacion.de.Cristo.-1988-.1080p.latino-SD.mp4?rlkey=tx1andb103lcd06k577o76dqc&st=239nro4n&dl=0
+#EXTINF:0 tvg-id="avi" group-title="PELICULAS MP4",Milagro azul
+https://dl.dropbox.com/scl/fi/dmc6088jko8dd6lm95uuk/92992-ab2fd997-6a93-4702-a373-f0d42e224ee0-aknc-875975-doodstream.mp4?rlkey=uggavv1h05f3m3952noi1c1hd&st=a7vewq2v&dl=0
+
