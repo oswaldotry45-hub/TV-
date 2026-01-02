@@ -55,7 +55,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/255bc08184cf3fab0f32b920ef9fa7fbbdc671a840d64c9050fa2f2e65f8a686.png" group-title="ECUADOR", ECOTEL 
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&amp;rebase=on
-#EXTINF:0  group-title="ECUADOR", RED TVE VENTANAS
+#EXTINF:0 group-title="ECUADOR", RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png", group-title="ECUADOR", TVPJ
 https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&amp;rebase=on
@@ -77,7 +77,7 @@ https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="RUNTIME TV", RUNTIME CLÁSICOS
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-#EXTINF:0," group-title="RUNTIME TV", RUNTIME TRASH
+#EXTINF:-1 "group-title="RUNTIME TV", RUNTIME TRASH
 https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUNTIME TV", SANGRE FRIA
 https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
@@ -111,7 +111,7 @@ https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist.m3u8
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="FREE TV", FreeTV Asia
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
-#EXTINF:0," group-title="TV PELICULAS", MILENIO TV
+#EXTINF:-1 group-title="TV PELICULAS", MILENIO TV
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/42ee7ce6165d5342be3e509f0afe5048/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562598895_ROKU-Clasicos-InfoHUD-1.png" group-title="CANELA TV", Canela.TV Clásicos
 https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8
@@ -131,11 +131,11 @@ https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8
 https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b015fcbafb496320954672321e746f8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347842585_LOGO_Todocine_Roku_HUD-verticalRoxannaTork.png" group-title="CANELA TV", Todo Cine
 https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
-#EXTINF:0," group-title="SONY ONE HITS", SONY CINE
+#EXTINF:-1 group-title="SONY ONE HITS", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:0," group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
+#EXTINF:-1 group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="SONY ONE HITS", SONY ONE  HITS ACCION
+#EXTINF:0 group-title="SONY ONE HITS", SONY ONE  HITS ACCION
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title= "SONY ONE HITS", SONY ONE  SERIES THRILLER
 https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
@@ -157,13 +157,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
-#EXTINF:0," group-title="SONY ONE HITS", CINE FEEL GOOD VERDI
+#EXTINF:0 group-title="SONY ONE HITS", CINE FEEL GOOD VERDI
 https://is.gd/8r7Ezz/Users/oswaldotry45/3D%20Objects/master.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
-https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", AMC
+#EXTINF:-1 group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
+https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?sd=10&amp;rebase=on#EXTINF:-1"group-title="TV PELICULAS", AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0," group-title="TV PELICULAS", AMC
+#EXTINF:-1 group-title="TV PELICULAS", AMC
 http://181.13.252.102:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC
 http://45.71.38.3:8010/play/a02o/index.m3u8
@@ -171,7 +170,7 @@ http://45.71.38.3:8010/play/a02o/index.m3u8
 http://45.71.38.3:8010/play/a0cj/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC HD
 http://45.71.38.3:8010/play/a054/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", A&E
+#EXTINF:0 group-title="TV PELICULAS", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", A&E
 http://45.71.38.3:8010/play/a04k/index.m3u8
@@ -185,13 +184,13 @@ http://45.71.38.3:8010/play/a02m/index.m3u8
 http://45.71.38.3:8010/play/a0j7/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN HD
 http://45.71.38.3:8010/play/a07s/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", ATRESPLAYER 
+#EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
 http://177.234.230.206:8011/play/a0pe/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", ATRESPLAYER 
+#EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", AXN
+#EXTINF:0 group-title="TV PELICULAS", AXN
 http://181.13.252.102:8000/play/a05f/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
+#EXTINF:0 group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="DOCUMENTALES", Animal Planet
 http://45.71.38.3:8010/play/a04m/index.m3u8
@@ -199,7 +198,7 @@ http://45.71.38.3:8010/play/a04m/index.m3u8
 http://45.71.38.3:8010/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PELICULAS", BOM CINE
 http://176.65.146.237:8401/play/a09d/index.m3u8
-#EXTINF:0," group-title="CANELA TV", BUTACA TV
+#EXTINF:0 group-title="CANELA TV", BUTACA TV
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist_1920x1080.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS XTRA USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -211,29 +210,29 @@ http://200.59.188.3:8000/play/a0cm
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:0  group-title="CANELA TV", CANELA TV CLASICOS
+#EXTINF:0 group-title="CANELA TV", CANELA TV CLASICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:0  group-title="TV PELICULAS", CINE ROMANTICO
+#EXTINF:0 group-title="TV PELICULAS", CINE ROMANTICO
 http://200.59.188.3:8000/play/a0i0?network_id=656
-#EXTINF:0," group-title="CANELA TV", CANELA CINEMA
+#EXTINF:0 group-title="CANELA TV", CANELA CINEMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="CANELA TV", PELIMEX PELICILAS MEXICANAS
+#EXTINF:0 group-title="CANELA TV", PELIMEX PELICILAS MEXICANAS
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", +CINE CLASSIC
+#EXTINF:0 group-title="TV PELICULAS", +CINE CLASSIC
 http://190.211.163.19:9999/play/a0fj?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", Cine Latino
 http://45.71.38.3:8010/play/a07l/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Cinecanal HD
 http://45.71.38.3:8010/play/a0j4/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", CINECANAL
+#EXTINF:0 group-title="TV PELICULAS", CINECANAL
 http://177.234.230.206:8011/play/a0oe/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", Cinemax
 http://45.71.38.3:8010/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Cinemax HD
 http://45.71.38.3:8010/play/a0bx/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", CINEMAX
+#EXTINF:0 group-title="TV PELICULAS", CINEMAX
 http://181.13.252.102:8000/play/a04s/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", CINE STELAR
+#EXTINF:0 group-title="TV PELICULAS", CINE STELAR
 http://177.234.230.206:8011/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", City TV
 http://45.71.38.3:8010/play/a08c/index.m3u8
@@ -243,7 +242,7 @@ http://45.71.38.3:8010/play/a0gi/index.m3u8
 https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", COSMOS
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:0," group-title="TV PELICULAS", CANAL STV
+#EXTINF:0 group-title="TV PELICULAS", CANAL STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", CINE PREMIUN
 http://177.234.230.206:8011/play/a0a5/index.m3u8
@@ -293,7 +292,7 @@ http://201.217.246.177:8000/play/a02r/index.m3u8
 http://66.102.120.18:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
-#EXTINF:0," group-title="TV PELICULAS",EXTREMA TV 
+#EXTINF:0 group-title="TV PELICULAS",EXTREMA TV 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2000635494.m3u8
 #EXTINF:-1 group-title="DEPORTES", ECDF SD
 http://177.234.230.206:8011/play/a0t9/index.m3u8
@@ -401,9 +400,9 @@ http://45.71.38.3:8010/play/a0ep/index.m3u8
 http://45.71.38.3:8010/play/a017/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN USA +
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:0," group-title="ECUADOR", FRECUENCIA MUSICAL TV
+#EXTINF:0 group-title="ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", FX
+#EXTINF:0 group-title="TV PELICULAS", FX
 http://177.234.230.206:8011/play/a0k5/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="DEPORTES", Fox Sports HD
 http://45.71.38.3:8010/play/a0jz/index.m3u8
@@ -415,15 +414,15 @@ http://45.71.38.3:8010/play/a0k2/index.m3u8
 https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8?sd=10&rebase=on
 #EXTINF:0," group-title="TV PELICULAS", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", GEN TV
+#EXTINF:0 group-title="TV PELICULAS", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:0," group-title="TV PELICULAS", GOLDEN PREMIER
+#EXTINF:0 group-title="TV PELICULAS", GOLDEN PREMIER
 http://45.71.37.196:8010/play/a0im/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", HMTV HD 
+#EXTINF:0 group-title="TV PELICULAS", HMTV HD 
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", HBO +
+#EXTINF:0 group-title="TV PELICULAS", HBO +
 http://38.250.119.233:4444/play/a0a4/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", HBO 2
+#EXTINF:0 group-title="TV PELICULAS", HBO 2
 http://38.250.119.233:4444/play/a02t/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", HBO
 http://200.59.188.3:8000/play/a03r?sd=10&amp;rebase=on
@@ -431,7 +430,7 @@ http://200.59.188.3:8000/play/a03r?sd=10&amp;rebase=on
 http://200.59.188.3:8000/play/a06o?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", HBO XTREME
 http://200.59.188.3:8000/play/a0t5?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
+#EXTINF:0 group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&amp;rebase=on
 http://45.71.38.3:8010/play/a00v/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", LIGA ESPAñOLA
@@ -442,13 +441,13 @@ http://45.186.106.220:5550/play/a051/index.m3u8?sd=10&rebase=on
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png" group-title="DEPORTES", La 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
-#EXTINF:0," group-title="RAKUTEN TV", MY TIME MOVIE NETWORK
+#EXTINF:0 group-title="RAKUTEN TV", MY TIME MOVIE NETWORK
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0," group-title="TV PELICULAS", ORBIT TV
+#EXTINF:0 group-title="TV PELICULAS", ORBIT TV
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", PARAMOUNT NETWORK
+#EXTINF:0 group-title="TV PELICULAS", PARAMOUNT NETWORK
 http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", PLANETA TV
+#EXTINF:0 group-title="TV PELICULAS", PLANETA TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL
 http://45.71.38.3:8010/play/a07a/index.m3u8
@@ -458,9 +457,9 @@ http://45.71.38.3:8010/play/a0jd/index.m3u8
 http://45.71.38.3:8010/play/a04t/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", STAR Channel
 http://45.71.38.3:8010/play/a0ih/index.m3u8
-#EXTINF:0,S" group-title="TV PELICULAS", STAR CHANNEL
+#EXTINF:0 group-title="TV PELICULAS", STAR CHANNEL
 http://181.13.252.102:8000/play/a079/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", SPACE
+#EXTINF:0 group-title="TV PELICULAS", SPACE
 http://45.71.37.196:8010/play/a00d/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="DEPORTES", SKY SPORTS LA LIGA |ESPAÑA|
 http://103.111.40.242:9999/play/a00d/index.m3u8?sd=10&amp;rebase=on
@@ -474,13 +473,13 @@ http://45.71.38.3:8010/play/a08q/index.m3u8
 http://45.71.38.3:8010/play/a04z/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Sun Channel HD
 http://45.71.38.3:8010/play/a0js/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", SOMOS DEL ESTE TV
+#EXTINF:0 group-title="TV PELICULAS", SOMOS DEL ESTE TV
 http://177.234.230.206:8011/play/a0p5/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", TCM
 http://45.71.38.3:8010/play/a03x/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", TODO CINE
+#EXTINF:0 group-title="TV PELICULAS", TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:0," group-title="TV PELICULAS", TNT
+#EXTINF:0 group-title="TV PELICULAS", TNT
 http://191.52.214.5:8000/play/a024/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", TNT Series HD
 http://45.71.38.3:8010/play/a0jh/index.m3u8
@@ -517,15 +516,15 @@ http://45.71.38.3:8010/play/a05o/index.m3u8
 http://45.71.38.3:8010/play/a0id/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Universal
 http://45.71.38.3:8010/play/a07j/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", UNIVERSAL CINEMA
+#EXTINF:0 group-title="TV PELICULAS", UNIVERSAL CINEMA
 http://177.234.230.206:8011/play/a0dn/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", UNIVERSAL CHANNEL
+#EXTINF:0 group-title="TV PELICULAS", UNIVERSAL CHANNEL
 http://191.52.214.5:8000/play/a08h/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", VISION TV
+#EXTINF:0 group-title="TV PELICULAS", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:0," group-title="TV PELICULAS", VILLA ALTAGRACIA TV
+#EXTINF:0 group-title="TV PELICULAS", VILLA ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8
-#EXTINF:0," group-title="TV PELICULAS", WOW TV
+#EXTINF:0 group-title="TV PELICULAS", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", WARNER HD
 http://45.71.38.3:8010/play/a04u/index.m3u8
@@ -533,9 +532,9 @@ http://45.71.38.3:8010/play/a04u/index.m3u8
 http://45.71.38.3:8010/play/a04i/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Warner Channel HD
 http://45.71.38.3:8010/play/a0j6/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", WOW TV MOVIES
+#EXTINF:0 group-title="TV PELICULAS", WOW TV MOVIES
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0," group-title="TV PELICULAS", WARNER CHANNEL
+#EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/685296960d69b4d35430db1b/poster_1750242968687.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="PELICULAS PLUTO" tvg-chno="", Serenity
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8
@@ -2259,32 +2258,33 @@ https://dl.dropbox.com/scl/fi/3d9shkr7wlhm14gyda5ff/La-Pasión-de-Cristo-2004-72
 https://dl.dropbox.com/scl/fi/vxb7epv7g99vibtlaj7rv/1332x720-Los-milagros-del-cielo.mp4?rlkey=41yu6yunxmuless34az8ln7q1&st=z1zazeka&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/yKUzBolWrwyByevBtDPfy3kIumv.jpg" group-title="PELICULAS MP4" ,Dios no está muerto
 https://dl.dropbox.com/scl/fi/qrm34yzd2lculqcvurnxy/Dios-No-Esta-Muerto-2014-HD-720p.mkv?rlkey=wv4em72rq0ye0kpgabe7tv9sg&st=eoiw8k91&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/l0Di5mvlFhIxTn8VPGhcrYE0MCT.jpg"group-title="PELICULAS MP4", Dios no está muerto 2
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/l0Di5mvlFhIxTn8VPGhcrYE0MCT.jpg" group-title="PELICULAS MP4", Dios no está muerto 2
 https://dl.dropbox.com/scl/fi/3klejyd4bgwr87f071vl0/Dios-no-está-muerto-2-2016-1080p-Latino-SD.mp4?rlkey=r6gyaru90rzfct89xf6tok7y0&st=iygyg8pj&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1MwoZ4U8SGm7yIzfPFcTTbiiOYY.jpg"group-title="PELICULAS MP4", Dios no está muerto 3
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/1MwoZ4U8SGm7yIzfPFcTTbiiOYY.jpg" group-title="PELICULAS MP4", Dios no está muerto 3
 https://dl.dropbox.com/scl/fi/yhltmz0ua7j5lf4m4zns0/Dios-No-Est-Muerto-3-2018-HD-720p.mkv?rlkey=rws6fdbd54fspc56uwiblouz7&st=fygdvk7z&dl=0,
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rEwacCPCUSdncxZ3RWplQd2WhIe.jpg"group-title="PELICULAS MP4", Dios no está muerto 4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rEwacCPCUSdncxZ3RWplQd2WhIe.jpg" group-title="PELICULAS MP4", Dios no está muerto 4
 https://dl.dropbox.com/scl/fi/l48tinkvncf80e1eepgyy/DIOS-NO-ESTA-MUERTO-4-HD-SUB-LATINO-HD.mp4?rlkey=4xj2bmqovq4isdm09tquqx7zp&st=anr0g0lw&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg"group-title="PELICULAS MP4", La última tentación de cristo
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg" group-title="PELICULAS MP4", La última tentación de cristo
 https://dl.dropbox.com/scl/fi/ja2ggfnl1m6ny50f4d1hs/La.Ultima.Tentacion.de.Cristo.-1988-.1080p.latino-SD.mp4?rlkey=tx1andb103lcd06k577o76dqc&st=239nro4n&dl=0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg"group-title="PELICULAS MP4", Milagro azul
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg" group-title="PELICULAS MP4", Milagro azul
 https://dl.dropbox.com/scl/fi/dmc6088jko8dd6lm95uuk/92992-ab2fd997-6a93-4702-a373-f0d42e224ee0-aknc-875975-doodstream.mp4?rlkey=uggavv1h05f3m3952noi1c1hd&st=a7vewq2v&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg"group-title="PELICULAS MP4", The Jack in the Box: El despertar (2022)
 http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/juoinefK6tMbjwJhRpRvbAAmrTB.jpg"group-title="PELICULAS MP4", Alerta extrema (2023)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/juoinefK6tMbjwJhRpRvbAAmrTB.jpg" group-title="PELICULAS MP4", Alerta extrema (2023)
 http://208.88.245.81/nuevo/alerta.extrema.dual.2023.mkv
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg"group-title="PELICULAS MP4",, Tetris (2023)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg" group-title="PELICULAS MP4", Tetris (2023)
 https://od.lk/s/OTZfNzc3MTU1MDlf/Tetris%20%282023%29%20Online.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg"group-title="PELICULAS MP4", Renfield: Asistente de vampiro (2023)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg" group-title="PELICULAS MP4", Renfield: Asistente de vampiro (2023)
 http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv
-#EXTINF:-1,Ghosted (2023)
+#EXTINF:-1 group-title="PELICULAS MP4", Ghosted (2023)
 http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/3P9QvWVN02Etn4kYGC702WVoXEb.jpg"group-title="PELICULAS MP4", Rápidos y furiosos 10 (2023)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" group-title="PELICULAS MP4", Rápidos y furiosos 10 (2023)
 https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/k36QyeVsy851npTUQL08jO8hqip.jpg"group-title="PELICULAS MP4", Super Mario Bros: La película (2023)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/k36QyeVsy851npTUQL08jO8hqip.jpg" group-title="PELICULAS MP4", Super Mario Bros: La película (2023)
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg"group-title="PELICULAS MP4", Bendita suegra
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
