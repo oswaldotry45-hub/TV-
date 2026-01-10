@@ -163,7 +163,7 @@ https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title= "SONY ONE HITS", SONY ONE  SERIES THRILLER
 https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title=" SONY ONE HITS", SONY ONE SERIES COMEDIA
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE SERIES COMEDIA
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE ÉXITOS
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
@@ -234,14 +234,6 @@ http://200.59.188.3:8000/play/a0cm
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:0 group-title="CANELA TV", CANELA TV CLASICOS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:0 group-title="TV PELICULAS", CINE ROMANTICO
-http://200.59.188.3:8000/play/a0i0?network_id=656
-#EXTINF:0 group-title="CANELA TV", CANELA CINEMA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="CANELA TV", PELIMEX PELICILAS MEXICANAS
-https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", +CINE CLASSIC
 http://190.211.163.19:9999/play/a0fj?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", Cine Latino
@@ -326,54 +318,6 @@ http://177.234.230.206:8011/play/a09z/index.m3u8
 http://177.234.230.206:8011/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN
 http://177.234.230.206:8011/play/a02m/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://177.234.230.206:8011/play/a0ig/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
-http://177.234.230.206:8011/play/a01h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
-http://177.234.230.206:8011/play/a0kg/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 NARANJA
-http://177.234.230.206:8011/play/a0ae/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
-http://177.234.230.206:8011/play/a0ox/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
-http://177.234.230.206:8011/play/a01e/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 NARANJA
-http://177.234.230.206:8011/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4
-http://177.234.230.206:8011/play/a0q0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4 NARANJA
-http://177.234.230.206:8011/play/a0af/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4HD
-http://177.234.230.206:8011/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4HD
-http://177.234.230.206:8011/play/a0c8/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 5
-http://177.234.230.206:8011/play/a0s3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 5HD
-http://177.234.230.206:8011/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 6HD
-http://177.234.230.206:8011/play/a0iz/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 6HD
-http://177.234.230.206:8011/play/a01f/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 7
-http://177.234.230.206:8011/play/a0q1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 7HD
-http://177.234.230.206:8011/play/a0k2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN CO
-http://177.234.230.206:8011/play/a0np/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN HD
-http://177.234.230.206:8011/play/a0o4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN HD
-http://177.234.230.206:8011/play/a015/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN HD
-http://177.234.230.206:8011/play/a0fe/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN NARANJA
-http://177.234.230.206:8011/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN Premium HD
-http://177.234.230.206:8011/play/a0o6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN Premium HD
-http://177.234.230.206:8011/play/a0fh/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN
 http://45.71.38.3:8010/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN
@@ -384,6 +328,22 @@ http://45.71.38.3:8010/play/a015/index.m3u8
 http://45.71.38.3:8010/play/a0jb/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN HD
 http://45.71.38.3:8010/play/a05s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN CO
+http://177.234.230.206:8011/play/a0np/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+http://177.234.230.206:8011/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+http://177.234.230.206:8011/play/a015/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN HD
+http://177.234.230.206:8011/play/a0fe/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN NARANJA
+http://177.234.230.206:8011/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
+http://177.234.230.206:8011/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
+http://177.234.230.206:8011/play/a01h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
+http://177.234.230.206:8011/play/a0kg/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
 http://45.71.38.3:8010/play/a09j/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2
@@ -392,6 +352,14 @@ http://45.71.38.3:8010/play/a04q/index.m3u8
 http://45.71.38.3:8010/play/a05t/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 2 HD
 http://45.71.38.3:8010/play/a00w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 NARANJA
+http://177.234.230.206:8011/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
+http://177.234.230.206:8011/play/a0ox/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
+http://177.234.230.206:8011/play/a01e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 NARANJA
+http://177.234.230.206:8011/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
 http://45.71.38.3:8010/play/a0hj/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
@@ -399,11 +367,23 @@ http://45.71.38.3:8010/play/a05u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 HD
 http://45.71.38.3:8010/play/a0jj/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4
+http://177.234.230.206:8011/play/a0q0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 NARANJA
+http://177.234.230.206:8011/play/a0af/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4HD
+http://177.234.230.206:8011/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4HD
+http://177.234.230.206:8011/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4
 http://45.71.38.3:8010/play/a03q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN  4 HD
 http://45.71.38.3:8010/play/a02w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",ESPN 4HD
 http://45.71.38.3:8010/play/a0jc/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5
+http://177.234.230.206:8011/play/a0s3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5HD
+http://177.234.230.206:8011/play/a0dr/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
 http://45.71.38.3:8010/play/a0al/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5
@@ -412,12 +392,24 @@ http://45.71.38.3:8010/play/a0g0/index.m3u8
 http://45.71.38.3:8010/play/a07u/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 5HD
 http://45.71.38.3:8010/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6HD
+http://177.234.230.206:8011/play/a0iz/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6HD
+http://177.234.230.206:8011/play/a01f/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 6 HD
 http://45.71.38.3:8010/play/a05v/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 6HD
 http://45.71.38.3:8010/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7
+http://177.234.230.206:8011/play/a0q1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 7HD
+http://177.234.230.206:8011/play/a0k2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 7HD
 http://45.71.38.3:8010/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN Premium HD
+http://177.234.230.206:8011/play/a0o6/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN Premium HD
+http://177.234.230.206:8011/play/a0fh/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN Premium HD
 http://45.71.38.3:8010/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN Premium HD
@@ -2308,6 +2300,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
