@@ -95,6 +95,8 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png" group-title="RAKUTEN TV", RAKUTEN CIENCIA FICCION
 https://jmp2.uk/stvp-ES500004NO
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2faacdc3-7db0-45c5-96a7-1dc185b6fb47.png" group-title="RAKUTEN TV", HISTORIAS DE ULTRATUMBA
+https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="RAKUTEN TV", RAKUTEN VIKI DORAMAS
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion_1_0.jpg" group-title="FREE TV",   ACTION
@@ -2288,6 +2290,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
