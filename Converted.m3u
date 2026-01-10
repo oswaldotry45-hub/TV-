@@ -145,6 +145,16 @@ https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8
 https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b015fcbafb496320954672321e746f8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347842585_LOGO_Todocine_Roku_HUD-verticalRoxannaTork.png" group-title="CANELA TV", Todo Cine
 https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/af29dfcc-1ddd-4183-b876-992c8ac515b9.png" group-title="CANELA TV", CANELA TV PASION LATINA
+https://jmp2.uk/rok-0a85a15f5ee75646bf386d3de3083a94.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b0a2ce18-2849-4dd4-9c5c-2f2b7924cc27.png" group-title="CANELA TV", CANELA TV PASION TURCA
+https://jmp2.uk/rok-7913b5796de15cb9ab8dfd392d769dec.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2a880071-a2e8-4e40-8db5-1e3f5e4782de.png" group-title="CANELA TV", FILMRISE SERIES GRATIS
+https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/63c6707b-eb2b-4558-a8ce-5bdbdbba834b.png" group-title="CANELA TV", CANELA CINEMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/0e429ad9-f368-40aa-b30b-7d6b8cf714c0.png" group-title="CANELA TV", PELIMEX PELICULAS MEXICANAS
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SONY ONE HITS", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
@@ -2298,6 +2308,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
