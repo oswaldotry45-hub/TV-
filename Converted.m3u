@@ -39,6 +39,8 @@ http://177.234.230.206:8011/play/a099/index.m3u8
 https://movil.ejeserver.com/live/canaluno.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", OROMAR TV 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:0 group-title="ECUADOR", FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Rtu_logo_2020.png" group-title="ECUADOR", RTU NOTICIAS 
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR", TELERAMA
@@ -224,16 +226,6 @@ http://45.71.38.3:8010/play/a0j0/index.m3u8
 http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:0 group-title="CANELA TV", BUTACA TV
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist_1920x1080.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS XTRA USA
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS  EXTRA Ñ
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports XTRA En Español
-http://200.59.188.3:8000/play/a0cm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS XTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports USA
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", +CINE CLASSIC
 http://190.211.163.19:9999/play/a0fj?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", Cine Latino
@@ -270,8 +262,6 @@ https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
 https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", Curiosity Explora
 https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
-https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", DHE
 http://45.71.38.3:8010/play/a06b/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", DHE HD
@@ -306,6 +296,8 @@ http://201.230.121.186:8000/play/a0fb/index.m3u8
 http://201.217.246.177:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Disney Channel
 http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:0 group-title="TV PELICULAS", FX
+http://177.234.230.206:8011/play/a0k5/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:0 group-title="TV PELICULAS",EXTREMA TV 
@@ -416,18 +408,53 @@ http://45.71.38.3:8010/play/a0ep/index.m3u8
 http://45.71.38.3:8010/play/a017/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN USA +
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:0 group-title="ECUADOR", FRECUENCIA MUSICAL TV
-https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", FX
-http://177.234.230.206:8011/play/a0k5/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="DEPORTES", Fox Sports HD
 http://45.71.38.3:8010/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 HD
 http://45.71.38.3:8010/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 HD
 http://45.71.38.3:8010/play/a0k2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", LIGA ESPAñOLA
+http://45.5.117.57:8200/play/a050/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES", VIX LIGA ESPAñOLA
+http://45.186.106.220:5550/play/a051/index.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="DEPORTES", SKY SPORTS LA LIGA |ESPAÑA|
+http://103.111.40.242:9999/play/a00d/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",  La 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png" group-title="DEPORTES", La 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS XTRA USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS  EXTRA Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports XTRA En Español
+http://200.59.188.3:8000/play/a0cm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:0 group-title="DEPORTES", TNT SPORTS
+http://45.71.38.3:8010/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS
+http://45.71.38.3:8010/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT Sports Premiun HD
+#EXTINF:-1 group-title="DEPORTES", TyC Sports
+http://45.71.38.3:8010/play/a0fi/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://45.5.117.57:8200/play/a04t/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
+http://45.71.38.3:8010/play/a05d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
+http://45.71.38.3:8010/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/tdp_372x160.png" group-title="DEPORTES", TDP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 #EXTINF:-1 group-title="DEPORTES", Fubo Sports Network
 https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",NFL Channel
+https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
+https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
 #EXTINF:0," group-title="TV PELICULAS", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", GEN TV
@@ -449,14 +476,6 @@ http://200.59.188.3:8000/play/a0t5?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&amp;rebase=on
 http://45.71.38.3:8010/play/a00v/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", LIGA ESPAñOLA
-http://45.5.117.57:8200/play/a050/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", VIX LIGA ESPAñOLA
-http://45.186.106.220:5550/play/a051/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",  La 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png" group-title="DEPORTES", La 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 #EXTINF:0 group-title="RAKUTEN TV", MY TIME MOVIE NETWORK
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="TV PELICULAS", ORBIT TV
@@ -477,8 +496,6 @@ http://45.71.38.3:8010/play/a0ih/index.m3u8
 http://181.13.252.102:8000/play/a079/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", SPACE
 http://45.71.37.196:8010/play/a00d/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="DEPORTES", SKY SPORTS LA LIGA |ESPAÑA|
-http://103.111.40.242:9999/play/a00d/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", Space HD
 http://45.71.38.3:8010/play/a0j9/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Star TVE HD
@@ -501,21 +518,6 @@ http://191.52.214.5:8000/play/a024/index.m3u8?sd=10&amp;rebase=on
 http://45.71.38.3:8010/play/a0jh/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", TNT Series HD
 http://45.71.38.3:8010/play/a05y/index.m3u8
-#EXTINF:0 group-title="DEPORTES", TNT SPORTS
-http://45.71.38.3:8010/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TNT SPORTS
-http://45.71.38.3:8010/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TNT Sports Premiun HD
-#EXTINF:-1 group-title="DEPORTES", TyC Sports
-http://45.71.38.3:8010/play/a0fi/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://45.5.117.57:8200/play/a04t/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
-http://45.71.38.3:8010/play/a05d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
-http://45.71.38.3:8010/play/a05d/index.m3u8
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/tdp_372x160.png" group-title="DEPORTES", TDP
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 #EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL CINEMA ESTE HD
 http://45.71.38.3:8010/play/a064/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL COMEDY HD
@@ -2300,6 +2302,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
