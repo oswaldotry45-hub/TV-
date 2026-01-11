@@ -408,12 +408,16 @@ http://45.71.38.3:8010/play/a0ep/index.m3u8
 http://45.71.38.3:8010/play/a017/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN USA +
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 USA
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", Fox Sports HD
 http://45.71.38.3:8010/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 HD
 http://45.71.38.3:8010/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 HD
 http://45.71.38.3:8010/play/a0k2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports FS 1 USA
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", LIGA ESPAñOLA
 http://45.5.117.57:8200/play/a050/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", VIX LIGA ESPAñOLA
@@ -451,7 +455,7 @@ http://45.71.38.3:8010/play/a05d/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 #EXTINF:-1 group-title="DEPORTES", Fubo Sports Network
 https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",NFL Channel
+#EXTINF:-1 tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",NFL Channel
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
@@ -2302,6 +2306,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
