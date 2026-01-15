@@ -83,6 +83,8 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUNTIME TV", SANGRE FRIA
 https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/31E98uWVU6nnMQ==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjhAAQ==" group-title="RUNTIME TV", TODO CINE
+https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="RAKUTEN TV", RAKUTEN ACCION
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Rakuten-TV-Pelis-TOP-en-directo-Online-696x392.png" group-title="RAKUTEN TV", RAKUTEN PELIS TOP
@@ -183,9 +185,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
-#EXTINF:0 group-title="SONY ONE HITS", CINE FEEL GOOD VERDI
-https://is.gd/8r7Ezz/Users/oswaldotry45/3D%20Objects/master.m3u8
-#EXTINF:-1 group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
 https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
 #EXTINF:-1"group-title="TV PELICULAS", AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
@@ -198,7 +198,7 @@ http://45.71.38.3:8010/play/a0cj/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC HD
 http://45.71.38.3:8010/play/a054/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", A&E
-http://181.13.252.102:8000/play/a05i/index.m3u8?sd=10&amp;rebase=on
+http://181.13.252.102:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", A&E
 http://45.71.38.3:8010/play/a04k/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", A&E HD
@@ -212,13 +212,13 @@ http://45.71.38.3:8010/play/a0j7/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN HD
 http://45.71.38.3:8010/play/a07s/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
-http://177.234.230.206:8011/play/a0pe/index.m3u8?sd=10&amp;rebase=on
+http://177.234.230.206:8011/play/a0pe/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", AXN
-http://181.13.252.102:8000/play/a05f/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
-https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&amp;rebase=on
+http://181.13.252.102:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
+https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Animal Planet
 http://45.71.38.3:8010/play/a04m/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Animal Planet HD
@@ -226,7 +226,7 @@ http://45.71.38.3:8010/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PELICULAS", BOM CINE
 http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:0 group-title="CANELA TV", BUTACA TV
-https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist_1920x1080.m3u8?sd=10&amp;rebase=on
+https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist_1920x1080.m3u8
 #EXTINF:0 group-title="TV PELICULAS", +CINE CLASSIC
 http://190.211.163.19:9999/play/a0fj?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", Cine Latino
@@ -240,7 +240,7 @@ http://45.71.38.3:8010/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Cinemax HD
 http://45.71.38.3:8010/play/a0bx/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", CINEMAX
-http://181.13.252.102:8000/play/a04s/index.m3u8?sd=10&amp;rebase=on
+http://181.13.252.102:8000/play/a04s/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", CINE STELAR
 http://177.234.230.206:8011/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", City TV
@@ -252,7 +252,7 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", COSMOS
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:0 group-title="TV PELICULAS", CANAL STV
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8?sd=10&amp;rebase=on
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", CINE PREMIUN
 http://177.234.230.206:8011/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", CINEMA PREMIUM
@@ -298,7 +298,7 @@ http://201.217.246.177:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Disney Channel
 http://66.102.120.18:8000/play/a078/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", FX
-http://177.234.230.206:8011/play/a0k5/index.m3u8?sd=10&amp;rebase=on
+http://177.234.230.206:8011/play/a0k5/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:0 group-title="TV PELICULAS",EXTREMA TV 
@@ -445,9 +445,9 @@ http://45.71.38.3:8010/play/a0mf/index.m3u8
 http://45.71.38.3:8010/play/a0mf/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT Sports Premiun HD
 #EXTINF:-1 group-title="DEPORTES", TyC Sports
-http://45.71.38.3:8010/play/a0fi/index.m3u8?sd=10&rebase=on
+http://45.71.38.3:8010/play/a0fi/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN
-http://45.5.117.57:8200/play/a04t/index.m3u8?sd=10&rebase=on
+http://45.5.117.57:8200/play/a04t/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
 http://45.71.38.3:8010/play/a05d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
@@ -487,8 +487,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", PARAMOUNT NETWORK
 http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", PLANETA TV
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL
 http://45.71.38.3:8010/play/a07a/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL HD
@@ -548,7 +546,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:0 group-title="TV PELICULAS", VILLA ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8
 #EXTINF:0 group-title="TV PELICULAS", WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?sd=10&amp;rebase=on
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", WARNER HD
 http://45.71.38.3:8010/play/a04u/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Warner
@@ -558,7 +556,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", WOW TV MOVIES
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
-http://177.234.230.206:8011/play/a0og/index.m3u8?sd=10&amp;rebase=on
+http://177.234.230.206:8011/play/a0og/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/685296960d69b4d35430db1b/poster_1750242968687.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="PELICULAS PLUTO" tvg-chno="", Serenity
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/61ea6dd2161b65001a9c2ad9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="PELICULAS PLUTO" tvg-chno="", Han llegado
@@ -2307,6 +2305,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
