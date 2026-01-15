@@ -157,25 +157,25 @@ https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/0e429ad9-f368-40aa-b30b-7d6b8cf714c0.png" group-title="CANELA TV", PELIMEX PELICULAS MEXICANAS
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="SONY ONE HITS", SONY CINE
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/badf6033-d40e-4085-99f1-c5ee3e193b31.png" group-title="SONY ONE HITS", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
-https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="SONY ONE HITS", SONY ONE  HITS ACCION
-https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9fbe1952-c270-4939-8dc8-d779690fe62d.png" group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9c896f14-5247-4379-b9b6-06d9a3ff4e8a.png" group-title="SONY ONE HITS", SONY ONE  HITS ACCION
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title= "SONY ONE HITS", SONY ONE  SERIES THRILLER
-https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE SERIES COMEDIA
-https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE ÉXITOS
-https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE THE BLACKLITS
-https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="SONY ONE HITS", SONY
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", SONY
 http://45.71.38.3:8010/play/a04h/index.m3u8
-#EXTINF:-1 group-title="SONY ONE HITS", Sony HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", Sony HD
 http://45.71.38.3:8010/play/a0j5/index.m3u8
-#EXTINF:-1 group-title="SONY ONE HITS", Sony Movies HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/80e9eae6-3ca4-4ecd-a347-4359360948f5.png" group-title="SONY ONE HITS", Sony Movies HD
 http://45.71.38.3:8010/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_4.png" group-title="SONY ONE HITS", LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
@@ -184,9 +184,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
 #EXTINF:0 group-title="SONY ONE HITS", CINE FEEL GOOD VERDI
-https://is.gd/8r7Ezz/Users/oswaldotry45/3D%20Objects/master.m3u8?sd=10&amp;rebase=on
+https://is.gd/8r7Ezz/Users/oswaldotry45/3D%20Objects/master.m3u8
 #EXTINF:-1 group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
-https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?sd=10&amp;rebase=on#EXTINF:-1"group-title="TV PELICULAS", AMC
+https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+#EXTINF:-1"group-title="TV PELICULAS", AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC
 http://181.13.252.102:8000/play/a01z/index.m3u8
@@ -2306,6 +2307,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
