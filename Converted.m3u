@@ -83,13 +83,13 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUNTIME TV", SANGRE FRIA
 https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="Crimen", Todo Crimen
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="RUNTIME TV", Todo Crimen
 https://jmp2.uk/stvp-ES1600004JV
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="RUNTINE TV" , CINE FEEL GOOD VERDI TV 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png" group-title="RUNTIME TV", CINE FEEL GOOD VERDI TV 
 https://jmp2.uk/stvp-ESBC2700012RP
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20251111T011930SQUARE.png" group-title="RUNTIME TV", CINE WESTERN
 https://jmp2.uk/stvp-ES2300005G7
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png" group-title="RUNTINE TV", BIGTIME PELICULAS GRATIS
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png" group-title="RUNTIME TV", BIGTIME PELICULAS GRATIS
 https://jmp2.uk/stvp-ESBC2700003T8
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/68110_750.jpg" group-title="RUNTIME TV", TODO CINE
 https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8?sd=10&rebase=on
@@ -2347,7 +2347,8 @@ https://dl.dropboxusercontent.com/scl/fi/wfley6gbdthmvx325hzqt/J1H3ON-W1ICFK-4.m
 https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudgknmcg6fblcy3g6&st=vw1rdanl&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rGfcaHH1SCbBP9sicFFeBc9Rfs.jpg" group-title="PELICULAS MP4", En Busca De VEnganza (2023)
-https://pomf2.lain.la/f/hlbbj67.mp4
+https://pomf2.lain.la/f/hlbbj67.mp4?sd=10&rebase=on
+
 
 
 
