@@ -66,25 +66,25 @@ https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ECUADOR", IMPERIO TV CANAL 6 
 https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online-324x235.png" group-title="RUNTIME TV", RUNTIME CINE SERIES
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="RUNTIME TV", RUNTIME ACCIÓN
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crimen_16x9.jpg" group-title="RUNTIME TV", RUNTIME CRIMEN
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" group-title="RUNTIME TV", RUNTIME ROMANCE
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_thriller_16x9.jpg" group-title="RUNTIME TV", RUNTIME THRILLER TERROR
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" group-title="RUNTIME TV", RUNTIME COMEDIA
-https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="RUNTIME TV", RUNTIME CLÁSICOS
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 "group-title="RUNTIME TV", RUNTIME TRASH
-https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&amp;rebase=on
+https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUNTIME TV", SANGRE FRIA
-https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/31E98uWVU6nnMQ==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjhAAQ==" group-title="RUNTIME TV", TODO CINE
-https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8
+https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/68110_750.jpg" group-title="RUNTIME TV", TODO CINE
+https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="RAKUTEN TV", RAKUTEN ACCION
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Rakuten-TV-Pelis-TOP-en-directo-Online-696x392.png" group-title="RAKUTEN TV", RAKUTEN PELIS TOP
@@ -2305,6 +2305,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
