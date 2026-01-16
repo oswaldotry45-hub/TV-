@@ -107,6 +107,10 @@ https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8
 https://is.gd/wFABEW/oswaldo/Downloads/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="RAKUTEN TV", RAKUTEN VIKI DORAMAS
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="RAKUTEN TV", TODO CRIMEN
+https://jmp2.uk/stvp-ES1600004JV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="RAKUTEN TV", ESTILO Y VIDA
+https://jmp2.uk/stvp-ES26000068D
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion_1_0.jpg" group-title="FREE TV",   ACTION
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/estelar_1_0.jpg" group-title="FREE TV", FREE TV  STELAR
@@ -159,6 +163,8 @@ https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/0e429ad9-f368-40aa-b30b-7d6b8cf714c0.png" group-title="CANELA TV", PELIMEX PELICULAS MEXICANAS
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/tn_logo_white_1900x1700.png" group-title="CANELA TV", TODO NOVELAS MAS PASIONES
+https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/badf6033-d40e-4085-99f1-c5ee3e193b31.png" group-title="SONY ONE HITS", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9fbe1952-c270-4939-8dc8-d779690fe62d.png" group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
@@ -2305,6 +2311,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
