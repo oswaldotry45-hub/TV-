@@ -433,6 +433,14 @@ http://45.71.38.3:8010/play/a0jv/index.m3u8
 http://45.71.38.3:8010/play/a0k2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports FS 1 USA
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES", Fox Sports FS 2
+http://38.188.186.47:4000/play/a006/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports FS PREMIUN
+http://38.188.186.47:4000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Fox Sports FS
+http://38.188.186.47:4000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", LIGA MOVISTAR
+http://38.188.186.47:4000/play/Ji198/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA ESPAñOLA
 http://45.5.117.57:8200/play/a050/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", VIX LIGA ESPAñOLA
@@ -2319,6 +2327,7 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+
 
 
 
