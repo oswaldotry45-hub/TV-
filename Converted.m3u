@@ -579,6 +579,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/685296960d69b4d35430db1b/poster_1750242968687.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="PELICULAS PLUTO" tvg-chno="", Serenity
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/685296960d69b4d35430db1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/61ea6dd2161b65001a9c2ad9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="PELICULAS PLUTO" tvg-chno="", Han llegado
@@ -2275,6 +2276,7 @@ https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f4636de8e4fda001a5becff.m
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/5/5f8479a0652fb5001add58b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/episodes/6257ea018f17ad0013f6752e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="PELICULAS PLUTO" tvg-chno="", Ghost In The Shell
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/6/6257ea018f17ad0013f6752e.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kP4380IsiyoQ1EIuJxR1AEIIDPX.jpg" group-title="PELICULAS MP4", Atena (2025)
 https://pomf2.lain.la/f/duegk7w9.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg" group-title="PELICULAS MP4", Terreno elevado (2025)
@@ -2327,6 +2329,23 @@ https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="PELICULAS MP4", Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8sV6nWuKczuXRt0C6EWoXqJAj6G.jpg" group-title="PELICULAS MP4", American Gangster (2007)
+https://dl.dropbox.com/scl/fi/l2ua0jm78qk5z74kblk33/fisica.mp4?rlkey=tvl8zqcraaf0r15gt1jl4hsmk&st=qdsq0b0j&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q24zgwQ2ktGd5bfgDm0wV07a68Y.jpg" group-title="PELICULAS MP4", The Gangster, the Cop, the Devil (2019)
+https://dl.dropbox.com/scl/fi/azuy6jcoyovn6wcg25dlo/naturales.mp4?rlkey=ui9opl3hwqreg3h9eq7mci470&st=nsm9jlh2&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg" group-title="PELICULAS MP4", Casino (1995)
+https://dl.dropbox.com/scl/fi/g0uanbgazvyrovz7txups/08.mp4?rlkey=6xdmu108wj8i9t5yad7q90p7p&st=6xu2ibv0&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="PELICULAS MP4", Donnie Brasco (1997)
+https://dl.dropbox.com/scl/fi/45v6l3qsye83sama6pkip/06.mp4?rlkey=c5ir9n3m5qiwz7h2afya99bvm&st=bd098ded&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x8bBjXbVS7V7r5g2PPCUpkHuL7M.jpg" group-title="PELICULAS MP4", Infiltrados (2006)
+https://dl.dropbox.com/scl/fi/7ualm7qj07zj3loiavqnx/05.mp4?rlkey=fm76bolqvd5ozx0ban3y5xeat&st=4lfzthfc&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7kZLazXbITYkvDVSXMGS8AWaNvq.jpg" group-title="PELICULAS MP4", Pandillas de Nueva York (2002)
+https://dl.dropbox.com/scl/fi/ewla4wpfakut8lif7ik87/04.mp4?rlkey=xzbnqb6jp310brr70xw2ows5y&st=tlywrtno&dl=1
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="PELICULAS MP4", John Wick 4 (2023) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/wfley6gbdthmvx325hzqt/J1H3ON-W1ICFK-4.mp4?rlkey=67es8jxdnyuyzdpx94b2lq7la&st=hih3y17c
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="PELICULAS MP4", The Running Man (2025)
+https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudgknmcg6fblcy3g6&st=vw1rdanl&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 
 
 
