@@ -361,17 +361,17 @@ http://45.71.38.3:8010/play/a05t/index.m3u8
 http://45.71.38.3:8010/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2 NARANJA
 http://177.234.230.206:8011/play/a0ae/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/319-3195035_image-g-ery-espn3-logo-espn-inc.png" group-title="DEPORTES" ,ESPN 3
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
 http://177.234.230.206:8011/play/a0ox/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png" group-title="DEPORTES" ,ESPN 3
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
 http://177.234.230.206:8011/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png" group-title="DEPORTES" ,ESPN 3 NARANJA
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 NARANJA
 http://177.234.230.206:8011/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png" group-title="DEPORTES" ,ESPN 3
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
 http://45.71.38.3:8010/play/a0hj/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png" group-title="DEPORTES" ,ESPN 3
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
 http://45.71.38.3:8010/play/a05u/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_3_(Latinoam%C3%A9rica)#/media/Archivo:ESPN3_Logo.png" group-title="DEPORTES" ,ESPN 3
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
 http://45.71.38.3:8010/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg" group-title="DEPORTES" ,ESPN 4
 http://177.234.230.206:8011/play/a0q0/index.m3u8
@@ -2348,6 +2348,7 @@ https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rGfcaHH1SCbBP9sicFFeBc9Rfs.jpg" group-title="PELICULAS MP4", En Busca De VEnganza (2023)
 https://pomf2.lain.la/f/hlbbj67.mp4?sd=10&rebase=on
+
 
 
 
