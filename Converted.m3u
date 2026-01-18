@@ -429,17 +429,17 @@ https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/fox-sports-hd-logo-png_seeklogo-284627.png" group-title="DEPORTES, Fox Sports HD
 http://45.71.38.3:8010/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/2/fox-sports-2-logo-png_seeklogo-369602.png" group-title="DEPORTES, Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/fox-sports-2-argentina-2023-logo-png_seeklogo-471070.png" group-title="DEPORTES, Fox Sports 2 HD
 http://45.71.38.3:8010/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/2/fox-sports-3-logo-png_seeklogo-510012.png" group-title="DEPORTES, Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/fox-sports-3-argentina-2023-logo-png_seeklogo-471071.png" group-title="DEPORTES, Fox Sports 3 HD
 http://45.71.38.3:8010/play/a0k2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports FS 1 USA
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/5/2/fox-logo-png_seeklogo-57116.png" group-title="DEPORTES, Fox Sports FS 1 USA
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", Fox Sports FS 2
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/fox-sports-2-logo-png_seeklogo-314581.png" group-title="DEPORTES, Fox Sports FS 2
 http://38.188.186.47:4000/play/a006/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports FS PREMIUN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fox_sports_premium_mx.png/960px-Fox_sports_premium_mx.png" group-title="DEPORTES, Fox Sports FS PREMIUN
 http://38.188.186.47:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports FS
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/5/2/fox-logo-png_seeklogo-57116.png" group-title="DEPORTES, Fox Sports FS
 http://38.188.186.47:4000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", LIGA MOVISTAR
 http://38.188.186.47:4000/play/Ji198/index.m3u8
@@ -2350,6 +2350,7 @@ https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rGfcaHH1SCbBP9sicFFeBc9Rfs.jpg" group-title="PELICULAS MP4", En Busca De VEnganza (2023)
 https://pomf2.lain.la/f/hlbbj67.mp4?sd=10&rebase=on
+
 
 
 
