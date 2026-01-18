@@ -427,11 +427,11 @@ http://45.71.38.3:8010/play/a017/index.m3u8
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES" ESPN 2 USA
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", Fox Sports HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/2/fox-sports-hd-logo-png_seeklogo-284627.png" group-title="DEPORTES, Fox Sports HD
 http://45.71.38.3:8010/play/a0jz/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/2/fox-sports-2-logo-png_seeklogo-369602.png" group-title="DEPORTES, Fox Sports 2 HD
 http://45.71.38.3:8010/play/a0jv/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/2/fox-sports-3-logo-png_seeklogo-510012.png" group-title="DEPORTES, Fox Sports 3 HD
 http://45.71.38.3:8010/play/a0k2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports FS 1 USA
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8?sd=10&rebase=on
@@ -2350,6 +2350,7 @@ https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rGfcaHH1SCbBP9sicFFeBc9Rfs.jpg" group-title="PELICULAS MP4", En Busca De VEnganza (2023)
 https://pomf2.lain.la/f/hlbbj67.mp4?sd=10&rebase=on
+
 
 
 
