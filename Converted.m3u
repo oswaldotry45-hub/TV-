@@ -317,28 +317,28 @@ http://177.234.230.206:8011/play/a0k5/index.m3u8
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:0 group-title="TV PELICULAS",EXTREMA TV 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2000635494.m3u8
-#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES" ECDF SD
-http://177.234.230.206:8011/play/a0t9/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES" ECDF SD
-http://167.250.223.26:8085/play/a088/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES", ECDF SD
+http://177.234.230.206:8011/play/a0t9/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES", ECDF SD
+http://167.250.223.26:8085/play/a088/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", FUTBOL EC
-http://177.234.230.206:8011/play/a09z/index.m3u8
+http://177.234.230.206:8011/play/a09z/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://167.250.223.26:8085/play/a0an/index.m3u8
+http://167.250.223.26:8085/play/a0an/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://167.250.223.26:8085/play/a07j/index.m3u8
+http://167.250.223.26:8085/play/a07j/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a0i7/index.m3u8
+http://45.71.38.3:8010/play/a0i7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a086/index.m3u8
+http://45.71.38.3:8010/play/a086/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a015/index.m3u8
+http://45.71.38.3:8010/play/a015/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a0jb/index.m3u8
+http://45.71.38.3:8010/play/a0jb/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a05s/index.m3u8
+http://45.71.38.3:8010/play/a05s/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD CO
-http://177.234.230.206:8011/play/a0np/index.m3u8
+http://192.187.102.26:80/playlistfinder/playlistfinder/16.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
 http://177.234.230.206:8011/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
@@ -2350,6 +2350,7 @@ https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rGfcaHH1SCbBP9sicFFeBc9Rfs.jpg" group-title="PELICULAS MP4", En Busca De VEnganza (2023)
 https://pomf2.lain.la/f/hlbbj67.mp4?sd=10&rebase=on
+
 
 
 
