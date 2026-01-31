@@ -209,6 +209,10 @@ EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/10/Canal-Cine35
 https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/chunks.m3u8
 EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/208301-150x84.png" group-title="PELICULAS", WOW MOVIE
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="PELICULAS", CIUDAD MAGICA TV
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="PELICULAS", READY TV
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w286831743.m3u8
 #EXTINF:-1"group-title="TV PELICULAS", AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC
@@ -2364,6 +2368,7 @@ https://dl.dropbox.com/scl/fi/dosxlzcqsp8vaxsqqkgwh/f-sica.mp4?rlkey=vnk5b9aaudg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="PELICULAS MP4", Hunting Season (2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2rGfcaHH1SCbBP9sicFFeBc9Rfs.jpg" group-title="PELICULAS MP4", En Busca De VEnganza (2023)
 https://pomf2.lain.la/f/hlbbj67.mp4?sd=10&rebase=on
+
 
 
 
