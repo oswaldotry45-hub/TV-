@@ -203,33 +203,33 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
 https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/canal-global-tv-en-vivo-150x129.jpg" group-title="TV PELICULAS", GLOBAL TV
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/canal-global-tv-en-vivo-150x129.jpg" group-title="TV PREMIUM", GLOBAL TV
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/10/Canal-Cine35mm-1-150x150.jpg" group-title="TV PELICULAS", CINE 35M
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/10/Canal-Cine35mm-1-150x150.jpg" group-title="TV PREMIUM", CINE 35M
 https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/208301-150x84.png" group-title="TV PELICULAS", WOW MOVIE
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/208301-150x84.png" group-title="TV PREMIUM", WOW MOVIE
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="TV PELICULAS", CIUDAD MAGICA TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="TV PREMIUM", CIUDAD MAGICA TV
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PELICULAS", READY TV
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PREMIUM", READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w286831743.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS", AMC HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS", AMC HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://181.13.252.102:8000/play/a01z/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS", AMC HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://181.78.85.53:9002/play/a04l/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS", AMC HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://190.61.63.140:2072/play/a03g/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS", AMC HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://167.250.223.26:8085/play/a06e/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
 http://167.250.223.26:8085/play/a05z/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E HD
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
 http://190.61.63.140:2072/play/a03a/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E HD
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
 http://190.60.39.195:8000/play/a0wp/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8
@@ -597,6 +597,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
