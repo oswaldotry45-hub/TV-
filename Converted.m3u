@@ -173,6 +173,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/tn_logo_white_1900x1700.png" group-title="CANELA TV", TODO NOVELAS MAS PASIONES
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
+https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="SONY ONE HITS", SONY CHANNEL
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/badf6033-d40e-4085-99f1-c5ee3e193b31.png" group-title="SONY ONE HITS", SONY CINE
@@ -231,18 +233,16 @@ EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-
 http://190.61.63.140:2072/play/a03a/index.m3u8
 EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
 http://190.60.39.195:8000/play/a0wp/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", AXN
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", AXN HD
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
 http://190.61.63.140:2072/play/a04o/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", AXN HD
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
 http://167.250.223.26:8085/play/a07g/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
 http://177.234.230.206:8011/play/a0pe/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
-https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Animal Planet
 http://45.71.38.3:8010/play/a04m/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Animal Planet HD
@@ -597,6 +597,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
