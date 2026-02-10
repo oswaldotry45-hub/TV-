@@ -218,31 +218,29 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC
 http://181.13.252.102:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC
-http://45.71.38.3:8010/play/a02o/index.m3u8
+http://181.78.85.53:9002/play/a04l/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC HD
-http://45.71.38.3:8010/play/a0cj/index.m3u8
+http://190.61.63.140:2072/play/a03g/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AMC HD
-http://45.71.38.3:8010/play/a054/index.m3u8
+http://167.250.223.26:8085/play/a06e/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", A&E
-http://45.71.38.3:8010/play/a04k/index.m3u8
+http://167.250.223.26:8085/play/a05z/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", A&E HD
-http://45.71.38.3:8010/play/a0c7/index.m3u8
+http://190.61.63.140:2072/play/a03a/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", A&E HD
-http://45.71.38.3:8010/play/a053/index.m3u8
+http://190.60.39.195:8000/play/a0wp/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN
-http://45.71.38.3:8010/play/a02m/index.m3u8
+http://190.60.39.195:8000/play/a0ws/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN HD
-http://45.71.38.3:8010/play/a0j7/index.m3u8
+http://190.61.63.140:2072/play/a04o/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN HD
-http://45.71.38.3:8010/play/a07s/index.m3u8
+http://167.250.223.26:8085/play/a07g/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
 http://177.234.230.206:8011/play/a0pe/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", ATRESPLAYER 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", AXN
-http://181.13.252.102:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Animal Planet
@@ -599,6 +597,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
