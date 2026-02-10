@@ -259,17 +259,11 @@ EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-
 http://167.250.223.26:8085/play/a05a/index.m3u8
 EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
 http://181.13.252.102:8000/play/a04s/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", CINE STELAR
-http://177.234.230.206:8011/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", City TV
-http://45.71.38.3:8010/play/a08c/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Clover
-http://45.71.38.3:8010/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", COSMO TV
-https://canaletaplus.com:3922/hybrid/play.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", COSMOS
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png" group-title="DOCUMENTALES", City TV
+http://181.128.145.103:4000/play/a02o/index.m3u8
+EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:0 group-title="TV PELICULAS", CANAL STV
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d58cd9e6-1449-4d3a-9a8b-e4bc0cb110a8.png" group-title="TV PREMIUM", CANAL STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", CINE PREMIUN
 http://177.234.230.206:8011/play/a0a5/index.m3u8
@@ -281,10 +275,10 @@ https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
 https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", Curiosity Explora
 https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", DHE
-http://45.71.38.3:8010/play/a06b/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", DHE HD
-http://45.71.38.3:8010/play/a059/index.m3u8
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE
+http://181.128.145.103:4000/play/a0cv/index.m3u8
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE HD
+http://190.61.63.140:2072/play/a041/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", DISC THEATHER HD
 http://45.71.38.3:8010/play/a05g/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES", Discovery Channel
@@ -591,6 +585,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
