@@ -309,8 +309,8 @@ EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" grou
 http://45.226.205.96:8000/play/a02o/index.m3u8
 EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
 http://190.60.39.195:8000/play/a00a/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", FX
-http://177.234.230.206:8011/play/a0k5/index.m3u8
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/00f0e499-496a-4876-8018-532ce8977119.png" group-title="TV PREMIUM", FX
+http://181.128.145.103:4000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:0 group-title="TV PELICULAS",EXTREMA TV 
@@ -322,29 +322,29 @@ http://167.250.223.26:8085/play/a088/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES", FUTBOL EC
 http://177.234.230.206:8011/play/a09z/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://167.250.223.26:8085/play/a0an/index.m3u8?sd=10&rebase=on
+http://181.128.145.103:4000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://167.250.223.26:8085/play/a07j/index.m3u8?sd=10&rebase=on
+http://181.115.237.3:9560/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a0i7/index.m3u8?sd=10&rebase=on
+http://190.60.39.195:8000/play/a0w0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a086/index.m3u8?sd=10&rebase=on
+http://190.61.63.140:2072/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a015/index.m3u8?sd=10&rebase=on
+http://181.209.37.74:8001/play/a099/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a0jb/index.m3u8?sd=10&rebase=on
+http://167.250.223.26:8085/play/a0an/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.71.38.3:8010/play/a05s/index.m3u8?sd=10&rebase=on
+http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD CO
-http://192.187.102.26:80/playlistfinder/playlistfinder/16.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://190.104.67.2:234/play/a099/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://181.209.105.115:2525/play/espn/index.m3u8?sd=10&rebase=on
+http://181.209.105.115:2525/play/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
 http://181.78.109.48:9998/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
+http://181.78.8.199:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
+http://200.35.176.154:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD NARANJA
-http://181.78.109.48:9998/play/a05y/index.m3u8
+http://181.119.97.124:8080/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
 http://190.104.67.2:234/play/a098/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
@@ -585,6 +585,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
