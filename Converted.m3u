@@ -223,13 +223,13 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo
 http://190.61.63.140:2072/play/a03g/index.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="PELICULAS", AMC HD
 http://167.250.223.26:8085/play/a06e/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", A&E
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", A&E
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E
 http://167.250.223.26:8085/play/a05z/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", A&E HD
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E HD
 http://190.61.63.140:2072/play/a03a/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", A&E HD
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="PELICULAS", A&E HD
 http://190.60.39.195:8000/play/a0wp/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8
@@ -597,6 +597,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
