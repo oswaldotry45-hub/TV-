@@ -243,22 +243,16 @@ EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-
 http://177.234.230.206:8011/play/a0pe/index.m3u8
 EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES", Animal Planet
-http://45.71.38.3:8010/play/a04m/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES", Animal Planet HD
-http://45.71.38.3:8010/play/a0j0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PELICULAS", BOM CINE
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet
+http://190.60.39.195:8000/play/a0ws/index.m3u8
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet HD
+http://167.250.223.26:8085/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PREMIUM", BOM CINE
 http://176.65.146.237:8401/play/a09d/index.m3u8
-#EXTINF:0 group-title="CANELA TV", BUTACA TV
-https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist_1920x1080.m3u8
-#EXTINF:0 group-title="TV PELICULAS", +CINE CLASSIC
-http://190.211.163.19:9999/play/a0fj?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PELICULAS", Cine Latino
-http://45.71.38.3:8010/play/a07l/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Cinecanal HD
-http://45.71.38.3:8010/play/a0j4/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", CINECANAL
-http://177.234.230.206:8011/play/a0oe/index.m3u8?sd=10&amp;rebase=on
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
+http://167.250.223.26:8085/play/a08e/index.m3u8
+EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
+http://190.61.63.140:2072/play/a04k/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Cinemax
 http://45.71.38.3:8010/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", Cinemax HD
@@ -597,6 +591,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
