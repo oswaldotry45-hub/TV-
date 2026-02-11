@@ -311,6 +311,103 @@ http://45.226.205.96:8000/play/a02o/index.m3u8
 http://190.60.39.195:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/00f0e499-496a-4876-8018-532ce8977119.png" group-title="TV PREMIUM", FX
 http://181.128.145.103:4000/play/a02v/index.m3u8
+#EXTINF:0," group-title="TV PELICULAS", GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:0 group-title="TV PELICULAS", GOLDEN PREMIER
+http://45.71.37.196:8010/play/a0im/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", HMTV HD 
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", HBO +
+http://38.250.119.233:4444/play/a0a4/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", HBO 2
+http://38.250.119.233:4444/play/a02t/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", HBO
+http://200.59.188.3:8000/play/a03r?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", HBO FAMILY
+http://200.59.188.3:8000/play/a06o?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", HBO XTREME
+http://200.59.188.3:8000/play/a0t5?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&amp;rebase=on
+http://45.71.38.3:8010/play/a00v/index.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="RAKUTEN TV", MY TIME MOVIE NETWORK
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="TV PELICULAS", ORBIT TV
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", PARAMOUNT NETWORK
+http://181.13.252.102:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL
+http://45.71.38.3:8010/play/a07a/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL HD
+http://45.71.38.3:8010/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL HD
+http://45.71.38.3:8010/play/a04t/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", STAR Channel
+http://45.71.38.3:8010/play/a0ih/index.m3u8
+#EXTINF:0 group-title="TV PELICULAS", STAR CHANNEL
+http://181.13.252.102:8000/play/a079/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", SPACE
+http://45.71.37.196:8010/play/a00d/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TV PELICULAS", Space HD
+http://45.71.38.3:8010/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Star TVE HD
+http://45.71.38.3:8010/play/a05b/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Stingray Concerts HD
+http://45.71.38.3:8010/play/a08q/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Studio Universal HD
+http://45.71.38.3:8010/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Sun Channel HD
+http://45.71.38.3:8010/play/a0js/index.m3u8
+#EXTINF:0 group-title="TV PELICULAS", SOMOS DEL ESTE TV
+http://177.234.230.206:8011/play/a0p5/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TV PELICULAS", TCM
+http://45.71.38.3:8010/play/a03x/index.m3u8
+#EXTINF:0 group-title="TV PELICULAS", TODO CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:0 group-title="TV PELICULAS", TNT
+http://191.52.214.5:8000/play/a024/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="TV PELICULAS", TNT Series HD
+http://45.71.38.3:8010/play/a0jh/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", TNT Series HD
+http://45.71.38.3:8010/play/a05y/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL CINEMA ESTE HD
+http://45.71.38.3:8010/play/a064/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL COMEDY HD
+http://45.71.38.3:8010/play/a05q/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL CRIME HD
+http://45.71.38.3:8010/play/a05p/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL PREMIERE HD
+http://45.71.38.3:8010/play/a05m/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL PREMIERE O HD
+http://45.71.38.3:8010/play/a05n/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL REALITY HD
+http://45.71.38.3:8010/play/a05o/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Universal
+http://45.71.38.3:8010/play/a0id/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Universal
+http://45.71.38.3:8010/play/a07j/index.m3u8
+#EXTINF:0 group-title="TV PELICULAS", UNIVERSAL CINEMA
+http://177.234.230.206:8011/play/a0dn/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", UNIVERSAL CHANNEL
+http://191.52.214.5:8000/play/a08h/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", VISION TV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0 group-title="TV PELICULAS", VILLA ALTAGRACIA TV
+https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8
+#EXTINF:0 group-title="TV PELICULAS", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", WARNER HD
+http://45.71.38.3:8010/play/a04u/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Warner
+http://45.71.38.3:8010/play/a04i/index.m3u8
+#EXTINF:-1 group-title="TV PELICULAS", Warner Channel HD
+http://45.71.38.3:8010/play/a0j6/index.m3u8
+#EXTINF:0 group-title="TV PELICULAS", WOW TV MOVIES
+http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
+http://177.234.230.206:8011/play/a0og/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:0 group-title="TV PELICULAS",EXTREMA TV 
@@ -488,103 +585,7 @@ https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
-#EXTINF:0," group-title="TV PELICULAS", GEN TV
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", GEN TV
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:0 group-title="TV PELICULAS", GOLDEN PREMIER
-http://45.71.37.196:8010/play/a0im/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HMTV HD 
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO +
-http://38.250.119.233:4444/play/a0a4/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO 2
-http://38.250.119.233:4444/play/a02t/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO
-http://200.59.188.3:8000/play/a03r?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO FAMILY
-http://200.59.188.3:8000/play/a06o?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO XTREME
-http://200.59.188.3:8000/play/a0t5?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&amp;rebase=on
-http://45.71.38.3:8010/play/a00v/index.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="RAKUTEN TV", MY TIME MOVIE NETWORK
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="TV PELICULAS", ORBIT TV
-https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", PARAMOUNT NETWORK
-http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL
-http://45.71.38.3:8010/play/a07a/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL HD
-http://45.71.38.3:8010/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", STAR CHANNEL HD
-http://45.71.38.3:8010/play/a04t/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", STAR Channel
-http://45.71.38.3:8010/play/a0ih/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", STAR CHANNEL
-http://181.13.252.102:8000/play/a079/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", SPACE
-http://45.71.37.196:8010/play/a00d/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PELICULAS", Space HD
-http://45.71.38.3:8010/play/a0j9/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Star TVE HD
-http://45.71.38.3:8010/play/a05b/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Stingray Concerts HD
-http://45.71.38.3:8010/play/a08q/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Studio Universal HD
-http://45.71.38.3:8010/play/a04z/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Sun Channel HD
-http://45.71.38.3:8010/play/a0js/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", SOMOS DEL ESTE TV
-http://177.234.230.206:8011/play/a0p5/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PELICULAS", TCM
-http://45.71.38.3:8010/play/a03x/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", TODO CINE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:0 group-title="TV PELICULAS", TNT
-http://191.52.214.5:8000/play/a024/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PELICULAS", TNT Series HD
-http://45.71.38.3:8010/play/a0jh/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", TNT Series HD
-http://45.71.38.3:8010/play/a05y/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL CINEMA ESTE HD
-http://45.71.38.3:8010/play/a064/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL COMEDY HD
-http://45.71.38.3:8010/play/a05q/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL CRIME HD
-http://45.71.38.3:8010/play/a05p/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL PREMIERE HD
-http://45.71.38.3:8010/play/a05m/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL PREMIERE O HD
-http://45.71.38.3:8010/play/a05n/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", UNIVERSAL REALITY HD
-http://45.71.38.3:8010/play/a05o/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Universal
-http://45.71.38.3:8010/play/a0id/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Universal
-http://45.71.38.3:8010/play/a07j/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", UNIVERSAL CINEMA
-http://177.234.230.206:8011/play/a0dn/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", UNIVERSAL CHANNEL
-http://191.52.214.5:8000/play/a08h/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", VISION TV
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:0 group-title="TV PELICULAS", VILLA ALTAGRACIA TV
-https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8
-#EXTINF:0 group-title="TV PELICULAS", WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", WARNER HD
-http://45.71.38.3:8010/play/a04u/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Warner
-http://45.71.38.3:8010/play/a04i/index.m3u8
-#EXTINF:-1 group-title="TV PELICULAS", Warner Channel HD
-http://45.71.38.3:8010/play/a0j6/index.m3u8
-#EXTINF:0 group-title="TV PELICULAS", WOW TV MOVIES
-http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
-http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
