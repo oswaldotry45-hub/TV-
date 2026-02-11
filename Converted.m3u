@@ -215,55 +215,55 @@ https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PREMIUM", READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w286831743.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"  group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://181.13.252.102:8000/play/a01z/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://181.78.85.53:9002/play/a04l/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://190.61.63.140:2072/play/a03g/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://167.250.223.26:8085/play/a06e/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
 http://167.250.223.26:8085/play/a05z/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
 http://190.61.63.140:2072/play/a03a/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E HD
 http://190.60.39.195:8000/play/a0wp/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
 http://190.61.63.140:2072/play/a04o/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
 http://167.250.223.26:8085/play/a07g/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
 http://177.234.230.206:8011/play/a0pe/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/ee7adbc6-fa07-4a8e-9243-5adbb442d174.png" group-title="TV PREMIUM", ATRESPLAYER 
 http://176.65.146.237:8401/play/a0ai/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet
 http://190.60.39.195:8000/play/a0ws/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet HD
 http://167.250.223.26:8085/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PREMIUM", BOM CINE
 http://176.65.146.237:8401/play/a09d/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
 http://167.250.223.26:8085/play/a08e/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
 http://190.61.63.140:2072/play/a04k/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
 http://190.61.63.140:2072/play/a02j/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
 http://167.250.223.26:8085/play/a05a/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
 http://181.13.252.102:8000/play/a04s/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png" group-title="DOCUMENTALES", City TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png" group-title="DOCUMENTALES", City TV
 http://181.128.145.103:4000/play/a02o/index.m3u8
-EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
+#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d58cd9e6-1449-4d3a-9a8b-e4bc0cb110a8.png" group-title="TV PREMIUM", CANAL STV
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d58cd9e6-1449-4d3a-9a8b-e4bc0cb110a8.png" group-title="TV PREMIUM", CANAL STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 group-title="TV PELICULAS", CINE PREMIUN
 http://177.234.230.206:8011/play/a0a5/index.m3u8
@@ -275,41 +275,41 @@ https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
 https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", Curiosity Explora
 https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE
 http://181.128.145.103:4000/play/a0cv/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE HD
 http://190.61.63.140:2072/play/a041/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
 http://181.128.145.103:4000/play/a0dx/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
 http://190.60.39.195:8000/play/a0x3/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel  HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel  HD
 http://190.61.63.140:2072/play/a04g/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery HD
 http://45.226.205.96:8000/play/a00t/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/c4665309-1558-473e-aec0-922e0c9d0216.png" group-title="DOCUMENTALES", DISC THEATHER HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/c4665309-1558-473e-aec0-922e0c9d0216.png" group-title="DOCUMENTALES", DISC THEATHER HD
 http://181.128.145.103:4000/play/a07r/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/c4665309-1558-473e-aec0-922e0c9d0216.png" group-title="DOCUMENTALES", Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/c4665309-1558-473e-aec0-922e0c9d0216.png" group-title="DOCUMENTALES", Discovery Theater HD
 http://190.61.63.140:2072/play/a03q/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/7b40acde-9211-4807-8684-727a297fe81c.png" group-title="DOCUMENTALES", Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/7b40acde-9211-4807-8684-727a297fe81c.png" group-title="DOCUMENTALES", Discovery H&H HD
 http://181.128.145.103:4000/play/a060/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/7b40acde-9211-4807-8684-727a297fe81c.png" group-title="DOCUMENTALES", Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/7b40acde-9211-4807-8684-727a297fe81c.png" group-title="DOCUMENTALES", Discovery H&H HD
 http://190.61.63.140:2072/play/a027/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/7b40acde-9211-4807-8684-727a297fe81c.png" group-title="DOCUMENTALES", Discovery Home & Health
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/7b40acde-9211-4807-8684-727a297fe81c.png" group-title="DOCUMENTALES", Discovery Home & Health
 http://167.250.223.26:8085/play/a04v/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/83.png" group-title="DOCUMENTALES", Discovery Science
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/83.png" group-title="DOCUMENTALES", Discovery Science
 http://167.250.223.26:8085/play/a05h/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/3e39ff11-5922-4097-9598-b662126e1f68.png" group-title="DOCUMENTALES", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/3e39ff11-5922-4097-9598-b662126e1f68.png" group-title="DOCUMENTALES", Discovery Turbo
 http://45.226.205.96:8000/play/a02q/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/494be20a-a13a-4f62-8a3d-1ab3097c4106.png" group-title="DOCUMENTALES", Discovery World HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/494be20a-a13a-4f62-8a3d-1ab3097c4106.png" group-title="DOCUMENTALES", Discovery World HD
 http://167.250.223.26:8085/play/a067/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
 http://181.128.145.103:4000/play/a015/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
 http://45.226.205.96:8000/play/a02o/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
 http://190.60.39.195:8000/play/a00a/index.m3u8
-EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/00f0e499-496a-4876-8018-532ce8977119.png" group-title="TV PREMIUM", FX
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/00f0e499-496a-4876-8018-532ce8977119.png" group-title="TV PREMIUM", FX
 http://181.128.145.103:4000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
@@ -585,6 +585,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PELICULAS", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
