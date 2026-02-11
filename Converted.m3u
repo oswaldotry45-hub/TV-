@@ -311,24 +311,24 @@ http://45.226.205.96:8000/play/a02o/index.m3u8
 http://190.60.39.195:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/00f0e499-496a-4876-8018-532ce8977119.png" group-title="TV PREMIUM", FX
 http://181.128.145.103:4000/play/a02v/index.m3u8
-#EXTINF:0," group-title="TV PELICULAS", GEN TV
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", GEN TV
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/dc968caa-b926-4f49-9258-0131fe14f8a6.png" group-title="TV PREMIUM", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:0 group-title="TV PELICULAS", GOLDEN PREMIER
-http://45.71.37.196:8010/play/a0im/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HMTV HD 
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO +
-http://38.250.119.233:4444/play/a0a4/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO 2
-http://38.250.119.233:4444/play/a02t/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO
-http://200.59.188.3:8000/play/a03r?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO FAMILY
-http://200.59.188.3:8000/play/a06o?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PELICULAS", HBO XTREME
-http://200.59.188.3:8000/play/a0t5?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/dc968caa-b926-4f49-9258-0131fe14f8a6.png" group-title="TV PREMIUM", GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/44da746e-448e-4db1-a03b-b94d2aae7d4c.png" group-title="TV PREMIUM", GOLDEN PREMIER
+http://200.35.176.154:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/bcbf6a3d-ede1-41d0-a239-8e14aaaa25d6.png" group-title="TV PREMIUM", HMTV HD 
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/11871.png" group-title="TV PREMIUM", HBO
+http://190.151.80.242:9990/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/11872.png" group-title="TV PREMIUM", HBO 2
+http://190.151.80.242:9990/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV PREMIUM", HBO +
+http://200.35.176.154:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV PREMIUM", HBO FAMILY
+http://200.35.176.154:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="TV PREMIUM", HBO XTREME
+http://200.35.176.154:8000/play/a00p/index.m3u8
 #EXTINF:0 group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&amp;rebase=on
 http://45.71.38.3:8010/play/a00v/index.m3u8?sd=10&rebase=on
@@ -585,6 +585,7 @@ https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
+
 
 
 
