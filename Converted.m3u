@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", ECUAVISA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", ECUAVISA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 http://45.71.38.3:8010/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", ECUAVISA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 http://177.234.230.206:8011/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", ECUAVISA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR", RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",RTS
 https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR", RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",RTS
 https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR", RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",RTS
 http://45.71.38.3:8010/play/a0hf/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR", TELEAMAZONAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
 http://181.188.216.5:8011/play/a008/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR", TELEAMAZONAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
 http://181.188.216.5:8011/play/a008/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR", TELEAMAZONAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS 
 http://45.71.38.3:8010/play/a0iw/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR", TELEAMAZONAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
 http://45.71.38.3:8010/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR", ECUADOR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR", ECUADOR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
 http://45.71.38.3:8010/play/a0g5/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR", ECUADOR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
 http://177.234.230.206:8011/play/a090/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_de_Gamavisi%C3%B3n_1995-1998.png" group-title="ECUADOR", GAMAVICION 
 http://45.225.90.239:8011/play/a00c/index.m3u8?sd=10&rebase=on
@@ -35,17 +35,17 @@ http://45.225.90.239:8011/play/a00h/index.m3u8?sd=10&rebase=on
 http://38.180.133.31:8000/play/a13t/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR", TC TELEVICION 
 http://177.234.230.206:8011/play/a099/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/478-4786823_canal-uno-ecuador-canal-uno-logo-png-transparent.png" group-title="ECUADOR", CANAL UNO 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/478-4786823_canal-uno-ecuador-canal-uno-logo-png-transparent.png" group-title="ECUADOR",CANAL UNO 
 https://movil.ejeserver.com/live/canaluno.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", OROMAR TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR TV 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Rtu_logo_2020.png" group-title="ECUADOR", RTU NOTICIAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Rtu_logo_2020.png" group-title="ECUADOR",RTU NOTICIAS 
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR", TELERAMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR",TELERAMA
 https://envivo.telerama.ec/stream.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://puruwatv.com/wp-content/uploads/2025/06/cropped-logo_header.png" group-title="ECUADOR", PURUWA TV RIOBAMBA 
+#EXTINF:-1 tvg-logo="https://puruwatv.com/wp-content/uploads/2025/06/cropped-logo_header.png" group-title="ECUADOR",PURUWA TV RIOBAMBA 
 https://liveontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1831296780.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/dba9268371f13e2e9f08e6dbf96d01a01edaf5d096949bd00c8cefc22151bc89.png" group-title="ECUADOR", ZARACAY TV 
 https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?sd=10&rebase=on
@@ -584,6 +584,7 @@ https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
+
 
 
 
