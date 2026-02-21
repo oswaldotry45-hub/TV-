@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
-https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+http://8.243.64.201:2025/play/a0c1/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
@@ -60,7 +60,7 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&reba
 #EXTINF:0 group-title="ECUADOR", RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png", group-title="ECUADOR", TVPJ
-https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&rebase=on
+https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/tvc-ecuador-logo-png_seeklogo-305906.png" group-title="ECUADOR", TVC
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ECUADOR", IMPERIO TV CANAL 6 
@@ -584,6 +584,7 @@ https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES", Canela.TV Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
+
 
 
 
