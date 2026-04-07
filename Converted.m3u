@@ -532,7 +532,7 @@ https://is.gd/yrbnRZ/oswaldo/Downloads/master.m3u8
 https://is.gd/21uqlj/oswaldo/Downloads/master.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
-http://190.117.20.37:8000/play/a05v/index.m3u8
+http://190.117.20.37:8000/play/a0eu/index.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
 http://190.117.20.37:8000/play/a0ex/index.m3u8
@@ -553,13 +553,13 @@ http://45.5.117.99:8000/play/a061/index.m3u8
 http://45.5.116.228:8000/play/a05g/index.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:DEPORTES
-http://38.224.231.47:8000/play/a039/index.m3u8
+http://45.5.116.228:8000/play/a05g/index.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:DEPORTES
-http://38.224.73.146:8000/play/a1by/index.m3u8
+http://45.5.117.99:8000/play/a062/index.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:DEPORTES
-http://38.224.231.98:8000/play/a0qv/index.m3u8
+http://190.117.20.37:8000/play/a07t/index.m3u8
 #EXTINF:0,ESPN 4
 #EXTGRP:DEPORTES
 http://45.5.117.99:8000/play/a064/index.m3u8
@@ -568,7 +568,7 @@ http://45.5.117.99:8000/play/a064/index.m3u8
 http://38.224.231.47:8000/play/a04h/index.m3u8
 #EXTINF:0,ESPN 4
 #EXTGRP:DEPORTES
-http://38.224.73.146:8000/play/a1b7/index.m3u8
+http://38.224.22.252:8000/play/a01y/index.m3u8
 #EXTINF:0,ESPN 5
 #EXTGRP:DEPORTES
 http://38.224.73.146:8000/play/a1bt/index.m3u8
