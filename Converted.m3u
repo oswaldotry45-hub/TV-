@@ -532,16 +532,16 @@ https://is.gd/yrbnRZ/oswaldo/Downloads/master.m3u8
 https://is.gd/21uqlj/oswaldo/Downloads/master.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
-http://200.59.188.3:8000/play/a0tf
+http://190.117.20.37:8000/play/a05v/index.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
-http://181.78.8.199:8000/play/a08y/index.m3u8
+http://190.117.20.37:8000/play/a0ex/index.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
-http://217.26.190.76:8888/play/a0ee/index.m3u8
+http://38.224.22.252:8000/play/a078/index.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:DEPORTES
-http://38.224.73.146:8000/play/a10u/index.m3u8
+http://38.224.22.252:8000/play/a089/index.m3u8
 #EXTINF:0,ESPN 2
 #EXTGRP:DEPORTES
 http://38.224.73.146:8000/play/a1bg/index.m3u8
