@@ -547,13 +547,13 @@ http://38.224.22.252:8000/play/a089/index.m3u8
 http://38.224.22.252:8000/play/a08a/index.m3u8
 #EXTINF:0,ESPN 2
 #EXTGRP:DEPORTES
-http://45.5.117.99:8000/play/a061/index.m3u8
+http://177.93.46.245:50000/play/a01f/index.m3u8
 #EXTINF:0,ESPN 2
 #EXTGRP:DEPORTES
 http://45.5.116.228:8000/play/a05g/index.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:DEPORTES
-http://45.5.116.228:8000/play/a05g/index.m3u8
+http://177.93.46.245:50000/play/a01d/index.m3u8
 #EXTINF:0,ESPN 3
 #EXTGRP:DEPORTES
 http://45.5.117.99:8000/play/a062/index.m3u8
