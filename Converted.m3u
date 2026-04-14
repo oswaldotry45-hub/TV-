@@ -4,6 +4,8 @@ http://170.82.113.51:8899/play/a0j1/index.m3u8
 #EXTINF:-1,EDS2
 http://181.119.97.124:8080/play/a00v/index.m3u8
 #EXTINF:-1,ESPN HD
+http://181.78.85.53:9002/play/a04z/index.m3u8
+#EXTINF:-1,ESPN HD
 http://143.255.85.248:8000/play/a0eo
 #EXTINF:-1,ESPN HD
 http://200.59.188.3:8000/play/a0tf
