@@ -125,6 +125,8 @@ http://170.244.209.30:8000/play/a0n6/index.m3u8
 http://170.244.209.30:8000/play/a0y3/index.m3u8
 #EXTINF:-1 group-title="-",TyC
 http://170.244.209.30:8000/play/a1fd/index.m3u8
+#EXTINF:-1,TYC SPORTS
+http://181.78.192.238:8000/play/a25u/index.m3u8
 #EXTINF:-1 group-title="-",Win
 http://170.244.209.30:8000/play/a1fn/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
@@ -133,6 +135,7 @@ http://170.244.209.30:8000/play/a0xz/index.m3u8
 http://190.60.32.178:8178/play/a0fk/index.m3u8
 #EXTINF:-1,Win
 http://170.82.113.51:8899/play/a0no/index.m3u8
+
 
 
 
