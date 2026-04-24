@@ -70,22 +70,28 @@ http://170.82.113.51:8899/play/a0pq/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75619ea6-bd6e-4cda-bf40-c3b5beed1e87.png",ESPN Premium
 http://181.64.27.65:8000/play/a0mz/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75619ea6-bd6e-4cda-bf40-c3b5beed1e87.png",ESPN Premium
-http://170.244.209.30:8000/play/a0sb/index.m3u8ts
-#EXTINF:-1 group-title="-" tvg-logo="",Claro Spor 1 HD
+http://170.244.209.30:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/48ecf614-3a6e-4e36-937f-bd562028a119.png",BEIN SPORTS EXTRA Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/48ecf614-3a6e-4e36-937f-bd562028a119.png",BEIN SPORTS EXTRA Ñ
+https://is.gd/mqFwLl/oswaldo/Downloads/master.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/331364c7-f9cd-4721-9117-b526a1ebc02e.png",BEIN SPORTS EXTRA LIVE
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 1 HD
 http://45.5.117.99:8000/play/a04w/index.m3u8
-#EXTINF:-1,Claro Sports 1 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 1 HD
 http://45.5.117.187:8000/play/a00v/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 1 HD
 http://45.5.117.187:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",Claro Sports 2 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 HD
 http://45.5.117.99:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",Claro Sports 2 SD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 SD
 http://45.5.117.99:8000/play/a03w/index.m3u8
-#EXTINF:-1,Claro Sports 2 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 HD
 http://45.5.117.187:8000/play/a06u/index.m3u8
-#EXTINF:-1,Claro Sports 2 SD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 HD
 http://45.5.117.187:8000/play/a036/index.m3u8
-#EXTINF:-1,Claro Sports 3 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 3 HD
 http://45.5.117.187:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports
 http://170.244.209.30:8000/play/a1fz/index.m3u8
