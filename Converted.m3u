@@ -3,51 +3,75 @@
 http://170.82.113.51:8899/play/a0j1/index.m3u8
 #EXTINF:-1 group-title="-",ECDF SD
 http://170.244.209.30:8000/play/a1fc/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD MX
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/ea89ebd3-993b-411c-aa99-1d28de525c5b.png",ESPN HD
+http://200.60.124.25:8000/play/a0q9/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/ea89ebd3-993b-411c-aa99-1d28de525c5b.png",ESPN HD
+http://200.60.124.25:8000/play/a0q0/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/ea89ebd3-993b-411c-aa99-1d28de525c5b.png",ESPN HD MX
 http://216.107.136.17:18112/play/a0kl/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/ea89ebd3-993b-411c-aa99-1d28de525c5b.png",ESPN HD
 http://45.5.117.99:8000/play/a060/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/ea89ebd3-993b-411c-aa99-1d28de525c5b.png",ESPN HD
 http://45.5.117.187:8000/play/a049/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/ea89ebd3-993b-411c-aa99-1d28de525c5b.png",ESPN HD
 http://45.5.117.187:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD 2 MX
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b6a048df-3300-4ef6-9bb6-7f707239d081.png",ESPN HD 2 MX
 http://45.190.187.183:8080/play/a1p8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN 2 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b6a048df-3300-4ef6-9bb6-7f707239d081.png",ESPN HD 2
+http://200.60.124.25:8000/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b6a048df-3300-4ef6-9bb6-7f707239d081.png",ESPN 2 HD
 http://45.5.117.99:8000/play/a061/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b6a048df-3300-4ef6-9bb6-7f707239d081.png",ESPN 2 HD
 http://45.5.117.187:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD 3 MX
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b6a048df-3300-4ef6-9bb6-7f707239d081.png",ESPN 2 HD
+http://181.64.27.65:8000/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75d22949-a359-4efd-9d71-63a7f09ecf40.png",ESPN HD 3 MX
 http://216.107.136.17:18112/play/a0kn/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN 3 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75d22949-a359-4efd-9d71-63a7f09ecf40.png",ESPN 3 HD
 http://45.5.117.99:8000/play/a062/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75d22949-a359-4efd-9d71-63a7f09ecf40.png",ESPN 3 HD
 http://45.5.117.187:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD 4 MX
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75d22949-a359-4efd-9d71-63a7f09ecf40.png",ESPN HD 4 MX
 http://216.107.136.17:18112/play/a0jk/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN  4 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/56a66372-8192-4580-88e4-0d6d88a45d7e.png",ESPN  4 HD
 http://45.5.117.99:8000/play/a064/index.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/56a66372-8192-4580-88e4-0d6d88a45d7e.png",ESPN 4 HD
 http://45.5.117.187:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD 5 MX
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/56a66372-8192-4580-88e4-0d6d88a45d7e.png",ESPN 4 HD
+http://181.64.27.65:8000/play/a0ms/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/56a66372-8192-4580-88e4-0d6d88a45d7e.png",ESPN 4 HD
+http://200.60.124.25:8000/play/a0l0/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/9a31ddd3-73d6-47ad-b4e2-f4bcb3135ec3.png",ESPN HD 5
+http://200.60.124.25:8000/play/a0jr/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/9a31ddd3-73d6-47ad-b4e2-f4bcb3135ec3.png",ESPN HD 5 MX
 http://216.107.136.17:18112/play/a0kj/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN 5  HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/9a31ddd3-73d6-47ad-b4e2-f4bcb3135ec3.png",ESPN 5  HD
 http://45.5.117.99:8000/play/a065/index.m3u8
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/9a31ddd3-73d6-47ad-b4e2-f4bcb3135ec3.png",ESPN 5 HD
 http://45.5.117.187:8000/play/a072/index.m3u8
-#EXTINF:-1,ESPN 5  HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/9a31ddd3-73d6-47ad-b4e2-f4bcb3135ec3.png",ESPN 5 HD
 http://45.5.117.187:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN HD 6 MX
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/26c03539-2dea-4d98-83f4-5347a997cd89.png",ESPN HD 6 MX
 http://216.107.136.17:18112/play/a0ko/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",ESPN 6 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/26c03539-2dea-4d98-83f4-5347a997cd89.png",ESPN 6 HD
 http://45.5.117.99:8000/play/a063/index.m3u8
-#EXTINF:-1,ESPN 6 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/26c03539-2dea-4d98-83f4-5347a997cd89.png",ESPN 6 HD
+http://200.60.124.25:8000/play/a0kx/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/26c03539-2dea-4d98-83f4-5347a997cd89.png",ESPN 6 HD
 http://45.5.117.187:8000/play/a074/index.m3u8
-#EXTINF:-1,ESPN Premium
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b44fb8f4-0092-4a48-bfba-79399cb038e7.png",ESPN 7 HD
+http://200.60.124.25:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b44fb8f4-0092-4a48-bfba-79399cb038e7.png",ESPN 7 HD
+http://181.64.27.65:8000/play/a0il/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/b44fb8f4-0092-4a48-bfba-79399cb038e7.png",ESPN 7 HD
+http://45.167.1.137:8000/play/a06a
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75619ea6-bd6e-4cda-bf40-c3b5beed1e87.png",ESPN Premium
 http://170.82.113.51:8899/play/a0pq/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://170.244.209.30:8000/play/a0sb/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",Claro Sports 1 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75619ea6-bd6e-4cda-bf40-c3b5beed1e87.png",ESPN Premium
+http://181.64.27.65:8000/play/a0mz/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ottplayer.tv/public/images/user_icons/75619ea6-bd6e-4cda-bf40-c3b5beed1e87.png",ESPN Premium
+http://170.244.209.30:8000/play/a0sb/index.m3u8ts
+#EXTINF:-1 group-title="-" tvg-logo="",Claro Spor 1 HD
 http://45.5.117.99:8000/play/a04w/index.m3u8
 #EXTINF:-1,Claro Sports 1 HD
 http://45.5.117.187:8000/play/a00v/index.m3u8
