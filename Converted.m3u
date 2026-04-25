@@ -86,17 +86,19 @@ http://45.224.150.142:8090/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
-http://190.61.63.140:2072/play/a04o/index.m3u8
+http://38.52.208.106:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
-http://167.250.223.26:8085/play/a07g/index.m3u8
+http://45.224.150.142:8090/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PREMIUM", BOM CINE
-http://176.65.146.237:8401/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
-http://167.250.223.26:8085/play/a08e/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/556621c9-ca77-4210-bd27-fe5577a0d54d.png" group-title="TV PREMIUM", CINECANAL
-http://190.61.63.140:2072/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/77d8c5dd-dee2-404f-9b19-4208cbe5701e.png" group-title="TV PREMIUM", CINEMAX
-http://190.61.63.140:2072/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM", CINECANAL
+http://45.224.150.142:8090/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM", CINECANAL
+http://38.52.208.106:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PREMIUM", CINEMAX
+http://45.224.150.142:8090/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PREMIUM", CINEMAX
+http://38.52.208.106:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png" group-title="DOCUMENTALES", City TV
 http://181.128.145.103:4000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
