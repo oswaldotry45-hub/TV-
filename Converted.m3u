@@ -145,42 +145,32 @@ http://181.78.197.59:8000/play/a07g/index.m3u8
 http://181.78.197.59:8000/play/a07h/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM", HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/f1560392-9276-4b55-8e38-39b60492b7fc.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:0 group-title="TV PREMIUN", ORBIT TV
-https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PREMIUM", PARAMOUNT NETWORK
-http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
-http://45.71.38.3:8010/play/a07a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD
-http://45.71.38.3:8010/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD
-http://45.71.38.3:8010/play/a04t/index.m3u8
-#EXTINF:0 group-title="TV PREMIUM", SPACE
-http://45.71.37.196:8010/play/a00d/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PREMIUM", Space HD
-http://45.71.38.3:8010/play/a0j9/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Star TVE HD
-http://45.71.38.3:8010/play/a05b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Stingray Concerts HD
-http://45.71.38.3:8010/play/a08q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Studio Universal HD
-http://45.71.38.3:8010/play/a04z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Sun Channel HD
-http://45.71.38.3:8010/play/a0js/index.m3u8
-#EXTINF:0 group-title="TV PREMIUM", SOMOS DEL ESTE TV
-http://177.234.230.206:8011/play/a0p5/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PREMIUM", TCM
-http://45.71.38.3:8010/play/a03x/index.m3u8
-#EXTINF:0 group-title="TV PREMIUM", TODO CINE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:0 group-title="TV PREMIUM", TNT
-http://191.52.214.5:8000/play/a024/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="TV PREMIUM", TNT Series HD
-http://45.71.38.3:8010/play/a0jh/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TNT Series HD
-http://45.71.38.3:8010/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PREMIUN",ORBIT TV
+https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
+http://205.235.6.29:8000/play/a0x7/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
+http://181.78.192.238:8000/play/a1uk/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
+http://170.82.113.51:8899/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE
+http://181.78.197.59:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE 
+http://181.78.192.238:8000/play/a2ez/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PREMIUM", STUDIO UNIVERSAL
+http://181.78.192.238:8000/play/a2e4/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PREMIUM", STUDIO UNIVERSAL
+http://181.78.197.59:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PREMIUM",TNT
+http://181.78.197.59:8000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PREMIUM",TNT
+http://181.78.192.238:8000/play/a265/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PREMIUM", TNT Series HD
+http://181.78.192.238:8000/play/a2ak/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PREMIUM", TNT Series HD
+http://181.78.192.238:8000/play/a1nt/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CINEMA ESTE HD
 http://45.71.38.3:8010/play/a064/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY HD
