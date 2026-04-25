@@ -101,9 +101,9 @@ http://45.224.150.142:8090/play/a02x/index.m3u8
 http://38.52.208.106:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png" group-title="TV PREMIUN", CLARO CINEMA
 http://181.78.192.238:8000/play/a1sy/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", CINE PREMIUN
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PREMIUM", CINE PREMIUN
 http://181.78.192.238:8000/play/a2aj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", CINEMA PREMIUM
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PREMIUM", CINEMA PREMIUM
 http://181.78.197.59:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PREMIUM", DHE
 http://181.78.192.238:8000/play/a1kd/index.m3u8
@@ -117,24 +117,34 @@ http://181.78.197.59:8000/play/a06y/index.m3u8
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PREMIUM", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PREMIUM",GOLDEN PREMIER
 http://181.78.197.59:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",GOLDEN PREMIER 2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PREMIUM",GOLDEN PREMIER 2
 http://181.78.197.59:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="TV PREMIUM",GOLDEN EDGE
 http://181.78.192.238:8000/play/a1ll/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/bcbf6a3d-ede1-41d0-a239-8e14aaaa25d6.png" group-title="TV PREMIUM", HMTV HD 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/hermanas-mirabal-tv-canal-33-salcedo.png" group-title="TV PREMIUM", HMTV HD 
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/11871.png" group-title="TV PREMIUM", HBO
-http://190.151.80.242:9990/play/a0lh/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/11872.png" group-title="TV PREMIUM", HBO 2
-http://190.151.80.242:9990/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="TV PREMIUM", HBO +
-http://200.35.176.154:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TV PREMIUM", HBO FAMILY
-http://200.35.176.154:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="TV PREMIUM", HBO XTREME
-http://200.35.176.154:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO
+http://181.78.192.238:8000/play/a1mg/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO
+http://170.82.113.51:8899/play/a0nm/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
+http://181.78.197.59:8000/play/a07e/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
+http://170.82.113.51:8899/play/a0pr/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM", HBO +
+http://181.78.197.59:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM", HBO +
+http://181.78.192.238:8000/play/a157/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM", HBO FAMILY
+http://181.78.192.238:8000/play/a1kf/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM", HBO FAMILY
+http://181.78.197.59:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM", HBO XTREME
+http://181.78.197.59:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM", HBO XTREME
+http://181.78.192.238:8000/play/a1jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/f1560392-9276-4b55-8e38-39b60492b7fc.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:0 group-title="TV PREMIUN", ORBIT TV
