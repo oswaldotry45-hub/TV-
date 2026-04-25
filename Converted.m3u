@@ -469,7 +469,7 @@ http://190.237.169.215:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 HD
 http://190.237.169.215:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES,FOX SPORT  FS 1 USA
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://168.232.168.242:9999/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES, Fox Sports FS
 http://38.188.186.47:4000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES, FOX SPORT FS 2
@@ -482,8 +482,8 @@ http://38.188.186.47:4000/play/Ji198/index.m3u8
 http://45.182.22.53:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", VIX LIGA ESPAñOLA
 http://177.10.184.193:8000/play/a0eh/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",SKY SPORTS 
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",SKY SPORTS 
+http://168.232.168.242:9999/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",  La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png" group-title="DEPORTES", La 2
