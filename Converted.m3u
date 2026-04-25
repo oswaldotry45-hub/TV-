@@ -171,26 +171,18 @@ http://181.78.192.238:8000/play/a265/index.m3u8
 http://181.78.192.238:8000/play/a2ak/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PREMIUM", TNT Series HD
 http://181.78.192.238:8000/play/a1nt/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CINEMA ESTE HD
-http://45.71.38.3:8010/play/a064/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY HD
-http://45.71.38.3:8010/play/a05q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME HD
-http://45.71.38.3:8010/play/a05p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
-http://45.71.38.3:8010/play/a05m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O HD
-http://45.71.38.3:8010/play/a05n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY HD
-http://45.71.38.3:8010/play/a05o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal
-http://45.71.38.3:8010/play/a0id/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal
-http://45.71.38.3:8010/play/a07j/index.m3u8
-#EXTINF:0 group-title="TV PREMIUM", UNIVERSAL CINEMA
-http://177.234.230.206:8011/play/a0dn/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PREMIUM", UNIVERSAL CHANNEL
-http://191.52.214.5:8000/play/a08h/index.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PREMIUM", UNIVERSAL TV
+http://181.78.192.238:8000/play/a2ey/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PREMIUM", UNIVERSAL TV
+http://181.78.197.59:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_crime-mediano.png" group-title="TV PREMIUM", UNIVERSAL CRIME HD
+http://181.78.192.238:8000/play/a2ab/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
+http://181.78.192.238:8000/play/a2a8/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="TV PREMIUM",UVIVERSAL CINEMA
+http://181.78.192.238:8000/play/a1u9/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PREMIUM", UNIVERSAL REALITY HD
+http://181.78.192.238:8000/play/a2aa/index.m3u8
 #EXTINF:0 group-title="TV PREMIUM", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:0 group-title="TV PREMIUM", VILLA ALTAGRACIA TV
