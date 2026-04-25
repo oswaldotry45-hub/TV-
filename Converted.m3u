@@ -91,36 +91,38 @@ http://38.52.208.106:8000/play/a05y/index.m3u8
 http://45.224.150.142:8090/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="TV PREMIUM", BOM CINE
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM", CINECANAL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM",CINECANAL
 http://45.224.150.142:8090/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM", CINECANAL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM",CINECANAL
 http://38.52.208.106:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PREMIUM", CINEMAX
 http://45.224.150.142:8090/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PREMIUM", CINEMAX
 http://38.52.208.106:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png" group-title="DOCUMENTALES", City TV
-http://181.128.145.103:4000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d58cd9e6-1449-4d3a-9a8b-e4bc0cb110a8.png" group-title="TV PREMIUM", CANAL STV
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CINE PREMIUN
-http://177.234.230.206:8011/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CINEMA PREMIUM
-
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE
-http://181.128.145.103:4000/play/a0cv/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/57add940-f73f-4e54-acf9-d13df098a5bd.png" group-title="TV PREMIUM", DHE HD
-http://190.61.63.140:2072/play/a041/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/00f0e499-496a-4876-8018-532ce8977119.png" group-title="TV PREMIUM", FX
-http://181.128.145.103:4000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/dc968caa-b926-4f49-9258-0131fe14f8a6.png" group-title="TV PREMIUM", GEN TV
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png" group-title="TV PREMIUN", CLARO CINEMA
+http://181.78.192.238:8000/play/a1sy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", CINE PREMIUN
+http://181.78.192.238:8000/play/a2aj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", CINEMA PREMIUM
+http://181.78.197.59:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PREMIUM", DHE
+http://181.78.192.238:8000/play/a1kd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PREMIUM", DHE HD
+http://181.78.197.59:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PREMIUM", FX
+http://181.78.192.238:8000/play/a2f0/index.
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PREMIUM", FX
+http://181.78.197.59:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PREMIUM", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/dc968caa-b926-4f49-9258-0131fe14f8a6.png" group-title="TV PREMIUM", GEN TV
+#EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PREMIUM", GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/44da746e-448e-4db1-a03b-b94d2aae7d4c.png" group-title="TV PREMIUM", GOLDEN PREMIER
-http://200.35.176.154:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",GOLDEN PREMIER
+http://181.78.197.59:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",GOLDEN PREMIER 2
+http://181.78.197.59:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM",GOLDEN EDGE
+http://181.78.192.238:8000/play/a1ll/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/bcbf6a3d-ede1-41d0-a239-8e14aaaa25d6.png" group-title="TV PREMIUM", HMTV HD 
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/11871.png" group-title="TV PREMIUM", HBO
@@ -205,9 +207,7 @@ http://45.71.38.3:8010/play/a0j6/index.m3u8
 http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="TV PREMIUM", WARNER CHANNEL
 http://177.234.230.206:8011/play/a0og/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
-https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
-#EXTINF:0 group-title="TV PREMIUM",EXTREMA TV 
+#EXTINF:0 group-title="TV CRISTIANO",EXTREMA TV 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2000635494.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/canal-global-tv-en-vivo-150x129.jpg" group-title="TV PREMIUM", GLOBAL TV
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
@@ -219,6 +219,40 @@ https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PREMIUM", READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w286831743.m3u8
+#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d58cd9e6-1449-4d3a-9a8b-e4bc0cb110a8.png" group-title="TV PREMIUM", CANAL STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9c896f14-5247-4379-b9b6-06d9a3ff4e8a.png" group-title="SONY ONE HITS", SONY ONE  HITS ACCION
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/badf6033-d40e-4085-99f1-c5ee3e193b31.png" group-title="SONY ONE HITS", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", SONY
+http://45.71.38.3:8010/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", Sony HD
+http://45.71.38.3:8010/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/80e9eae6-3ca4-4ecd-a347-4359360948f5.png" group-title="SONY ONE HITS", Sony Movies HD
+http://45.71.38.3:8010/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="SONY ONE HITS", SONY CHANNEL
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9fbe1952-c270-4939-8dc8-d779690fe62d.png" group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title= "SONY ONE HITS", SONY ONE  SERIES THRILLER
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE SERIES COMEDIA
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE ÉXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE THE BLACKLITS
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_4.png" group-title="SONY ONE HITS", LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
+https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online-324x235.png" group-title="RUNTIME TV", RUNTIME CINE SERIES
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg" group-title="RUNTIME TV", RUNTIME ACCIÓN
@@ -331,42 +365,7 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="SONY ONE HITS", SONY CHANNEL
-https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/badf6033-d40e-4085-99f1-c5ee3e193b31.png" group-title="SONY ONE HITS", SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9fbe1952-c270-4939-8dc8-d779690fe62d.png" group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
-https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9c896f14-5247-4379-b9b6-06d9a3ff4e8a.png" group-title="SONY ONE HITS", SONY ONE  HITS ACCION
-https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title= "SONY ONE HITS", SONY ONE  SERIES THRILLER
-https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE SERIES COMEDIA
-https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE ÉXITOS
-https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE THE BLACKLITS
-https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", SONY
-http://45.71.38.3:8010/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", Sony HD
-http://45.71.38.3:8010/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/80e9eae6-3ca4-4ecd-a347-4359360948f5.png" group-title="SONY ONE HITS", Sony Movies HD
-http://45.71.38.3:8010/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_4.png" group-title="SONY ONE HITS", LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Film
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY ONE HITS", LG 1: Spotlight
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY ONE HITS", GRJNGO PELICULAS DEL OESTE
-https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS en Español
-https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661441318727_1654105525363_FR_Crimenes_centeredHUD.png" group-title="DOCUMENTALES", Crímenes Verdaderos
-https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", Curiosity Explora
-https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
+
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet
 http://190.60.39.195:8000/play/a0ws/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet HD
@@ -401,6 +400,14 @@ http://181.128.145.103:4000/play/a015/index.m3u8
 http://45.226.205.96:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
 http://190.60.39.195:8000/play/a00a/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS en Español
+https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661441318727_1654105525363_FR_Crimenes_centeredHUD.png" group-title="DOCUMENTALES", Crímenes Verdaderos
+https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", Curiosity Explora
+https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
+https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES", ECDF SD
 http://177.234.230.206:8011/play/a0t9/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES", ECDF SD
