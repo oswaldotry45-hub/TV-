@@ -74,8 +74,10 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 http://181.13.252.102:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
-http://45.5.117.57:8200/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
+http://45.185.163.75:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/8b90714f-e278-45e1-b390-0b3867c5664f.png" group-title="TV PREMIUM", AMC SERIES
+http://45.185.163.75:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d49640cf-766e-441a-a692-ebb1f46e817a.png" group-title="TV PREMIUM", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/94b203c1-706a-4665-b896-e73d033f9668.png" group-title="TV PREMIUM", A&E
 http://167.250.223.26:8085/play/a05z/index.m3u8
