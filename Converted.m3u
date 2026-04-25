@@ -33,9 +33,9 @@ http://45.185.163.75:8000/play/a062/index.m3u8
 http://205.235.6.29:8000/play/a0yf/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR", TC TELEVICION 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://45.224.150.142:8090/play/a02a/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR", TC TELEVICION 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://45.224.150.142:8090/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/478-4786823_canal-uno-ecuador-canal-uno-logo-png-transparent.png" group-title="ECUADOR",CANAL UNO 
 https://movil.ejeserver.com/live/canaluno.m3u8
@@ -77,11 +77,11 @@ http://181.13.252.102:8000/play/a01z/index.m3u8
 http://45.185.163.75:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/8b90714f-e278-45e1-b390-0b3867c5664f.png" group-title="TV PREMIUM", AMC SERIES
 http://45.185.163.75:8000/play/a0at/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/330px-A%26E-Network-Logo.svg.png" group-title="TV PREMIUM", A&E
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E
 http://181.13.252.102:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="TV PREMIUM", A&E
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E
 http://45.185.163.75:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="TV PREMIUM", A&E HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E HD
 http://45.224.150.142:8090/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8
