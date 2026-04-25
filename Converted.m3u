@@ -31,7 +31,7 @@ http://45.185.163.75:8000/play/a061/index.m3u8
 http://45.185.163.75:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_de_Gamavisi%C3%B3n_1995-1998.png" group-title="ECUADOR", GAMAVICION
 http://205.235.6.29:8000/play/a0yf/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR", TC TELEVICION 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR", TC TELEVICION 
 http://45.224.150.142:8090/play/a02a/index.m3u8
