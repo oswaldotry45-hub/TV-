@@ -214,7 +214,7 @@ https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="SONY ONE HITS",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
-http://192.141.98.91:8000/play/a0yx/index.m3u8
+http://177.10.184.193:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
 http://181.78.192.238:8000/play/a1so/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
@@ -354,9 +354,9 @@ https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet
-http://190.60.39.195:8000/play/a0ws/index.m3u8
+http://177.10.184.193:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet HD
-http://167.250.223.26:8085/play/a06t/index.m3u8
+http://45.182.22.53:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
 http://181.128.145.103:4000/play/a0dx/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
