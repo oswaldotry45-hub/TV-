@@ -45,7 +45,7 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?sd=10&rebase=on
 http://45.185.163.75:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/tvc-ecuador-logo-png_seeklogo-305906.png" group-title="ECUADOR",TELEVICENTRO TVC
 http://8.243.64.201:2025/play/a0c6/index.m3u8
-#EXTINF:0 group-title="ECUADOR", FRECUENCIA MUSICAL TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf09c4d9487b72e8688236448c37ae427bdcee863667a28cef53bd45b876f8f6.png" group-title="ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Rtu_logo_2020.png" group-title="ECUADOR",RTU NOTICIAS 
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
@@ -69,6 +69,12 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
 https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8
 #EXTINF:0 group-title="ECUADOR", IMPERIO TV CANAL 6 
 https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2023/09/cropped-RTV-LOGO-2023-02-1-1536x1536.png" group-title="ECUADOR",CANAL RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
+#EXTINF:-1 tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" group-title="ECUADOR",CURIQUINGUE TV COTOPAXI
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.qenta.app/wp-content/uploads/2026/01/logo.png" group-title="ECUADOR",QUENTA TV
+https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
