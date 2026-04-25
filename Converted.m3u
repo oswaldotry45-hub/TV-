@@ -183,48 +183,36 @@ http://181.78.192.238:8000/play/a2a8/index.m3u8
 http://181.78.192.238:8000/play/a1u9/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PREMIUM", UNIVERSAL REALITY HD
 http://181.78.192.238:8000/play/a2aa/index.m3u8
-#EXTINF:0 group-title="TV PREMIUM", VISION TV
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM", WARNER HD
+http://192.141.98.91:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM",WARNER HD
+http://181.78.197.59:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PREMIUM", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:0 group-title="TV PREMIUM", VILLA ALTAGRACIA TV
+#EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PREMIUM", VILLA ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8
-#EXTINF:0 group-title="TV PREMIUM", WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", WARNER HD
-http://45.71.38.3:8010/play/a04u/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Warner
-http://45.71.38.3:8010/play/a04i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Warner Channel HD
-http://45.71.38.3:8010/play/a0j6/index.m3u8
-#EXTINF:0 group-title="TV PREMIUM", WOW TV MOVIES
-http://45.71.37.196:8010/play/a0hx/index.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="TV PREMIUM", WARNER CHANNEL
-http://177.234.230.206:8011/play/a0og/index.m3u8
-#EXTINF:0 group-title="TV CRISTIANO",EXTREMA TV 
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2000635494.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/canal-global-tv-en-vivo-150x129.jpg" group-title="TV PREMIUM", GLOBAL TV
-https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/10/Canal-Cine35mm-1-150x150.jpg" group-title="TV PREMIUM", CINE 35M
-https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/208301-150x84.png" group-title="TV PREMIUM", WOW MOVIE
+#EXTINF:-1 tvg-logo="https://tv.wow-iptv.com/logo.png" group-title="TV PREMIUM", WOW TV MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="TV PREMIUM", CIUDAD MAGICA TV
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.globaltv.com.do/banner.png" group-title="TV PREMIUM", GLOBAL TV
+https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PREMIUM", READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w286831743.m3u8
 #EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d58cd9e6-1449-4d3a-9a8b-e4bc0cb110a8.png" group-title="TV PREMIUM", CANAL STV
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="TV PREMIUM", CANAL STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqYT3mLOwSe2tCT9djITc1a4rC-hKxanvkywuAU8UeIkHaVkqwt1LDhrtUQqZO8m4cP-XHE4h-QnXlCBupaZ8oTASthEM7Rz5lAwu0l2_HRs9stLeJBvm8SUL4ONJ-kXWZM921yfOnAIdtz81kYBPy7JhQJLY8Lq1Ye4uuBeEawZvgAPT3-FfA0EaLfNkX/s600/extrema-tv.png" group-title="TV CRISTIANO",EXTREMA TV 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w2000635494.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9c896f14-5247-4379-b9b6-06d9a3ff4e8a.png" group-title="SONY ONE HITS", SONY ONE  HITS ACCION
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/badf6033-d40e-4085-99f1-c5ee3e193b31.png" group-title="SONY ONE HITS", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", SONY
-http://45.71.38.3:8010/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", Sony HD
-http://45.71.38.3:8010/play/a0j5/index.m3u8
+http://192.141.98.91:8000/play/a0yx/index.m3u8
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/d73cfa66-55ed-415a-ae01-4157281064a0.png" group-title="SONY ONE HITS", SONY HD
+http://181.78.192.238:8000/play/a1so/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/80e9eae6-3ca4-4ecd-a347-4359360948f5.png" group-title="SONY ONE HITS", Sony Movies HD
-http://45.71.38.3:8010/play/a058/index.m3u8
+http://181.78.192.238:8000/play/a2fk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="SONY ONE HITS", SONY CHANNEL
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/9fbe1952-c270-4939-8dc8-d779690fe62d.png" group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
