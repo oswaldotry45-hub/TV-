@@ -498,7 +498,7 @@ http://200.59.188.3:8000/play/a0cm
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",,Claro Spor 1 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",,Claro Spor 1 HD
 http://45.5.117.99:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 1 HD
 http://45.5.117.187:8000/play/a00v/index.m3u8
