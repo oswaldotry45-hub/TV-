@@ -462,27 +462,27 @@ http://181.78.192.238:8000/play/a1tz/index.m3u8
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES" ESPN 2 USA
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8?
-#EXTINF:-1 group-title="-",FOX SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 HD
 http://190.237.169.215:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 HD
 http://190.237.169.215:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 HD
 http://190.237.169.215:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/5/2/fox-logo-png_seeklogo-57116.png" group-title="DEPORTES,FOX SPORT  FS 1 USA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES,FOX SPORT  FS 1 USA
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/fox-sports-2-logo-png_seeklogo-314581.png" group-title="DEPORTES, FOX SPORT FS 2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES, Fox Sports FS
+http://38.188.186.47:4000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES, FOX SPORT FS 2
 http://38.188.186.47:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fox_sports_premium_mx.png/960px-Fox_sports_premium_mx.png" group-title="DEPORTES, FOX SPORT FS PREMIUN
 http://38.188.186.47:4000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/5/2/fox-logo-png_seeklogo-57116.png" group-title="DEPORTES, Fox Sports FS
-http://38.188.186.47:4000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b009a489-f58d-4336-9de4-5bfd072399c6.png" group-title="DEPORTES", LIGA MOVISTAR
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", LIGA MOVISTAR
 http://38.188.186.47:4000/play/Ji198/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b009a489-f58d-4336-9de4-5bfd072399c6.png" group-title="DEPORTES", LIGA ESPAñOLA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", LIGA ESPAñOLA
 http://45.5.117.57:8200/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b009a489-f58d-4336-9de4-5bfd072399c6.png" group-title="DEPORTES", VIX LIGA ESPAñOLA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", VIX LIGA ESPAñOLA
 http://45.186.106.220:5550/play/a051/index.m3u8
-#EXTINF:0 group-title="DEPORTES", SKY SPORTS 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",SKY SPORTS 
 https://www.taptv.ru/channel/DZOXCHH7YG05ZRQJDL/2082.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",  La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
@@ -498,47 +498,47 @@ http://200.59.188.3:8000/play/a0cm
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES", BEIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 1 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",,Claro Spor 1 HD
 http://45.5.117.99:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 1 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 1 HD
 http://45.5.117.187:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 1 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 1 HD
 http://45.5.117.187:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 2 HD
 http://45.5.117.99:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 SD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 2 SD
 http://45.5.117.99:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 2 HD
 http://45.5.117.187:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 2 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 2 HD
 http://45.5.117.187:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://media.muckrack.com/groups/icons/Screenshot_2024-08-22_at_3.16.27PM.png",Claro Spor 3 HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Spor 3 HD
 http://45.5.117.187:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TNT Sports
 http://170.244.209.30:8000/play/a1fz/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TNT Sports Premiun HD
 http://170.244.209.30:8000/play/a0hf/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TNT Sports Premiun HD
 http://170.244.209.30:8000/play/a0s9/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TNT Sports Premiun HD
 http://170.244.209.30:8000/play/a0n6/index.m3u8
-#EXTINF:-1 group-title="-",Tigo Sports HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Tigo Sports HD
 http://170.244.209.30:8000/play/a0y3/index.m3u8
-#EXTINF:-1 group-title="-",TyC
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TyC
 http://170.244.209.30:8000/play/a1fd/index.m3u8
-#EXTINF:-1 group-title="-",TyC
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TyC
 http://190.237.169.215:8000/play/a057/index.m3u8
-#EXTINF:-1,TYC SPORTS
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TYC SPORTS
 http://181.78.192.238:8000/play/a25u/index.m3u8
-#EXTINF:-1 group-title="-",Win
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win
 http://170.244.209.30:8000/play/a1fn/index.m3u8
-#EXTINF:-1 group-title="-",Win Sports+ HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win Sports+ HD
 http://170.244.209.30:8000/play/a0xz/index.m3u8
-#EXTINF:-1,Win sports
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win sports
 http://190.60.32.178:8178/play/a0fk/index.m3u8
-#EXTINF:-1,Win
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win
 http://170.82.113.51:8899/play/a0no/index.m3u8
-#EXTINF:-1,Win sports mas
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Win sports mas
 http://190.237.169.215:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN
 http://45.5.117.57:8200/play/a04t/index.m3u8
@@ -548,9 +548,9 @@ http://45.5.117.57:8200/play/a0ef/index.m3u8
 https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
 https://is.gd/5jTfOy/oswaldo/Desktop/manifest.m3u8
-#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Tigo Sports HD
 http://45.71.38.3:8010/play/a05d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Tigo Sports HD
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Tigo Sports HD
 http://45.71.38.3:8010/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/tdp_372x160.png" group-title="DEPORTES", TDP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
