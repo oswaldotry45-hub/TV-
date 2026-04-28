@@ -466,8 +466,8 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
 http://181.78.192.238:8000/play/a1tz/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN USA +
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN USA 
+https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN 2 USA
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8?
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
@@ -572,6 +572,8 @@ http://45.5.117.57:8200/play/a0ef/index.m3u8
 https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
 https://is.gd/5jTfOy/oswaldo/Desktop/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN VIX
+http://fortv.cc:8080/54514663/54514663/11885
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="DEPORTES",Tigo Sports HD
 http://45.71.38.3:8010/play/a05d/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="DEPORTES",Tigo Sports HD
