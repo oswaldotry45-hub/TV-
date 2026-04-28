@@ -470,23 +470,23 @@ http://181.78.192.238:8000/play/a1tz/index.m3u8
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES" ESPN 2 USA
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8?
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://181.65.154.10:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://181.65.155.51:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://181.66.249.25:8000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://190.237.169.215:8000/play/a05c/index.
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://190.237.169.215:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/960px-DSports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://181.65.155.51:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/960px-DSports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://190.237.169.215:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/960px-DSports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://181.66.249.25:8000/play/a0gq/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="",DIRECTV SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
 http://181.66.249.25:8000/play/a0d2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 HD
 http://190.237.169.215:8000/play/a054/index.m3u8
