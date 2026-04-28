@@ -197,6 +197,8 @@ http://192.141.98.91:8000/play/a00j/index.m3u8
 http://181.78.197.59:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PREMIUM",RTVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PREMIUM",NBC Universo West 
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PREMIUM", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PREMIUM", VILLA ALTAGRACIA TV
@@ -299,7 +301,7 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 https://jmp2.uk/stvp-ES500004NO
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2faacdc3-7db0-45c5-96a7-1dc185b6fb47.png" group-title="RAKUTEN TV", HISTORIAS DE ULTRATUMBA
 https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2faacdc3-7db0-45c5-96a7-1dc185b6fb47.png" group-title="RAKUTEN TV",CINE TERROR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="RAKUTEN TV",CINE TERROR
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="RAKUTEN TV",MISRETIOS SIN RESOLVER
 https://is.gd/wFABEW/oswaldo/Downloads/master.m3u8
@@ -391,6 +393,8 @@ http://167.250.223.26:8085/play/a05h/index.m3u8
 http://45.226.205.96:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/494be20a-a13a-4f62-8a3d-1ab3097c4106.png" group-title="DOCUMENTALES", Discovery World HD
 http://167.250.223.26:8085/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTALES",HISTORY 2
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
@@ -512,6 +516,8 @@ http://38.188.186.47:4000/play/Ji198/index.m3u8
 http://45.182.22.53:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", VIX LIGA ESPAñOLA
 http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilay5Jr.png" group-title="DEPORTES",LaLiga TV
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",SKY SPORTS 
 http://168.232.168.242:9999/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",La 1
