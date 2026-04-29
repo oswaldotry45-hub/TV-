@@ -382,7 +382,7 @@ http://190.60.39.195:8000/play/a0x3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
 http://170.244.209.30:8000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
-
+http://38.7.223.20:8000/play/a090
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES", Discovery H&H HD
 http://170.244.209.30:8000/play/a12h/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES", Discovery H&H HD
@@ -456,6 +456,10 @@ http://181.78.192.238:8000/play/a28k/index.m3u8
 http://181.78.192.238:8000/play/a2db/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4 MX
 http://45.186.105.185:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
+http://38.7.223.20:8000/play/a0jj
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
+http://191.97.63.231:2053/play/a0zy/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
 http://181.78.192.238:8000/play/a28b/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
