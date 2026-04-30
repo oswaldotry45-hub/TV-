@@ -524,13 +524,15 @@ http://45.5.151.147:8000/play/a00o/index.m3u8
 http://190.237.169.215:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
 http://45.5.151.147:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES,FS 1 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_(M%C3%A9xico)#/media/Archivo:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES,FS 1 FOX SPORT MX
 http://168.232.168.242:9999/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES,FS 1 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_(M%C3%A9xico)#/media/Archivo:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES,FS 1 FOX SPORT MX
 http://38.188.186.47:4000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES,FS 2 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_2_(M%C3%A9xico)#/media/Archivo:Fox_sports_3_mx.png" group-title="DEPORTES,FS 2 FOX SPORT MX
 http://200.115.120.1:8000/play/ca126/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-mx.png" group-title="DEPORTES,FS PREMIUN  FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Fox_sports_2_mx.png/960px-Fox_sports_2_mx.png" group-title="DEPORTES,FS 3 FOX SPORT MX
+http://200.115.120.1:8000/play/ca150/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_Premium_(M%C3%A9xico)#/media/Archivo:Fox_sports_premium_mx.png" group-title="DEPORTES,FS PREMIUN  FOX SPORT MX
 http://38.188.186.47:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", LIGA MOVISTAR
 http://38.188.186.47:4000/play/Ji198/index.m3u8
