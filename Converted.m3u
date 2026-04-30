@@ -512,25 +512,25 @@ http://190.237.169.215:8000/play/a05a/index.m3u8
 http://181.66.249.25:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
 http://181.66.249.25:8000/play/a0d2/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 AR
 http://190.237.169.215:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 AR
 http://45.5.151.147:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 AR
 http://190.237.169.215:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 AR
 http://45.5.151.147:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
 http://190.237.169.215:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
 http://45.5.151.147:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES,FOX SPORT  FS 1 USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES,FS 1 FOX SPORT MX
 http://168.232.168.242:9999/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES, Fox Sports FS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES,FS 1 FOX SPORT MX
 http://38.188.186.47:4000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES, FOX SPORT FS 2
-http://38.188.186.47:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fox_sports_premium_mx.png/960px-Fox_sports_premium_mx.png" group-title="DEPORTES, FOX SPORT FS PREMIUN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="DEPORTES,FS 2 FOX SPORT MX
+http://200.115.120.1:8000/play/ca126/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premium-us-mx.png" group-title="DEPORTES,FS PREMIUN  FOX SPORT MX
 http://38.188.186.47:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES", LIGA MOVISTAR
 http://38.188.186.47:4000/play/Ji198/index.m3u8
