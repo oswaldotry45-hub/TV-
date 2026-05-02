@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="https://www.gatotv.com/canal/ecuavisa_ecuador" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
+#EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 http://45.185.163.75:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 http://45.185.163.75:8000/play/a055/index.m3u8
