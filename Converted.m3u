@@ -4,9 +4,9 @@ http://45.185.163.75:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
 http://45.185.163.75:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
-http://177.234.230.206:8011/play/a00n/index.m3u8
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA PLAY
-https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",RTS
 http://45.185.163.75:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",RTS
