@@ -63,13 +63,13 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&re
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://nortvision.tv/storage/settings/logo_1775975816.png" group-title="ECUADOR",NORTOVICION TV TULCAN
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="ECUADOR",ECOTEL 
-https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png" group-title="ECUADOR",RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png", group-title="ECUADOR", TVPJ
 https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="ECUADOR",Ecotel TV 
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="ECUADOR",ECOTEL TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2ce2065d-989f-4eb7-8f00-ed80cc6f3a71.png" group-title="ECUADOR",IMPERIO TV CANAL 6 
 https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
