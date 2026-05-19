@@ -415,13 +415,13 @@ https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES", ECDF SD
 http://45.224.150.142:8090/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/images/logoECDFweb@3x.png" group-title="DEPORTES", ECDF SD
-http://181.78.192.238:8000/play/a1uy/index.m3u8
+http://181.78.192.238:8000/play/a1uy/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
-http://181.209.105.115:2525/play/espn/index.m3u8
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD AR
-http://45.5.151.147:8000/play/a00i/index.m3u8
+http://45.5.151.147:8000/play/a00i/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
-http://181.78.192.238:8000/play/a28q/index.m3u8
+http://181.78.192.238:8000/play/a28q/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
 http://45.224.150.142:8090/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
