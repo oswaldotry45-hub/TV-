@@ -596,15 +596,15 @@ http://181.119.203.146:8000/play/a0p4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT SPORTS
 http://179.60.224.196:8000/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
-http://170.244.209.30:8000/play/a0hf/index.m3u8
+http://191.97.63.231:2053/play/a0vj/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
-http://170.244.209.30:8000/play/a0s9/index.m3u8
+http://8.243.126.131:8000/play/a0o7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
-http://170.244.209.30:8000/play/a0n6/index.m3u8
+http://8.243.126.131:8000/play/a0o7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
-http://170.244.209.30:8000/play/a1fd/index.m3u8
+http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
-http://190.237.169.215:8000/play/a057/index.m3u8
+http://24.152.42.29:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
 http://181.78.192.238:8000/play/a25u/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS
