@@ -343,11 +343,11 @@ https://stream.ads.ottera.tv/cl/260521d878eube5kgc73c4b990/1920x1080_4787200_1_f
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png" group-title="FREE TV", FreeTV Asia
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b4935a9c-ae70-4be4-8c54-a8f806d4ebc3.png" group-title="FREE TV", FILMEX
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b4935a9c-ae70-4be4-8c54-a8f806d4ebc3.png" group-title="FREE TV",FILMEX
 https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/18433ae1-8924-4bef-929b-df6aa8415b40.png" group-title="FREE TV", FILMEX CLASICO
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/18433ae1-8924-4bef-929b-df6aa8415b40.png" group-title="FREE TV",FILMEX CLASICO
 https://jmp2.uk/rok-50cd4d6c632d5172834eb5b77fa395c6.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/f3413480-59d6-4efd-b3eb-083df1039c81.png" group-title="FREE TV", ORO TV 
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/f3413480-59d6-4efd-b3eb-083df1039c81.png" group-title="FREE TV",ORO TV 
 https://jmp2.uk/rok-44bdeb3ebdff5ed3b5468ddddfcfbf1b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/42ee7ce6165d5342be3e509f0afe5048/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562598895_ROKU-Clasicos-InfoHUD-1.png" group-title="CANELA TV", Canela.TV Clásicos
 https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8?sd=10&rebase=on
@@ -381,43 +381,45 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&rebase=on
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET
 http://179.60.191.102:8000/play/a0hu
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
 http://45.182.22.53:8000/play/a08s/index.m3u8
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
 http://45.182.22.53:8000/play/a0cq/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
 http://190.60.39.195:8000/play/a0x3/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES", Discovery Channel  HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL HD
 http://190.60.39.195:8000/play/a0x3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
 http://179.60.190.252:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
 http://190.83.15.112:8000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES", Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY H&H HD
 http://170.244.209.30:8000/play/a12h/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES", Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY H&H HD
 http://170.244.209.30:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="DOCUMENTALES", Discovery Science
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE
 http://179.60.190.252:8000/play/a0g4/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="DOCUMENTALES", Discovery Science
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE 
 http://190.83.15.112:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="DOCUMENTALES", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="DOCUMENTALES",DISCOVERY TURBO
 http://190.83.15.112:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="DOCUMENTALES", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="DOCUMENTALES",DISCOVERY TURBO
 http://179.60.190.252:8000/play/a0g2/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="DOCUMENTALES", Discovery World HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="DOCUMENTALES",DISCOVERY WORLD HD
 http://179.60.190.252:8000/play/a05b/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="DOCUMENTALES", Discovery World HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="DOCUMENTALES",DISCOVERY WORLD HD
 http://190.83.15.112:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY ID
+http://38.226.210.46:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="DOCUMENTALES",HISTORY
 http://181.119.203.146:8000/play/a0ni/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
 http://181.119.203.146:8000/play/a0hg/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES",DISNEY CHANNEL
 http://179.60.191.102:8000/play/a0i7
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES", Disney Channel
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/46.png" group-title="DOCUMENTALES",DISNEY CHANNEL
 http://190.83.15.112:8000/play/a07z/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS en Español
 https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
