@@ -81,6 +81,8 @@ https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8?sd=10&rebase=
 https://video2.lhdserver.es/pjtv/live.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.qenta.app/wp-content/uploads/2026/01/logo.png" group-title="ECUADOR",QUENTA TV
 https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
+EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV PREMIUN",15TV PIÑAS ECUADOR
+https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
@@ -435,17 +437,17 @@ http://45.224.150.142:8090/play/a02u/index.m3u8
 http://181.78.192.238:8000/play/a1uy/index.m3u8
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD AR
-http://45.5.151.147:8000/play/a00i/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="DEPORTES" ,ESPN HD AR
+http://45.5.151.147:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
-http://181.78.192.238:8000/play/a28q/index.m3u8?hls
+http://181.78.192.238:8000/play/a28q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://45.224.150.142:8090/play/a02k/index.m3u8?hls
+http://45.224.150.142:8090/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
 http://190.60.39.195:8000/play/a0w0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD MX
 http://45.186.105.185:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2 AR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="DEPORTES" ,ESPN 2 AR
 http://45.5.151.147:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
 http://45.224.150.142:8090/play/a004/index.m3u8
@@ -455,7 +457,7 @@ http://190.60.39.195:8000/play/a0w4/index.m3u8
 http://181.78.192.238:8000/play/a28a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2 MX
 http://181.78.192.238:8000/play/a2ag/index.m3u8
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 AR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="DEPORTES" ,ESPN 3 AR
 http://45.5.151.147:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 
 http://190.60.39.195:8000/play/a0wc/index.m3u8
