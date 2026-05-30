@@ -391,6 +391,8 @@ http://45.182.22.53:8000/play/a0cq/index.m3u8?sd=10&rebase=on
 http://190.60.39.195:8000/play/a0x3/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL HD
 http://190.60.39.195:8000/play/a0x3/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="DOCUMENTALES",NAT GEO HD
+http://191.97.63.231:2053/play/a102/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
 http://179.60.190.252:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
@@ -413,6 +415,8 @@ http://179.60.190.252:8000/play/a05b/index.m3u8
 http://190.83.15.112:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY ID
 http://38.226.210.46:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY ID
+http://217.26.190.76:8888/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="DOCUMENTALES",HISTORY
 http://181.119.203.146:8000/play/a0ni/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
@@ -649,6 +653,8 @@ http://45.5.118.188:8000/play/a04i/index.m3u8
 http://45.5.118.188:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/tdp_372x160.png" group-title="DEPORTES", TDP
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_deportes-mediano.png" group-title="DEPORTES",MOVISTAR DEPORTES
+http://191.97.63.231:2053/play/a19y/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/2025/FuboSportsNetwork_Logo_White.png" group-title="DEPORTES",Fubo Sports Network
 https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2ec80781f9/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="613761" tvg-logo="https://canvas-lb.tubitv.com/opts/SH4jUM0alBEcjw==/7bffc557-8e66-4b08-b279-55ece734e19f/CHgQeDoFMS4xLjhAAQ==" group-title="DEPORTES",NFL Channel
