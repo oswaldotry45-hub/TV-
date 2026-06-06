@@ -83,7 +83,7 @@ https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8?sd=10&rebase=
 https://video2.lhdserver.es/pjtv/live.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.qenta.app/wp-content/uploads/2026/01/logo.png" group-title="ECUADOR",QUENTA TV
 https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
-EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV PREMIUN",15TV PIÑAS ECUADOR
+EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="ECUADOR",15TV PIÑAS ECUADOR
 https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8?sd=10&rebase=on
@@ -227,7 +227,7 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8?sd=10&rebase=on
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="TV PREMIUM", CANAL STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUN",EXTEMA ACCION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwSQQNHrGUlm2lQidkGzznGBkmrUhHIp5jQ&s" group-title="TV PREMIUM",EXTEMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqYT3mLOwSe2tCT9djITc1a4rC-hKxanvkywuAU8UeIkHaVkqwt1LDhrtUQqZO8m4cP-XHE4h-QnXlCBupaZ8oTASthEM7Rz5lAwu0l2_HRs9stLeJBvm8SUL4ONJ-kXWZM921yfOnAIdtz81kYBPy7JhQJLY8Lq1Ye4uuBeEawZvgAPT3-FfA0EaLfNkX/s600/extrema-tv.png" group-title="TV CRISTIANO",EXTREMA TV CRISTIANO 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?sd=10&rebase=on
