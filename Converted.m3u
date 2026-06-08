@@ -149,6 +149,14 @@ http://190.83.15.112:8000/play/a0es/index.m3u8
 http://181.78.197.59:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
 http://170.82.113.51:8899/play/a0pr/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
+http://181.78.197.59:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
+http://181.78.192.238:8000/play/a1jm/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
+http://186.5.77.99:8000/play/a0li/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
+http://181.13.252.102:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
 http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
@@ -157,10 +165,6 @@ http://181.78.192.238:8000/play/a157/index.m3u8
 http://181.78.192.238:8000/play/a1kf/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM",HBO FAMILY
 http://181.78.197.59:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
-http://181.78.197.59:8000/play/a07h/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
-http://181.78.192.238:8000/play/a1jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
 http://200.115.120.1:8000/play/ca026/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
@@ -606,11 +610,11 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
 http://200.59.188.3:8000/play/a0cm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
-https://goo.su/Bsgw
+https://n9.cl/bx5ot/oswaldotry45/Desktop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS XTRA USA
 https://is.gd/mqFwLl/oswaldo/Desktop/manifest.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS XTRA USA
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS XTRA USA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",La 1
