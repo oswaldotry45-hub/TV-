@@ -169,6 +169,12 @@ http://181.78.197.59:8000/play/a07g/index.m3u8
 http://45.181.121.57:2909/play/122
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
+#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",+CINE
+http://45.181.123.194:8019/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",+CINE WAR
+http://45.181.123.194:8019/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",+CINE TERROR
+http://45.181.123.194:8019/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
 http://200.115.120.1:8000/play/ca026/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
