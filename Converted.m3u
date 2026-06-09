@@ -213,6 +213,8 @@ http://181.78.192.238:8000/play/a2a8/index.m3u8
 http://181.78.192.238:8000/play/a1u9/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PREMIUM", UNIVERSAL REALITY HD
 http://181.78.192.238:8000/play/a2aa/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/usa_network_latinoamerica-mediano.png" group-title="TV PREMIUM",USA NETWORK
+http://181.13.252.102:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM", WARNER HD
 http://179.60.191.102:8000/play/a0if
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM",WARNER HD
