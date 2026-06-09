@@ -166,7 +166,7 @@ http://181.78.192.238:8000/play/a1kf/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM",HBO FAMILY
 http://181.78.197.59:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME
-http://45.181.121.57:2909/play/122
+http://138.36.253.106:8066/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="TV PREMIUM",+CINE
@@ -177,10 +177,8 @@ http://45.181.123.194:8019/play/a02q/index.m3u8
 http://45.181.123.194:8019/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
 http://200.115.120.1:8000/play/ca026/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PREMIUM",ORBIT TV
-https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
+http://138.36.253.106:8066/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
 http://205.235.6.29:8000/play/a0x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
@@ -219,6 +217,10 @@ http://181.78.192.238:8000/play/a2aa/index.m3u8
 http://179.60.191.102:8000/play/a0if
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM",WARNER HD
 http://181.78.197.59:8000/play/a07s/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PREMIUM",ORBIT TV
+https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PREMIUM",RTVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PREMIUM",NBC Universo West 
