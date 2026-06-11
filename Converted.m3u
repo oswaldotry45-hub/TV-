@@ -453,6 +453,40 @@ https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
 https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
+http://45.185.163.75:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",ULTRA TV 
+http://45.185.163.75:8000/play/a0hf/index.m3u8
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
+http://190.108.93.180:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
+http://45.239.49.157:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO
+http://201.151.118.136:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO
+http://201.151.118.136:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",FOX COSTA RICA
+http://187.245.231.226:8000/play/a0vc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",AMÉRICA TV PERU
+http://179.1.139.84:8000/play/a0hl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://179.1.139.84:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://181.79.92.109:7778/play/a08n/index.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",RCN COLOMBIA
+http://45.239.49.157:8000/play/a0j0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
+http://45.239.49.157:8000/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
+http://181.79.92.109:7778/play/a07g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVICION
+http://191.97.61.32:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",SBT BRASIL
+http://138.117.81.96:8000/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",SPORTTV BRASIL
+http://138.117.81.96:8000/play/a0fq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
 http://204.199.242.203:58000/play/a079/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
