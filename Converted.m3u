@@ -463,29 +463,29 @@ http://190.108.93.180:8000/play/a054/index.m3u8
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
 http://45.239.49.157:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
 http://201.151.118.136:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
 http://201.151.118.136:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",FOX COSTA RICA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
 http://187.245.231.226:8000/play/a0vc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",AMÉRICA TV PERU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="COPA DEL MUNDO",AMÉRICA TV PERU
 http://179.1.139.84:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://179.1.139.84:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://181.79.92.109:7778/play/a08n/index.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",RCN COLOMBIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://45.239.49.157:8000/play/a0j0/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
+#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://45.239.49.157:8000/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
+#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://181.79.92.109:7778/play/a07g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVICION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/960px-Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA DEL MUNDO",CHILEVICION
 http://191.97.61.32:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",SBT BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/250px-SBT_logo.svg.png" group-title="COPA DEL MUNDO",SBT BRASIL
 http://138.117.81.96:8000/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",SPORTTV BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="COPA DEL MUNDO",SPORTTV BRASIL
 http://138.117.81.96:8000/play/a0fq/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
 http://204.199.242.203:58000/play/a079/index.m3u8?sd=10&rebase=on
@@ -627,6 +627,8 @@ http://200.229.147.142:8000/play/a03i/index.m3u8
 http://200.229.147.142:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="DEPORTES",FOX SPORT HD CR
 http://186.33.7.209:8010/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",Claro Spor 1 HD MX
+http://186.33.7.209:8010/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",Claro Spor 1 HD
 http://45.5.117.99:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",Claro Spor 1 HD
