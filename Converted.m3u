@@ -487,6 +487,10 @@ http://181.79.92.109:7778/play/a07g/index.m3u8
 http://191.97.61.32:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="COPA DEL MUNDO",RPC
 http://181.78.121.15:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="COPA DEL MUNDO",TV PUBLICA ARGENTINA
+http://190.7.19.197:232/play/a03c/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/250px-Televisi%C3%B3n_Federal_Logo.svg.png" group-title="COPA DEL MUNDO",TELEFE ARGENTINA
+http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/250px-SBT_logo.svg.png" group-title="COPA DEL MUNDO",SBT BRASIL
 http://138.117.81.96:8000/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="COPA DEL MUNDO",SPORTTV BRASIL
