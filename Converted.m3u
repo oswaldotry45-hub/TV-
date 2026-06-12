@@ -473,12 +473,8 @@ http://187.245.231.226:8000/play/a0vc/index.m3u8
 http://45.5.118.152:8000/play/a0ds/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="COPA DEL MUNDO",AMÉRICA TV PERU
 http://179.1.139.84:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
-http://179.1.139.84:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
-http://181.79.92.109:7778/play/a08n/index.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
-http://45.239.49.157:8000/play/a0j0/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="COPA DEL MUNDO",TYC SPORTS
+http://200.4.195.66:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://45.239.49.157:8000/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
