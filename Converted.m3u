@@ -496,7 +496,9 @@ http://181.78.121.15:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="COPA DEL MUNDO",TV PUBLICA ARGENTINA
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
-http://24.152.42.29:8000/play/a0bs/index.m3u8?
+http://24.152.42.29:8000/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/960px-Teletica_Logo.png" group-title="COPA DEL MUNDO",TELETICA COSTA RICA
+http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/250px-Televisi%C3%B3n_Federal_Logo.svg.png" group-title="COPA DEL MUNDO",TELEFE ARGENTINA
 http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/250px-SBT_logo.svg.png" group-title="COPA DEL MUNDO",SBT BRASIL
