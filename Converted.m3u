@@ -453,7 +453,7 @@ https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
 https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO"CALENDARIO FIFA 2026
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CALENDARIO FIFA 2026
 http://200.115.120.1:8000/play/ca109/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
 http://45.185.163.75:8000/play/a00s/index.m3u8
@@ -481,7 +481,7 @@ http://200.4.195.66:8000/play/a007/index.m3u8
 http://45.239.49.157:8000/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://186.33.52.206:7900/play/a0pm/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO" TELEMUNDO E.E.U.U.
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://45.239.49.157:8000/play/a0j0/index.m3u8
@@ -495,6 +495,8 @@ http://181.79.92.109:7778/play/a08n/index.m3u8
 http://191.97.61.32:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="COPA DEL MUNDO",RPC
 http://181.78.121.15:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
+http://186.33.24.156:8000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="COPA DEL MUNDO",TV PUBLICA ARGENTINA
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
