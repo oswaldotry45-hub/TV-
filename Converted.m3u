@@ -457,6 +457,8 @@ https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 http://200.115.120.1:8000/play/ca109/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
 http://45.185.163.75:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
+http://152.231.29.139:8000/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",ULTRA TV 
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
@@ -465,6 +467,8 @@ http://190.108.93.180:8000/play/a054/index.m3u8
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
 http://45.239.49.157:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
+http://152.231.29.139:8000/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
 http://201.151.118.136:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
@@ -482,7 +486,7 @@ http://45.239.49.157:8000/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+http://152.231.29.139:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://45.239.49.157:8000/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
