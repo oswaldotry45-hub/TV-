@@ -501,6 +501,8 @@ http://181.79.92.109:7778/play/a08n/index.m3u8
 http://191.97.61.32:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="COPA DEL MUNDO",RPC
 http://181.78.121.15:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO",AZTECA 7
+http://45.228.235.116:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
 http://186.33.24.156:8000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
