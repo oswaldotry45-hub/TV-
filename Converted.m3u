@@ -487,6 +487,8 @@ http://45.239.49.157:8000/play/a0jm/index.m3u8
 http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
 http://152.231.29.139:8000/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
+http://152.231.29.139:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://45.239.49.157:8000/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
