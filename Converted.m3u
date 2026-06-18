@@ -497,6 +497,8 @@ http://191.97.61.32:8000/play/a09k/index.m3u8
 http://181.78.121.15:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
 http://186.33.24.156:8000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
+https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="COPA DEL MUNDO",TV PUBLICA ARGENTINA
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
