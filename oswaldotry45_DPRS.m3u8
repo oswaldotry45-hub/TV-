@@ -6,7 +6,7 @@ http://45.71.202.124:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
-
+http://45.224.150.120:8000/play/a0xc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO 
@@ -29,3 +29,7 @@ http://45.5.118.152:8000/play/a0dh/index.m3u8
 http://45.185.163.75:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
 http://45.185.163.75:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
+http://45.224.150.120:8000/play/a0vo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",LA LIGA ESPAÑA
+http://45.186.106.207:8000/play/a09h/index.m3u8
