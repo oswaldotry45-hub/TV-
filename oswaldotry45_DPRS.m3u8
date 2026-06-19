@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://200.59.188.3:8000/play/a1a0
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://45.71.202.124:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://45.185.163.75:8000/play/a0hf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://45.224.150.120:8000/play/a0xc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://191.52.214.129:8000/play/a06gx/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS MAS
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS MAS
 http://38.210.4.182:8000/play/a1bv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.228.235.116:8000/play/a08i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO 
 http://45.5.118.139:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO 
 http://45.5.118.139:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORTS PREMIUN MEXICO
 http://45.5.118.139:8000/play/a06z/index.m3u8
@@ -31,29 +31,33 @@ http://8.243.126.131:8000/play/a01q/index.m3u8
 http://45.5.118.139:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",AZTECA 7 MEXICO
 http://45.228.234.62:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",FOX
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX
 http://45.5.118.152:8000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",FOX
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX
 http://45.185.163.75:8000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://152.231.29.139:8000/play/a08o/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://152.231.29.139:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO",CHILEVIVION
 http://152.231.29.139:8000/play/a09q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO",CHILEVIVION
 http://45.224.150.120:8000/play/a0w4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO",CHILEVIVION
 http://38.226.49.253:8000/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CANAL 5 MEXICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="COPA DEL MUNDO",CANAL 5 MEXICO
 http://190.61.90.17:40000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
+http://24.152.42.29:8000/play/a0bs/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
 http://45.185.163.75:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
 http://45.224.150.120:8000/play/a0vo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",LA LIGA ESPAÑA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",LA LIGA ESPAÑA
 http://45.186.106.207:8000/play/a09h/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",LA LIGA ESPAÑA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",LA LIGA ESPAÑA
 http://45.228.234.62:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="DEPORTES",Sky Sports Main Event
 http://fortv.cc:8080/54514663/54514663/35243
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",CLARO SPORTS 2
+http://190.61.90.17:40000/play/a0kz/index.m3u8
