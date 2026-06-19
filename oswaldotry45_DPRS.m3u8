@@ -9,6 +9,8 @@ http://45.185.163.75:8000/play/a0hf/index.m3u8
 http://45.224.150.120:8000/play/a0xc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
+http://45.228.235.116:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO 
 http://45.5.118.139:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TUDN MEXICO 
