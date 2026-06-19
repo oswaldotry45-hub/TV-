@@ -7,6 +7,10 @@ http://45.71.202.124:8000/play/a001/index.m3u8
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
 http://45.224.150.120:8000/play/a0xc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS 
+http://191.52.214.129:8000/play/a06gx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",DSPORTS MAS
+http://38.210.4.182:8000/play/a1bv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TIGO SPORTS
@@ -39,6 +43,10 @@ http://152.231.29.139:8000/play/a0j5/index.m3u8
 http://152.231.29.139:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
 http://45.224.150.120:8000/play/a0w4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
+http://38.226.49.253:8000/play/a0c9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CANAL 5 MEXICO
+http://190.61.90.17:40000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
 http://45.185.163.75:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
