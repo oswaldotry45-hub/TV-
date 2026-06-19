@@ -31,6 +31,14 @@ http://45.228.234.62:8000/play/a008/index.m3u8
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",FOX
 http://45.185.163.75:8000/play/a0ij/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://152.231.29.139:8000/play/a08o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://152.231.29.139:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
+http://152.231.29.139:8000/play/a09q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CHILEVIVION
+http://45.224.150.120:8000/play/a0w4/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
 http://45.185.163.75:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",ECDF 
