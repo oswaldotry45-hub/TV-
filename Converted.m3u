@@ -455,10 +455,14 @@ https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",CALENDARIO FIFA 2026
 http://200.115.120.1:8000/play/ca109/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="COPA DEL MUNDO",ESPN Mundial | Disney+
+http://148.222.230.144:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
 http://45.185.163.75:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
 http://152.231.29.139:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="COPA DEL MUNDO",TELEAMAZONAS
+http://181.79.87.132:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",ULTRA TV 
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
@@ -469,6 +473,8 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
 http://45.239.49.157:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
 http://152.231.29.139:8000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
+https://tinyurl.com/35hxmhya
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
 http://201.151.118.136:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
@@ -476,51 +482,133 @@ http://201.151.118.136:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
 http://187.245.231.226:8000/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
-http://45.5.118.152:8000/play/a0ds/index.m3u8?
+http://45.5.118.152:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
+http://201.207.54.159:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (El Salvador)
+http://201.207.54.159:8000/play/a0av/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (Guatemala)
+http://201.207.54.159:8000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (Honduras)
+http://201.207.54.159:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (MEXICO)
+http://38.194.226.190:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="COPA DEL MUNDO",AMÉRICA TV PERU
 http://179.1.139.84:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="COPA DEL MUNDO",TYC SPORTS
-http://200.4.195.66:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://45.239.49.157:8000/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://186.33.52.206:7900/play/a0pm/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
+http://45.70.168.162:8466/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
 http://152.231.29.139:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
 http://152.231.29.139:8000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",Telemundo (USA)
+http://132.255.210.69:9000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",Telemundo (USA)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://45.239.49.157:8000/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://181.78.11.82:6868/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
+http://181.78.168.37:8000/play/a0d2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
+http://45.70.168.162:8466/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://179.1.139.84:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://181.79.92.109:7778/play/a08n/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/960px-Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA DEL MUNDO",CHILEVICION
-http://191.97.61.32:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://181.78.168.37:8000/play/a0dn
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://181.78.168.37:8000/play/a0d3
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
+http://45.70.168.162:8466/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="COPA DEL MUNDO",RPC
 http://181.78.121.15:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO",AZTECA 7
 http://45.228.235.116:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca 7 (México) OPT-1
+http://45.171.64.30:2000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca 7 (México) OPT-2
+http://38.194.226.190:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca Deportes Network (México) OPT-1
+http://38.194.226.190:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca Deportes Network (México) OPT-2
+http://132.255.210.69:9000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
 http://186.33.24.156:8000/play/a0dh/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
 https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="COPA DEL MUNDO",TYC SPORTS
+http://200.4.195.66:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
+http://38.43.150.187:7777/play/a09r/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
+http://38.43.150.187:7777/play/a09y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="COPA DEL MUNDO",TV PUBLICA ARGENTINA
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
 http://24.152.42.29:8000/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="COPA DEL MUNDO",Canal 5 (México) OPT-1
+http://45.171.64.30:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="COPA DEL MUNDO", Canal 5 (México) OPT-2
+http://38.194.226.190:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="COPA DEL MUNDO", Canal 5 (México) OPT-3
+http://132.255.210.69:9000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Telefe#/media/Archivo:Televisi%C3%B3n_Federal_Logo.svg" group-title="COPA DEL MUNDO", Telefe (Argentina)
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Telefe#/media/Archivo:Televisi%C3%B3n_Federal_Logo.svg" group-title="COPA DEL MUNDO", Telefe Cordoba (Argentina)
+https://cdn.pontiscloud.com/output/Canal8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Telefe#/media/Archivo:Televisi%C3%B3n_Federal_Logo.svg" group-title="COPA DEL MUNDO", Telefe Rosario (Argentina)
+https://cdn.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/960px-Teletica_Logo.png" group-title="COPA DEL MUNDO",TELETICA COSTA RICA
 http://45.163.139.42:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
+https://iptv.bitred.cl/chv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
+https://iptv2.intersurtv.cl/CHILEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
+http://38.97.240.11:8000/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
+http://190.102.247.126:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
+http://181.79.87.132:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO",CHILEVICION
+http://191.97.61.32:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/250px-Televisi%C3%B3n_Federal_Logo.svg.png" group-title="COPA DEL MUNDO",TELEFE ARGENTINA
 http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png" group-title="COPA DEL MUNDO", GEN TV
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
+#EXTINF:-1 group-title="COPA DEL MUNDO", Canal 4 (El Salvador)
+http://132.255.210.69:9000/play/a033/index.m3u8
+#EXTINF:-1 group-title="COPA DEL MUNDO", Canal 7 (Guatemala) OPT-1
+http://201.207.54.159:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="COPA DEL MUNDO", Canal 7 (Guatemala) OPT-2
+http://132.255.210.69:9000/play/a031/index.m3u8
+#EXTINF:-1 group-title="COPA DEL MUNDO", Canal 11 TeleOnce (Guatemala) OPT-1
+http://201.207.54.159:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="COPA DEL MUNDO", Canal 11 TeleOnce (Guatemala) OPT-2
+http://132.255.210.69:9000/play/a022/index.m3u8
+#EXTINF:-1 group-title="COPA DEL MUNDO", Popu TV (Paraguay)
+http://181.79.87.132:8000/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/250px-SBT_logo.svg.png" group-title="COPA DEL MUNDO",SBT BRASIL
 http://138.117.81.96:8000/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="COPA DEL MUNDO",SPORTTV BRASIL
 http://138.117.81.96:8000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="COPADEL MUNDO", Fuji TV (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+#EXTINF:-1 group-title="COPA DEL MUNDO", NHK G HD (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+#EXTINF:-1 group-title="COPA DEL MUNDO", NHK BSP4K (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 group-title="COPA DEL MUNDO", NTV HD (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
 http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
@@ -535,7 +623,7 @@ http://186.5.77.99:8000/play/a0f5/index.m3u8
 http://181.78.192.238:8000/play/a1uy/index.m3u8
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?hls
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="DEPORTES" ,ESPN HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="DEPORTES",ESPN HD 
 http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
 http://181.78.192.238:8000/play/a28q/index.m3u8
