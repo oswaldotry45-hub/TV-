@@ -53,7 +53,7 @@ http://38.226.49.253:8000/play/a0c9/index.m3u8
 http://190.61.90.17:40000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
 http://24.152.42.29:8000/play/a0bs/index.m3u8
-#EXTINF:-1 tvg-id="GEN TV" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png" group-title="CANALES PARAGUAY OP2", GEN TV
+#EXTINF:-1 tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png" group-title="COPA DEL MUNDO", GEN TV
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/960px-Teletica_Logo.png" group-title="COPA DEL MUNDO",TELETICA COSTA RICA
 http://45.163.139.42:8000/play/a02k/index.m3u8
