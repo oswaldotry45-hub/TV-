@@ -37,6 +37,8 @@ http://205.235.6.29:8000/play/a0yg/index.m3u8?sd=10&rebase=on
 http://181.119.185.32:8000/play/a005/index.m3u8??sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://179.60.191.102:8000/play/a0gp?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://vitotvo.com/wp-content/uploads/2023/12/LOGO-DV-768x768.png" group-title="ECUADOR",VITO TV 
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/478-4786823_canal-uno-ecuador-canal-uno-logo-png-transparent.png" group-title="ECUADOR",CANAL UNO 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/19
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="ECUADOR",OROMAR TV
