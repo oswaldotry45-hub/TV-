@@ -477,6 +477,8 @@ http://45.239.49.157:8000/play/a0jc/index.m3u8
 http://152.231.29.139:8000/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
 https://tinyurl.com/35hxmhya
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
+http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
 http://201.151.118.136:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
@@ -488,9 +490,9 @@ http://45.5.118.152:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
 http://201.207.54.159:8000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (El Salvador)
-http://201.207.54.159:8000/play/a0av/index.m3u8
+http://45.173.231.22:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (Guatemala)
-http://201.207.54.159:8000/play/a0au/index.m3u8
+http://45.173.231.22:8000/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (Honduras)
 http://201.207.54.159:8000/play/a0ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (MEXICO)
@@ -500,7 +502,7 @@ http://179.1.139.84:8000/play/a0hl/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://45.239.49.157:8000/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
-http://186.33.52.206:7900/play/a0pm/index.m3u8
+http://45.173.231.22:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://45.70.168.162:8466/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_1#/media/Archivo:2015_Fox_Sports_1_logo.svg" group-title="COPA DEL MUNDO",FOX USA
