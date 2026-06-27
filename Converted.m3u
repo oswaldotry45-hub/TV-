@@ -507,6 +507,8 @@ http://45.173.231.22:8000/play/a0e3/index.m3u8
 http://45.70.168.162:8466/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_1#/media/Archivo:2015_Fox_Sports_1_logo.svg" group-title="COPA DEL MUNDO",FOX USA
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="COPA DEL MUNDO",LA UNO ESPAÑA
+https://is.gd/ioRW8n/oswaldo/Downloads/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
 http://152.231.29.139:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
