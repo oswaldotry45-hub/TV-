@@ -168,7 +168,7 @@ http://181.78.192.238:8000/play/a1kf/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM",HBO FAMILY
 http://181.78.197.59:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME
-http://138.36.253.106:8066/play/a01i/index.m3u8
+http://148.222.230.144:8000/play/nmov/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="TV PREMIUM",+CINE
