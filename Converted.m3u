@@ -109,7 +109,7 @@ http://179.49.201.100:8000/play/a0jo/index.m3u8
 http://190.83.15.112:8000/play/a07w/index.m3u8
 #EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PREMIUM",MEGACINE TV
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PREMIUM",FMH MOVIES
+#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PREMIUM",FMH MOVIES
 http://190.102.120.20:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM",CINECANAL
 http://179.60.190.252:8000/play/a091/index.m3u8
@@ -146,19 +146,19 @@ https://fox.hostlagarto.com:8081/hmtv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO
 http://181.78.192.238:8000/play/a1mg/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO
-http://190.83.15.112:8000/play/a0es/index.m3u8
+http://200.37.201.98:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
 http://181.78.197.59:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
-http://170.82.113.51:8899/play/a0pr/index.m3u8
+http://38.19.41.145:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
-http://181.78.197.59:8000/play/a07h/index.m3u8
+http://38.19.41.145:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
 http://186.5.77.99:8000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
-http://181.13.252.102:8000/play/a02a/index.m3u8
+http://201.77.60.62:8002/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
 http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
@@ -178,15 +178,15 @@ http://45.181.123.194:8019/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="TV PREMIUM",+CINE TERROR
 http://45.181.123.194:8019/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
-http://200.115.120.1:8000/play/ca026/index.m3u8
+http://201.77.60.62:8002/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
-http://138.36.253.106:8066/play/a029/index.m3u8
+http://201.77.60.62:8002/play/a0lp/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
 http://205.235.6.29:8000/play/a0x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
 http://181.78.192.238:8000/play/a1uk/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
-http://170.82.113.51:8899/play/a0ej/index.m3u8
+http://38.19.41.144:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE
 http://179.60.191.102:8000/play/a0i3
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE 
