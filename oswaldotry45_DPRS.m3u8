@@ -62,11 +62,13 @@ http://38.226.49.253:8000/play/a0c9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="COPA DEL MUNDO",CANAL 5 MEXICO
 http://190.61.90.17:40000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
-
+http://45.171.64.30:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png" group-title="COPA DEL MUNDO", GEN TV
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/960px-Teletica_Logo.png" group-title="COPA DEL MUNDO",TELETICA COSTA RICA
 http://45.163.139.42:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF 
 http://45.185.163.75:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF 
@@ -161,3 +163,17 @@ http://45.5.118.139:8000/play/a06z/index.m3u8
 http://38.188.186.47:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 MEXICO
 http://200.115.120.1:8000/play/ca150/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
+http://200.59.188.3:8000/play/a0cm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
+https://n9.cl/bx5ot/oswaldotry45/Desktop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS XTRA USA
+https://is.gd/mqFwLl/oswaldo/Desktop/manifest.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS XTRA USA
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS XTRA USA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="DEPORTES",La 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
