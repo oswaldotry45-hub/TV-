@@ -56,7 +56,7 @@ http://38.226.49.253:8000/play/a0c9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="COPA DEL MUNDO",CANAL 5 MEXICO
 http://190.61.90.17:40000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-bw.png" group-title="COPA DEL MUNDO",UNICANAL PARAGUAY
-http://24.152.42.29:8000/play/a0bs/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png" group-title="COPA DEL MUNDO", GEN TV
 https://no.gendigi.net/origin-proxy/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/960px-Teletica_Logo.png" group-title="COPA DEL MUNDO",TELETICA COSTA RICA
@@ -64,16 +64,15 @@ http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF 
 http://45.185.163.75:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF 
-http://45.224.150.120:8000/play/a0vo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",LA LIGA ESPAÑA
-http://45.186.106.207:8000/play/a09h/index.m3u8
+http://38.188.186.47:4000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",LA LIGA ESPAÑA
-http://45.228.234.62:8000/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" tvg-logo="" group-title="DEPORTES",Sky Sports Main Event
-http://fortv.cc:8080/54514663/54514663/35243
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",CLARO SPORTS 2
 http://190.61.90.17:40000/play/a0kz/index.m3u8
-http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
 http://181.78.192.238:8000/play/a28q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
@@ -152,5 +151,7 @@ https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://193.239.186.231/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORTS PREMIUN MEXICO
 http://45.5.118.139:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 MEXICO
+http://38.188.186.47:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 MEXICO
 http://200.115.120.1:8000/play/ca150/index.m3u8
