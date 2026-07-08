@@ -2,21 +2,31 @@
 #EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TVBOX
 http://45.5.118.152:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
-http://200.59.188.3:8000/play/a1a0
+http://181.78.21.38:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
+
+#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS MAS
+http://38.199.5.160:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://45.71.202.124:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="COPA DEL MUNDO",ZAPPING SPORTS EVENTOS
 http://45.185.163.75:8000/play/a0hf/index.m3u8
-#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="COPA DEL MUNDO",ZAPPING SPORTS EVENTOS
 http://45.224.150.120:8000/play/a0xc/index.m3u8
-#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
-http://191.52.214.129:8000/play/a06gx/index.m3u8
-#EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS MAS
-http://38.210.4.182:8000/play/a1bv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="COPA DEL MUNDO",ZAPPING SPORTS EVENTOS
+http://204.199.242.203:58000/play/a079/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="COPA DEL MUNDO",PLUTO TV COPA LIBERTADORES
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGO SPORTS
 http://45.228.235.116:8000/play/a08i/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGO SPORTS HONDURAS
+http://38.188.186.47:4000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U
+http://38.188.186.47:4000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U
+http://152.231.29.139:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO 
 http://45.5.118.139:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO 
