@@ -490,21 +490,21 @@ http://45.5.118.152:8000/play/a0ds/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
 http://201.207.54.159:8000/play/a0as/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (El Salvador)
-http://45.173.231.22:8000/play/a0dz/index.m3u8
+http://45.173.231.22:8000/play/a0dz/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (Guatemala)
-http://45.173.231.22:8000/play/a0dy/index.m3u8
+http://45.173.231.22:8000/play/a0dy/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (Honduras)
-http://201.207.54.159:8000/play/a0ar/index.m3u8
+http://201.207.54.159:8000/play/a0ar/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO", FOX (MEXICO)
-http://38.194.226.190:8000/play/a00o/index.m3u8
+http://38.194.226.190:8000/play/a00o/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="COPA DEL MUNDO",AMÉRICA TV PERU
-http://179.1.139.84:8000/play/a0hl/index.m3u8
+http://191.97.63.231:2053/play/a198/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
-http://45.239.49.157:8000/play/a0jm/index.m3u8
+http://152.231.29.139:8000/play/a0jd/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
-http://45.173.231.22:8000/play/a0e3/index.m3u8
+http://45.173.231.22:8000/play/a0e3/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
-http://45.70.168.162:8466/play/a013/index.m3u8
+http://45.70.168.162:8466/play/a013/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_1#/media/Archivo:2015_Fox_Sports_1_logo.svg" group-title="COPA DEL MUNDO",FOX USA
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="COPA DEL MUNDO",LA UNO ESPAÑA
