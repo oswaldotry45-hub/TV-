@@ -480,9 +480,9 @@ http://181.225.73.159:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
 http://45.190.184.79:5800/play/ditv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
-http://201.151.118.136:8000/play/a00g/index.m3u8
+http://45.228.235.116:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
-http://201.151.118.136:8000/play/a00g/index.m3u8
+http://45.228.233.60:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
 http://187.245.231.226:8000/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="COPA DEL MUNDO",FOX COSTA RICA
