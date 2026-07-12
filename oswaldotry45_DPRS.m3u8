@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TVBOX
-http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COPA DEL MUNDO",TVBOX LIGA PRO SOLO EVENTOS 
+http://205.235.6.29:8000/play/a0wc/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
 http://181.78.21.38:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS 
