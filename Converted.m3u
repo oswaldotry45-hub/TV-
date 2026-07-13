@@ -168,15 +168,9 @@ http://181.78.192.238:8000/play/a1kf/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM",HBO FAMILY
 http://181.78.197.59:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME
-http://148.222.230.144:8000/play/nmov/index.m3u8
+http://45.181.121.57:2909/play/122
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="TV PREMIUM",+CINE
-http://45.181.123.194:8019/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="TV PREMIUM",+CINE WAR
-http://45.181.123.194:8019/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="TV PREMIUM",+CINE TERROR
-http://45.181.123.194:8019/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
 http://201.77.60.62:8002/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
@@ -186,7 +180,7 @@ http://205.235.6.29:8000/play/a0x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
 http://181.78.192.238:8000/play/a1uk/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
-http://38.19.41.144:8000/play/a009/index.m3u8
+http://38.250.178.205:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE
 http://179.60.191.102:8000/play/a0i3
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE 
@@ -216,7 +210,7 @@ http://181.78.192.238:8000/play/a1u9/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PREMIUM", UNIVERSAL REALITY HD
 http://181.78.192.238:8000/play/a2aa/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/usa_network_latinoamerica-mediano.png" group-title="TV PREMIUM",USA NETWORK
-http://181.13.252.102:8000/play/a023/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM", WARNER HD
 http://179.60.191.102:8000/play/a0if
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM",WARNER HD
@@ -228,11 +222,11 @@ https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PREMIUM",RTVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PREMIUM",NBC Universo West 
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8?sd=10&rebase=on
+?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PREMIUM", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PREMIUM", VILLA ALTAGRACIA TV
-https://inliveserver.com:1936/10016/10016/chunklist_w302160626.m3u8?sd=10&rebase=on
+https://stream.inliveserver.com:19360/8004/8004.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tv.wow-iptv.com/logo.png" group-title="TV PREMIUM", WOW TV MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.globaltv.com.do/banner.png" group-title="TV PREMIUM", GLOBAL TV
