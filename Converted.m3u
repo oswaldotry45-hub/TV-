@@ -90,23 +90,23 @@ https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
-http://181.13.252.102:8000/play/a01z/index.m3u8?sd=10&rebase=on
+http://45.167.1.139:8000/play/a05k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
-http://45.185.163.75:8000/play/a045/index.m3u8
+http://45.185.163.75:8000/play/a045/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="TV PREMIUM", AMC SERIES
-http://45.5.151.147:8000/play/a01i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E
-http://190.83.15.112:8000/play/a063/index.m3u8
+http://190.83.15.112:8000/play/a063/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E
-http://45.185.163.75:8000/play/a040/index.m3u8
+http://45.185.163.75:8000/play/a040/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E HD
-http://179.49.201.100:8000/play/a0k4/index.m3u8
+http://179.49.201.100:8000/play/a0k4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
-http://190.60.39.195:8000/play/a0ws/index.m3u8
+http://190.60.39.195:8000/play/a0ws/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
-http://179.49.201.100:8000/play/a0jo/index.m3u8
+http://179.49.201.100:8000/play/a0jo/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
-http://190.83.15.112:8000/play/a07w/index.m3u8
+http://190.83.15.112:8000/play/a07w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PREMIUM",MEGACINE TV
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PREMIUM",FMH MOVIES
@@ -150,9 +150,9 @@ http://200.37.201.98:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
 http://181.78.197.59:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
-http://38.19.41.145:8000/play/a00t/index.m3u8
+http://181.119.177.253:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
-http://38.19.41.145:8000/play/a0cu/index.m3u8
+http://181.119.177.253:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
