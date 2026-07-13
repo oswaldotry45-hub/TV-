@@ -14,7 +14,7 @@ http://45.185.163.75:8000/play/a00x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/107_RTS.png" group-title="ECUADOR",RTS
 http://179.60.191.102:8000/play/a0fb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/10
+http://205.235.6.29:8000/play/a0yd/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
 http://45.185.163.75:8000/play/a00s/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS 
@@ -22,7 +22,7 @@ http://45.185.163.75:8000/play/a056/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS
 http://205.235.6.29:8000/play/a0yd/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
-https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+http://205.235.6.29:8000/play/a0ye/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
@@ -34,11 +34,11 @@ http://190.83.15.112:8000/play/a03g/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://205.235.6.29:8000/play/a0yg/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
-http://181.119.185.32:8000/play/a005/index.m3u8??sd=10&rebase=on
+http://181.119.185.32:8000/play/a005/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="ECUADOR", TC TELEVICION 
 http://179.60.191.102:8000/play/a0gp?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://vitotvo.com/wp-content/uploads/2023/12/LOGO-DV-768x768.png" group-title="ECUADOR",VITO TV 
-http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/478-4786823_canal-uno-ecuador-canal-uno-logo-png-transparent.png" group-title="ECUADOR",CANAL UNO 
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/19
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="ECUADOR",OROMAR TV
@@ -56,21 +56,21 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0b3863_5a548f9791c74f7cac4413ec6be8feb2~mv2.png" group-title="ECUADOR",WUANPLUS NOTICIAS
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://saturnodigital.sfo3.cdn.digitaloceanspaces.com/247/noticias/2025/09/24-7-1.png" group-title="ECUADOR",24/7 NOTICIAS
-http://186.121.141.122:8000/play/a03c/index.m3u8?sd=10&rebase=on
+?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR",TELERAMA
 https://play.once.net.ec/telerama/live.tv/538.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/austral-tv-ec.png" group-title="ECUADOR",AUSTRAL TV AZOGUES
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://puruwatv.com/wp-content/uploads/2025/06/cropped-logo_header.png" group-title="ECUADOR",PURUWA TV RIOBAMBA 
-https://liveontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1831296780.m3u8?sd=10&rebase=on
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1167988752.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/dba9268371f13e2e9f08e6dbf96d01a01edaf5d096949bd00c8cefc22151bc89.png" group-title="ECUADOR", ZARACAY TV 
 https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0336443cf45042a14d4c6afd062059843ab7d9deb7c3c0c93f88ceba0e3e33eb.png" group-title="ECUADOR", MULTICANAL CATAMAYO 
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&rebase=on
+https://stmv1.novacasthd.in/multicanalec/multicanalec/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tvcolorcanal36.com/wp-content/uploads/2022/09/para-app-tv-color.png" group-title="ECUADOR", TV COLOR CANAL 36 LATACUNGA
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://nortvision.tv/storage/settings/logo_1775975816.png" group-title="ECUADOR",NORTOVICION TV TULCAN
-https://server.asilivehd.com:3242/live/nortvisionlive.m3u8?sd=10&rebase=on
+https://server.asilivehd.com/live/nortvisi.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png" group-title="ECUADOR",RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png", group-title="ECUADOR",TVPJ
