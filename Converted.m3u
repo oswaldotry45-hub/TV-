@@ -515,72 +515,69 @@ http://152.231.29.139:8000/play/a0jd/index.m3u8?sd=10&rebase=on
 http://45.173.231.22:8000/play/a0e3/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="COPA DEL MUNDO",WIN SPORTS COLOMBIA
 http://45.70.168.162:8466/play/a013/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="COPA DEL MUNDO",LA UNO ESPAÑA
-https://is.gd/ioRW8n/oswaldo/Downloads/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
-http://152.231.29.139:8000/play/a0jj/index.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",TELEMUNDO E.E.U.U.
-http://152.231.29.139:8000/play/a0ji/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",Telemundo (USA)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="COPA DEL MUNDO",Telemundo (USA)
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
-http://45.239.49.157:8000/play/a0j0/index.m3u8
+http://45.239.49.157:8000/play/a0j0/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
-http://181.78.11.82:6868/play/a00v/index.m3u8
+http://181.78.11.82:6868/play/a00v/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://181.78.168.37:8000/play/a0d2
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
-http://179.1.139.84:8000/play/a03s/index.m3u8
+http://179.1.139.84:8000/play/a03s/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
-http://181.79.92.109:7778/play/a08n/index.m3u8
+http://181.79.92.109:7778/play/a08n/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://181.78.168.37:8000/play/a0dn
 #EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="COPA DEL MUNDO",RPC
-http://181.78.121.15:8000/play/a003/index.m3u8
+http://181.78.121.15:8000/play/a003/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO",AZTECA 7
-http://45.228.235.116:8000/play/a05q/index.m3u8
+http://45.228.235.116:8000/play/a05q/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca 7 (México) OPT-1
-http://45.171.64.30:2000/play/a00i/index.m3u8
+http://45.171.64.30:2000/play/a00i/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca 7 (México) OPT-2
-http://38.194.226.190:8000/play/a017/index.m3u8
+http://38.194.226.190:8000/play/a017/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="COPA DEL MUNDO",TYC SPORTS
-http://200.4.195.66:8000/play/a007/index.m3u8
+http://200.4.195.66:8000/play/a007/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
-http://181.78.21.38:8000/play/a0az/index.m3u8
+http://181.78.21.38:8000/play/a0az/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
-
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="COPA DEL MUNDO",TV PUBLICA ARGENTINA
-http://190.7.19.197:232/play/a03c/index.m3u8
+http://190.7.19.197:232/play/a03c/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="COPA DEL MUNDO",Canal 5 (México) OPT-1
-http://45.171.64.30:2000/play/a038/index.m3u8
+http://45.171.64.30:2000/play/a038/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="COPA DEL MUNDO", Canal 5 (México) OPT-2
-http://38.194.226.190:8000/play/a02e/index.m3u8
+http://38.194.226.190:8000/play/a02e/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)#/media/Archivo:Canal_5_Mexico_logo_2014.svg" group-title="COPA DEL MUNDO", Canal 5 (México) OPT-3
-http://132.255.210.69:9000/play/a06c/index.m3u8
+http://132.255.210.69:9000/play/a06c/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Telefe#/media/Archivo:Televisi%C3%B3n_Federal_Logo.svg" group-title="COPA DEL MUNDO", Telefe (Argentina)
-http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
-https://iptv.bitred.cl/chv/index.m3u8
+https://iptv.bitred.cl/chv/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
-https://iptv2.intersurtv.cl/CHILEVISION/index.m3u8
+https://iptv2.intersurtv.cl/CHILEVISION/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/chilevision-mediano.png" group-title="COPA DEL MUNDO", Chilevisión (Chile) | Bitred OPT-1
-http://38.97.240.11:8000/play/a0fe/index.m3u8
+http://38.97.240.11:8000/play/a0fe/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/250px-Televisi%C3%B3n_Federal_Logo.svg.png" group-title="COPA DEL MUNDO",TELEFE ARGENTINA
 http://181.209.96.155:10000/play/a15g/index.m3u8
 #EXTINF:-1 tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png" group-title="COPA DEL MUNDO", GEN TV
-https://no.gendigi.net/origin-proxy/chunklist.m3u8
+https://no.gendigi.net/origin-proxy/chunklist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
-http://186.5.77.99:8000/play/a0f5/index.m3u8
+http://186.5.77.99:8000/play/a0f5/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
-http://181.78.192.238:8000/play/a1uy/index.m3u8
+http://181.78.192.238:8000/play/a1uy/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
-https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="DEPORTES",ESPN HD 
-http://181.13.252.102:8000/play/a05a/index.m3u8
+http://181.13.252.102:8000/play/a05a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
 http:\\181.78.21.38:8000\play\a04o\index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
@@ -590,69 +587,69 @@ http://190.60.39.195:8000/play/a0w0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD MX
 http://148.230.149.45:1021/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="DEPORTES" ,ESPN 2 
-http://190.7.19.197:232/play/a03m/index.m3u8
+http://181.78.21.38:8000/play/a0b4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
-http://190.60.39.219:8000/play/a03f/index.m3u8
+http://38.199.5.160:8000/play/a0fi/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
-http://190.60.39.195:8000/play/a0w4/index.m3u8
+http://190.60.39.195:8000/play/a0w4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
-http://181.78.192.238:8000/play/a28a/index.m3u8
+http://181.78.192.238:8000/play/a28a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2 MX
-http://181.78.192.238:8000/play/a2ag/index.m3u8
+http://181.78.192.238:8000/play/a2ag/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="DEPORTES" ,ESPN 3 AR
-http://190.7.19.197:232/play/a03o/index.m3u8
+http://190.7.19.197:232/play/a03o/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 
-http://190.60.39.195:8000/play/a0wc/index.m3u8
+http://190.60.39.195:8000/play/a0wc/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
-http://181.78.192.238:8000/play/a1nv/index.m3u8
+http://181.78.192.238:8000/play/a1nv/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
-http://190.60.39.219:8000/play/a04i/index.m3u8
+http://181.78.21.38:8000/play/a05h/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 MX
-http://148.230.149.45:1021/play/a04k/index.m3u8
+http://148.230.149.45:1021/play/a04k/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4 AR
-http://190.7.19.197:232/play/a05t/index.m3u8
+http://190.7.19.197:232/play/a05t/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4 
-http://186.33.54.46:8000/play/a01a/index.m3u8
+http://181.78.21.38:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4
-http://181.78.192.238:8000/play/a28k/index.m3u8
+http://181.78.192.238:8000/play/a28k/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4 MX
-http://181.78.192.238:8000/play/a2db/index.m3u8
+http://181.78.192.238:8000/play/a2db/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4 MX
-http://200.229.147.142:8000/play/a05s/index.m3u8
+http://38.199.5.160:8000/play/a0em/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
-http://190.60.39.219:8000/play/a03i/index.m3u8
+http://181.78.21.38:8000/play/a0a4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
-http://191.97.63.231:2053/play/a0zy/index.m3u8
+http://191.97.63.231:2053/play/a0zy/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
-http://181.78.192.238:8000/play/a28b/index.m3u8
+http://181.78.192.238:8000/play/a28b/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
-http://45.239.49.157:8000/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5
-http://186.33.54.46:8000/play/a01b/index.m3u8
+http://45.239.49.157:8000/play/a0m6/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5 MX
-http://186.33.7.209:8010/play/a07a/index.m3u8
+http://38.199.5.160:8000/play/a0a5/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES" ,ESPN 5 MX
+http://186.33.7.209:8010/play/a07a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES" ,ESPN 6
-http://190.60.39.195:8000/play/a0wd/index.m3u8
+http://190.60.39.195:8000/play/a0wd/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES" ,ESPN 6
-http://181.78.192.238:8000/play/a1tp/index.m3u8
+http://181.78.192.238:8000/play/a1tp/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES" ,ESPN 6
-http://45.239.49.157:8000/play/a0m5/index.m3u8
+http://45.239.49.157:8000/play/a0m5/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES" ,ESPN 6 MX
-http://181.78.192.238:8000/play/a2ai/index.m3u8
+http://181.78.192.238:8000/play/a2ai/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES" ,ESPN 7
-http://186.33.54.46:8000/play/a01d/index.m3u8
+http://181.78.21.38:8000/play/a07m/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES" ,ESPN 7
-http://181.78.192.238:8000/play/a1ke/index.m3u8
+http://181.78.192.238:8000/play/a1ke/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES" ,ESPN 7 MX
-http://181.78.192.238:8000/play/a11i/index.m3u8
+http://181.78.192.238:8000/play/a11i/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD AR
-http://190.7.19.197:232/play/a038/index.m3u8
+http://190.7.19.197:232/play/a038/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
-http://205.235.6.29:8000/play/a0pz/index.m3u8
+http://38.199.5.160:8000/play/a0ea/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
-http://205.235.6.29:8000/play/a0wl/index.m3u8
+http://205.235.6.29:8000/play/a0wl/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
-http://181.78.192.238:8000/play/a1tz/index.m3u8
+http://181.78.192.238:8000/play/a1tz/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN USA 
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN 2 USA
