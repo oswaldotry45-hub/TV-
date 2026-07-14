@@ -452,7 +452,7 @@ https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
 https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
-http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
+http://45.185.163.75:8000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
 http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
@@ -589,7 +589,7 @@ http://148.230.149.45:1021/play/a01m/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="DEPORTES" ,ESPN 2 
 http://181.78.21.38:8000/play/a0b4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
-http://38.199.5.160:8000/play/a0fi/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a1ab/index.m3u8u??sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
 http://190.60.39.195:8000/play/a0w4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
@@ -597,13 +597,13 @@ http://181.78.192.238:8000/play/a28a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2 MX
 http://181.78.192.238:8000/play/a2ag/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="DEPORTES" ,ESPN 3 AR
-http://190.7.19.197:232/play/a03o/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a1b0/index.m3u8u??sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 
 http://190.60.39.195:8000/play/a0wc/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
 http://181.78.192.238:8000/play/a1nv/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3
-http://181.78.21.38:8000/play/a05h/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a12v/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES" ,ESPN 3 MX
 http://148.230.149.45:1021/play/a04k/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES" ,ESPN 4 AR
@@ -655,7 +655,7 @@ https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN 2 USA
 http://193.239.186.231/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
-http://45.185.163.75:8000/play/a0hh/index.m3u8
+http://45.71.202.124:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
@@ -667,11 +667,11 @@ http://181.66.249.25:8000/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
-http://148.222.230.197:8000/play/a0mm/index.m3u8?
+http://181.66.249.25:8000/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/960px-DSports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://190.7.19.197:232/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/960px-DSports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
-http://148.222.230.197:8000/play/a0ml/index.m3u8
+http://181.66.249.25:8000/play/a0d2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/960px-DSports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://181.66.249.25:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
@@ -685,7 +685,7 @@ http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 AR
 http://190.7.19.197:232/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 AR
-http://181.13.252.102:8000/play/a05c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
