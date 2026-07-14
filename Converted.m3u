@@ -483,6 +483,10 @@ http://190.108.93.180:8000/play/a054/index.m3u8?sd=10&rebase=on
 http://181.225.73.159:8000/play/a0bx/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="COPA DEL MUNDO",DSPORTS
 http://181.78.21.38:8000/play/a037/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
+http://181.78.192.238:8000/play/a2ht/index.m3u8 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
+https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
 http://45.228.235.116:8000/play/a05p/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="COPA DEL MUNDO",TUDN MEXICO
@@ -527,18 +531,12 @@ http://45.239.49.157:8000/play/a0j0/index.m3u8
 http://181.78.11.82:6868/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
 http://181.78.168.37:8000/play/a0d2
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/rcn_nuestra_tele-mediano.png" group-title="COPA DEL MUNDO",RCN COLOMBIA
-http://45.70.168.162:8466/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://179.1.139.84:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://181.79.92.109:7778/play/a08n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
 http://181.78.168.37:8000/play/a0dn
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
-http://181.78.168.37:8000/play/a0d3
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/caracol_colombia-mediano.png" group-title="COPA DEL MUNDO",CARACOL COLOMBIA
-http://45.70.168.162:8466/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="COPA DEL MUNDO",RPC
 http://181.78.121.15:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO",AZTECA 7
@@ -547,14 +545,6 @@ http://45.228.235.116:8000/play/a05q/index.m3u8
 http://45.171.64.30:2000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca 7 (México) OPT-2
 http://38.194.226.190:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca Deportes Network (México) OPT-1
-http://38.194.226.190:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_de_Azteca_7_2024_%28cropped%29.png" group-title="COPA DEL MUNDO", Azteca Deportes Network (México) OPT-2
-http://132.255.210.69:9000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
-http://181.78.192.238:8000/play/a2ht/index.m3u8 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Tigo_Sports#/media/Archivo:Tigo_Sports_2025.png" group-title="COPA DEL MUNDO",TIGOSPORTS GUATEMALA
-https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="COPA DEL MUNDO",TYC SPORTS
 http://200.4.195.66:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="COPA DEL MUNDO", TyC Sports (Argentina)
