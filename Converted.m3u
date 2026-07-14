@@ -579,13 +579,13 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="DEPORTES",ESPN HD 
 http://181.13.252.102:8000/play/a05a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
-http:\\181.78.21.38:8000\play\a04o\index.m3u8
+http://45.188.229.33:8000/play/a1ac/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
-http://186.33.52.206:7900/play/a0p0/index.m3u8
+http://186.33.52.206:7900/play/a0p0/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://190.60.39.195:8000/play/a0w0/index.m3u8
+http://190.60.39.195:8000/play/a0w0/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD MX
-http://148.230.149.45:1021/play/a01m/index.m3u8
+http://148.230.149.45:1021/play/a01m/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="DEPORTES" ,ESPN 2 
 http://181.78.21.38:8000/play/a0b4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
