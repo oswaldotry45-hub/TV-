@@ -159,7 +159,7 @@ http://181.78.192.238:8000/play/a1jm/index.m3u8
 http://186.5.77.99:8000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 http://201.77.60.62:8002/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
 http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
 http://181.78.192.238:8000/play/a157/index.m3u8
@@ -247,13 +247,13 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?sd=10&rebase=on
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ieanjesus-ec.png" group-title="TV CRISTIANO",IEANJESUS ECUADOR
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1077933252.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="SONY ONE HITS",SONY CINE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="SONY CINE",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://177.10.184.193:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://181.78.192.238:8000/play/a1so/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://179.49.201.100:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://179.60.191.102:8000/play/a0i0
@@ -279,7 +279,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
 #EXTINF:-1 tvg-logo="https://www.darkmattertv.com/wp-content/uploads/elementor/thumbs/logo-pmkjklm6thnwih7vveoaubuha1vmpivcbqaod0kptq.png" group-title="SONY CINE",DARK MATTER TV MexicO
 https://n9.cl/cayxu/oswaldo/Desktop/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY ONE HITS",GRJNGO PELICULAS DEL OESTE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY CINE",GRJNGO PELICULAS DEL OESTE
 https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cine-y-Series-en-directo-Online-324x235.png" group-title="RUNTIME TV", RUNTIME CINE SERIES
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8?sd=10&rebase=on
