@@ -255,29 +255,29 @@ http://177.10.184.193:8000/play/a058/index.m3u8
 http://181.78.192.238:8000/play/a1so/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
 http://179.49.201.100:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY ONE HITS",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://179.60.191.102:8000/play/a0i0
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="SONY ONE HITS",SONY MOVIES HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="SONY CINE",SONY MOVIES HD
 http://181.78.192.238:8000/play/a2fk/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE HITS ACCION
+#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="SONY CINE", SONY ONE HITS ACCION
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS", SONY ONE HITS COMEDIA
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="SONY CINE", SONY ONE HITS COMEDIA
 https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS",SONY ONE SERIES THRILLER
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="SONY CINE",SONY ONE SERIES THRILLER
 https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS",SONY ONE SERIES COMEDIA
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="SONY CINE",SONY ONE SERIES COMEDIA
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS",SONY ONE ÉXITOS
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="SONY CINE",SONY ONE ÉXITOS
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="SONY ONE HITS",SONY ONE THE BLACKLITS
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="SONY CINE",SONY ONE THE BLACKLITS
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_4.png" group-title="SONY ONE HITS",LG 1
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_4.png" group-title="SONY CINE",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_1.png" group-title="SONY ONE HITS",LG 1: Film
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_1.png" group-title="SONY CINE",LG 1: Film
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY ONE HITS",LG 1: Spotlight
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_1.png" group-title="SONY CINE",LG 1: Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
-#EXTINF:-1 tvg-logo="https://www.darkmattertv.com/wp-content/uploads/elementor/thumbs/logo-pmkjklm6thnwih7vveoaubuha1vmpivcbqaod0kptq.png" group-title="SONY ONE HITS",DARK MATTER TV MexicO
+#EXTINF:-1 tvg-logo="https://www.darkmattertv.com/wp-content/uploads/elementor/thumbs/logo-pmkjklm6thnwih7vveoaubuha1vmpivcbqaod0kptq.png" group-title="SONY CINE",DARK MATTER TV MexicO
 https://n9.cl/cayxu/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f78d0896132d43c7b612701b755aa60f~mv2.png/v1/fill/w_401,h_85,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grjngo%20Logo.png" group-title="SONY ONE HITS",GRJNGO PELICULAS DEL OESTE
 https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?sd=10&rebase=on
@@ -327,24 +327,14 @@ https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png" group-title="RAKUTEN TV", RAKUTEN CIENCIA FICCION
 https://jmp2.uk/stvp-ES500004NO
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2faacdc3-7db0-45c5-96a7-1dc185b6fb47.png" group-title="RAKUTEN TV", HISTORIAS DE ULTRATUMBA
-https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="RAKUTEN TV",CINE TERROR
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="RAKUTEN TV",MISRETIOS SIN RESOLVER
-https://is.gd/wFABEW/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="RAKUTEN TV", RAKUTEN VIKI DORAMAS
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="RAKUTEN TV", TODO CRIMEN
-https://jmp2.uk/stvp-ES1600004JV
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="RAKUTEN TV", ESTILO Y VIDA
 https://jmp2.uk/stvp-ES26000068D
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion_1_0.jpg" group-title="FREE TV",FREE TV ACTION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/estelar_1_0.jpg" group-title="FREE TV", FREE TV  STELAR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_0_0.jpg" group-title="FREE TV", FREE TV TERROR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live_0_0.jpg" group-title="FREE TV", FREE TV LIVE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16329
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/familia_0_0.jpg" group-title="FREE TV", FREE TV FAMILIA
@@ -373,8 +363,6 @@ https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8?sd=10&rebase=on
 https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3bc1756db0ef525b9cab86edcd426c55/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562691721_ROKU-NarcoDrama-InfoHUD-1.png" group-title="CANELA TV" , Canela.TV Narco-Drama
 https://jmp2.uk/rok-3bc1756db0ef525b9cab86edcd426c55.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png" group-title="CANELA TV", Cine de Horror
-https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1729603771429_LogoCINEEstrellaTV_ForHUD.png" group-title="CANELA TV", Cine EstrellaTV
 https://jmp2.uk/rok-5dbf591219b15aa8bb3a7b73b59307f0.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="CANELA TV", Cine Romantico
@@ -399,6 +387,18 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&rebase=on
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2faacdc3-7db0-45c5-96a7-1dc185b6fb47.png" group-title="CINE TERROR", HISTORIAS DE ULTRATUMBA
+https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="CINE TERROR",CINE TERROR
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="CINE TERROR",MISRETIOS SIN RESOLVER
+https://is.gd/wFABEW/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="CINE TERROR", TODO CRIMEN
+https://jmp2.uk/stvp-ES1600004JV
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_0_0.jpg" group-title="CINE TERROR", FREE TV TERROR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png" group-title="CINE TERROR", CINE DE HORROR
+https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET
 http://179.60.191.102:8000/play/a0hu
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
