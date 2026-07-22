@@ -459,16 +459,18 @@ https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 http://200.7.99.59:8000/play/a0mq/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="TV INFANTIL",DISNEY CHANNEL
 http://200.7.99.59:8000/play/a0m3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV INFANTIL",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior-mediano.png" group-title="TV INFANTIL",DISNEY JUNIOR
 http://200.7.99.59:8000/play/a0it/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV INFANTIL",TOONCAST
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png" group-title="TV INFANTIL",TOONCAST
 http://200.7.99.59:8000/play/a0j0/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV INFANTIL",CARTONITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="TV INFANTIL",CARTONITO
 http://200.7.99.59:8000/play/a0n0/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV INFANTIL",ADULT SWIN ANIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="TV INFANTIL",ADULT SWIN ANIME
 http://200.7.99.59:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV INFANTIL",AVI KIDS
 http://200.7.99.59:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/960px-Bob_esponja_logotipo.svg.png" group-title="TV INFANTIL",BOB ESPONJA
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
 http://45.185.163.75:8000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
