@@ -87,161 +87,161 @@ https://video2.lhdserver.es/pjtv/live.m3u8?sd=10&rebase=on
 https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV ECUADOR",15TV PIÑAS ECUADOR
 https://cq15tv.com/live/cq15tv.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
 http://45.167.1.139:8000/play/a05k
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
 http://45.185.163.75:8000/play/a045/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="TV PREMIUM", AMC SERIES
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="TV PELICULAS", AMC SERIES
 http://45.188.229.33:8000/play/a12p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS", A&E
 http://190.83.15.112:8000/play/a063/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS", A&E
 http://45.185.163.75:8000/play/a040/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PREMIUM", A&E HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS", A&E HD
 http://179.49.201.100:8000/play/a0k4/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS", AXN
 http://190.60.39.195:8000/play/a0ws/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS", AXN HD
 http://179.49.201.100:8000/play/a0jo/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PREMIUM", AXN HD
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS", AXN HD
 http://190.83.15.112:8000/play/a07w/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PREMIUM",MEGACINE TV
+#EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PELICULAS",MEGACINE TV
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PREMIUM",FMH MOVIES
+#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PELICULAS",FMH MOVIES
 http://190.102.120.20:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM",CINECANAL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
 http://179.60.190.252:8000/play/a091/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PREMIUM",CINECANAL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
 http://190.83.15.112:8000/play/a07s/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PREMIUM",CINEMAX
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
 http://179.60.190.252:8000/play/a0g0/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PREMIUM",CINEMAX
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
 http://179.60.191.102:8000/play/a0gw
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png" group-title="TV PREMIUM",CLARO CINEMA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png" group-title="TV PELICULAS",CLARO CINEMA
 http://181.78.192.238:8000/play/a1sy/index.m3u8
-#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PREMIUM",CINE PREMIUN
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINE PREMIUN
 http://181.78.192.238:8000/play/a2aj/index.m3u8
-#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PREMIUM",CINEMA PREMIUM
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINEMA PREMIUM
 http://181.78.197.59:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PREMIUM",DHE
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE
 http://181.78.192.238:8000/play/a1kd/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PREMIUM",DHE HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE HD
 http://181.78.197.59:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PREMIUM",FX
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
 http://181.78.192.238:8000/play/a2f0/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PREMIUM",FX
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
 http://181.78.197.59:8000/play/a06y/index.m3u8
-#EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PREMIUM",GEN TV
+#EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PELICULAS",GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PREMIUM",GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PELICULAS",GOLDEN PREMIER
 http://181.78.197.59:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PREMIUM",GOLDEN PREMIER 2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PELICULAS",GOLDEN PREMIER 2
 http://181.78.197.59:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="TV PREMIUM",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="TV PELICULAS",GOLDEN EDGE
 http://181.78.192.238:8000/play/a1ll/index.m3u8
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/hermanas-mirabal-tv-canal-33-salcedo.png" group-title="TV PREMIUM", HMTV HD 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/hermanas-mirabal-tv-canal-33-salcedo.png" group-title="TV PELICULAS", HMTV HD 
 https://fox.hostlagarto.com:8081/hmtv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
 http://181.78.192.238:8000/play/a1mg/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
 http://200.37.201.98:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO 2
 http://181.78.197.59:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PREMIUM", HBO 2
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO 2
 http://181.119.177.253:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
 http://181.119.177.253:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PREMIUM",HBO XTREME
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
 http://181.78.192.238:8000/play/a1jm/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 http://186.5.77.99:8000/play/a0li/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PREMIUM",HBO MUNDI
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 http://201.77.60.62:8002/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
 http://181.78.197.59:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PREMIUM",HBO +
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
 http://181.78.192.238:8000/play/a157/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
 http://181.78.192.238:8000/play/a1kf/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PREMIUM",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
 http://181.78.197.59:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME
+#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PELICULAS",MAX PRIME
 http://45.181.121.57:2909/play/122
-#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PREMIUM",MAX PRIME DRAMA
+#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PELICULAS",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://201.77.60.62:8002/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PREMIUM",MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://201.77.60.62:8002/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
 http://205.235.6.29:8000/play/a0x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
 http://181.78.192.238:8000/play/a1uk/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PREMIUM",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
 http://38.250.178.205:8000/play/a08w/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE
 http://179.60.191.102:8000/play/a0i3
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PREMIUM", SPACE 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE 
 http://181.78.192.238:8000/play/a2ez/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PREMIUM", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
 http://181.78.192.238:8000/play/a2e4/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PREMIUM", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
 http://181.78.197.59:8000/play/a06t/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PREMIUM",TNT
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
 http://181.78.197.59:8000/play/a07u/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PREMIUM",TNT
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
 http://181.78.192.238:8000/play/a265/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PREMIUM", TNT Series HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS", TNT Series HD
 http://181.78.192.238:8000/play/a2ak/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PREMIUM", TNT Series HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS", TNT Series HD
 http://181.78.192.238:8000/play/a1nt/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PREMIUM", UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PELICULAS", UNIVERSAL TV
 http://181.78.192.238:8000/play/a2ey/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PREMIUM", UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PELICULAS", UNIVERSAL TV
 http://181.78.197.59:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_crime-mediano.png" group-title="TV PREMIUM", UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_crime-mediano.png" group-title="TV PELICULAS", UNIVERSAL CRIME HD
 http://181.78.192.238:8000/play/a2ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="TV PELICULAS", UNIVERSAL PREMIERE HD
 http://181.78.192.238:8000/play/a2a8/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="TV PREMIUM",UVIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="TV PELICULAS",UVIVERSAL CINEMA
 http://181.78.192.238:8000/play/a1u9/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PREMIUM", UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PELICULAS", UNIVERSAL REALITY HD
 http://181.78.192.238:8000/play/a2aa/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/usa_network_latinoamerica-mediano.png" group-title="TV PREMIUM",USA NETWORK
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/usa_network_latinoamerica-mediano.png" group-title="TV PELICULAS",USA NETWORK
 http://45.188.229.33:8000/play/a0xz/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM", WARNER HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PELICULAS", WARNER HD
 http://179.60.191.102:8000/play/a0if
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PREMIUM",WARNER HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PELICULAS",WARNER HD
 http://181.78.197.59:8000/play/a07s/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PREMIUM", IMAGEN UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2024/06/Logo-imagen-Universal-Horizontal.png" group-title="TV PELICULAS", IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PREMIUM",ORBIT TV
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PELICULAS",ORBIT TV
 https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PREMIUM",RTVE STAR
+#EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PELICULAS",RTVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PREMIUM",NBC Universo West 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PELICULAS",NBC Universo West 
 http://45.188.229.33:8000/play/a1cw/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PREMIUM", VISION TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PELICULAS", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PREMIUM", VILLA ALTAGRACIA TV
+#EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PELICULAS", VILLA ALTAGRACIA TV
 https://stream.inliveserver.com:19360/8004/8004.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://tv.wow-iptv.com/logo.png" group-title="TV PREMIUM", WOW TV MOVIES
+#EXTINF:-1 tvg-logo="https://tv.wow-iptv.com/logo.png" group-title="TV PELICULAS", WOW TV MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.globaltv.com.do/banner.png" group-title="TV PREMIUM", GLOBAL TV
+#EXTINF:-1 tvg-logo="https://www.globaltv.com.do/banner.png" group-title="TV PELICULAS", GLOBAL TV
 https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PREMIUM", READY TV
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="TV PELICULAS", READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w286831743.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_372,h_372,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AuroraMedia.png" group-title="TV PREMIUM",AURORA MEDIA FILMS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_372,h_372,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AuroraMedia.png" group-title="TV PELICULAS",AURORA MEDIA FILMS
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/Damas_295x98.png" group-title="TV PREMIUM",DAMAS TV
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/Damas_295x98.png" group-title="TV PELICULAS",DAMAS TV
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PREMIUM", COSMOS
+#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2024/09/logo-cosmos2024-a.png" group-title="TV PELICULAS", COSMOS
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="TV PREMIUM", CANAL STV
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="TV PELICULAS", CANAL STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwSQQNHrGUlm2lQidkGzznGBkmrUhHIp5jQ&s" group-title="TV PREMIUM",EXTEMA ACCION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwSQQNHrGUlm2lQidkGzznGBkmrUhHIp5jQ&s" group-title="TV PELICULAS",EXTEMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqYT3mLOwSe2tCT9djITc1a4rC-hKxanvkywuAU8UeIkHaVkqwt1LDhrtUQqZO8m4cP-XHE4h-QnXlCBupaZ8oTASthEM7Rz5lAwu0l2_HRs9stLeJBvm8SUL4ONJ-kXWZM921yfOnAIdtz81kYBPy7JhQJLY8Lq1Ye4uuBeEawZvgAPT3-FfA0EaLfNkX/s600/extrema-tv.png" group-title="TV CRISTIANO",EXTREMA TV CRISTIANO 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?sd=10&rebase=on
