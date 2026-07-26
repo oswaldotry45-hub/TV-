@@ -243,8 +243,14 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8?sd=10&rebase=on
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwSQQNHrGUlm2lQidkGzznGBkmrUhHIp5jQ&s" group-title="TV PELICULAS",EXTEMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="Ecuavisa" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png", group-title="PLUTO TV PELICULAS",CINE ACCION
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg", group-title="TV PELICULAS",PLUTO TV CINE ACCION
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg", group-title="TV PELICULAS",PLUTO TV ESTRELLAS DE ACCION
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg", group-title="TV PELICULAS",PLUTO TV CINE ESTELAR 
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/960px-Pluto_TV_logo_2024_black.svg.png", group-title="TV PELICULAS",PLUTO TV CINE CATASTOFRES
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="SONY CINE",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
