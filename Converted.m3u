@@ -607,15 +607,15 @@ http://45.185.163.75:8000/play/a0hk/index.m3u8
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
 http://190.7.19.197:232/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_(M%C3%A9xico)#/media/Archivo:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES,FS 1 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES",FS 1 FOX SPORT MX
 http://168.232.168.242:9999/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_(M%C3%A9xico)#/media/Archivo:Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES,FS 1 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES",FS 1 FOX SPORT MX
 http://38.188.186.47:4000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_2_(M%C3%A9xico)#/media/Archivo:Fox_sports_3_mx.png" group-title="DEPORTES,FS 2 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/FoxSports_2_Mexico.png" group-title="DEPORTES",FS 2 FOX SPORT MX
 http://200.115.120.1:8000/play/ca126/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Fox_sports_2_mx.png/960px-Fox_sports_2_mx.png" group-title="DEPORTES,FS 3 FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/FoxSports_3_Mexico.png" group-title="DEPORTES",FS 3 FOX SPORT MX
 http://200.115.120.1:8000/play/ca150/index.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Fox_Sports_Premium_(M%C3%A9xico)#/media/Archivo:Fox_sports_premium_mx.png" group-title="DEPORTES,FS PREMIUN FOX SPORT MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fox_sports_premium_mx.png/1920px-Fox_sports_premium_mx.png" group-title="DEPORTES",FS PREMIUN FOX SPORT MX
 http://38.188.186.47:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="DEPORTES",FOX SPORT HD CR
 http://200.229.147.142:8000/play/a03i/index.m3u8
