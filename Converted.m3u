@@ -246,15 +246,13 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="SONY CINE",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
-http://177.10.184.193:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://181.78.192.238:8000/play/a1so/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
-http://179.49.201.100:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://179.60.191.102:8000/play/a0i0
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="SONY CINE",SONY MOVIES HD
 http://181.78.192.238:8000/play/a2fk/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="SONY CINE",SONY MOVIES HD
+http://38.252.208.34:40000/play/a0qz/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="SONY CINE", SONY ONE HITS ACCION
 https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/ES_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="SONY CINE", SONY ONE HITS COMEDIA
@@ -381,7 +379,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/tn_logo_white_1900x1700.png" group-title="CANELA TV", TODO NOVELAS MAS PASIONES
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png"group-title="CANELA TV", ARTFLIX PELICULAS CLASICAS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png" group-title="CANELA TV",PELICULAS CLASICAS ARTFLIX 
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2faacdc3-7db0-45c5-96a7-1dc185b6fb47.png" group-title="CINE TERROR", HISTORIAS DE ULTRATUMBA
 https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
