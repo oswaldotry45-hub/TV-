@@ -219,13 +219,13 @@ http://181.78.197.59:8000/play/a07s/index.m3u8?sd=10&rebase=on
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PELICULAS",ORBIT TV
 https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg", group-title="TV PELICULAS",PLUTO TV CINE ACCION
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg", group-title="TV PELICULAS", PLUTO TV CINE ACCION
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg", group-title="TV PELICULAS",PLUTO TV ESTRELLAS DE ACCION
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg", group-title="TV PELICULAS", PLUTO TV ESTRELLAS DE ACCION
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg", group-title="TV PELICULAS",PLUTO TV CINE ESTELAR 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg", group-title="TV PELICULAS", PLUTO TV CINE ESTELAR 
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg", group-title="TV PELICULAS",PARAMOUNT NEWWORK
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg", group-title="TV PELICULAS", PARAMOUNT NEWWORK
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/960px-Pluto_TV_logo_2024_black.svg.png", group-title="TV PELICULAS",PLUTO TV CINE CATASTOFRES
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
@@ -443,6 +443,8 @@ http://177.10.184.193:8000/play/a0a8/index.m3u8
 http://181.119.203.146:8000/play/a0ni/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
 http://181.119.203.146:8000/play/a0hg/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/08/unnamed8_O-1.jpg", group-title="DOCUMENTALES",CRIMEN & HISTORIA
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS en Español
 https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661441318727_1654105525363_FR_Crimenes_centeredHUD.png" group-title="DOCUMENTALES", Crímenes Verdaderos
