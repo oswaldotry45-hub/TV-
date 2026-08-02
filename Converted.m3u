@@ -500,7 +500,7 @@ https://khala.skylivehd.com/zapping_ec/tracks-v1a1/mono.m3u8?ip=181.196.6.222&to
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
 http://205.235.6.29:8000/play/a0wc/index.m3u8 ?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
-http://179.60.191.102:8000/play/a0in
+https://khala.skylivehd.com/zapping_ec/tracks-v1a1/mono.m3u8?ip=181.196.6.222&token=d55b9ffb7368bc885c32a69198c74f379ed1bc35-65-1785756272-1785702272
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
 http://186.5.77.99:8000/play/a0f5/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
