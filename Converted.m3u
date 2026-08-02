@@ -79,6 +79,8 @@ https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&rebase=on
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2ce2065d-989f-4eb7-8f00-ed80cc6f3a71.png" group-title="TV ECUADOR",IMPERIO TV CANAL 6 
 https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b893637f-884c-4b60-b673-8d715fe403ca.png" group-title="TV ECUADOR",TELEPREMIER GUAYAS
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2023/09/cropped-RTV-LOGO-2023-02-1-1536x1536.png" group-title="TV ECUADOR",CANAL RTV
 https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" group-title="TV ECUADOR",CURIQUINGUE TV COTOPAXI
