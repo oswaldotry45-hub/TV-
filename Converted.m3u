@@ -5,7 +5,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/12
 http://45.185.163.75:8000/play/a055/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA PLAY
+#EXTINF:-1 tvg-id="1567" tvg-name="Ecuavisa" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuavisa-mediano.png" group-title="TV ECUADOR",ECUAVISA PLAY
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/107_RTS.png" group-title="TV ECUADOR",RTS
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
