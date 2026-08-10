@@ -239,6 +239,8 @@ https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8?sd=10&rebase=on
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg", group-title="PLUTO TV PELICULAS",PLUTO TV CINE PREMIERE
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg", group-title="PLUTO TV PELICULAS",PLUTO TV CINE TRILLERS
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/960px-Pluto_TV_logo_2024_black.svg.png", group-title="TV PELICULAS",PLUTO TV CINE CATASTOFRES
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PELICULAS",RTVE STAR
