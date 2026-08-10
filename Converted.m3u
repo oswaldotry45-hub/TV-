@@ -233,6 +233,8 @@ https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/featuredImage.jpg", group-title="PLUTO TV PELICULAS",PLUTO TV ADRENALINA PURA
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/featuredImage.jpg", group-title="PLUTO TV PELICULAS",PLUTO TV CINE CRIMEN
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/960px-Pluto_TV_logo_2024_black.svg.png", group-title="TV PELICULAS",PLUTO TV CINE CATASTOFRES
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PELICULAS",RTVE STAR
