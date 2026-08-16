@@ -174,21 +174,19 @@ http://45.181.121.57:2909/play/122
 #EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PELICULAS",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
-http://201.77.60.62:8002/play/a0cp/index.m3u8?sd=10&rebase=on
+http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
-http://201.77.60.62:8002/play/a0lp/index.m3u8?sd=10&rebase=on
+http://186.33.61.182:8000/play/a04q/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
-http://205.235.6.29:8000/play/a0x7/index.m3u8
+http://205.235.6.29:8000/play/a0x7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
-http://181.78.192.238:8000/play/a1uk/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
-http://38.250.178.205:8000/play/a08w/index.m3u8
+http://38.250.178.205:8000/play/a08w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE
 http://179.60.191.102:8000/play/a0i3
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE 
-http://181.78.192.238:8000/play/a2ez/index.m3u8?sd=10&rebase=on
+http://45.228.234.62:8000/play/a06x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
-http://181.78.192.238:8000/play/a2e4/index.m3u8
+http://181.78.192.238:8000/play/a2e4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
 http://181.78.197.59:8000/play/a06t/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
