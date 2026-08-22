@@ -460,21 +460,23 @@ http://181.119.203.146:8000/play/a0ni/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
 http://181.119.203.146:8000/play/a0hg/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/08/unnamed8_O-1.jpg", group-title="DOCUMENTALES",CRIMEN & HISTORIA
-https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-#EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS en Español
-https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661441318727_1654105525363_FR_Crimenes_centeredHUD.png" group-title="DOCUMENTALES", Crímenes Verdaderos
-https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", Curiosity Explora
-https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", Danger TV
-https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8?sd=10&rebase=on
+#EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS EN ESPAÑOL
+https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661441318727_1654105525363_FR_Crimenes_centeredHUD.png" group-title="DOCUMENTALES", CRíMENES VERDADEROS
+https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23cf98a043e9d1336c958e6b707f81dc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760568679689_Curiosity-Explora_260_147px.png" group-title="DOCUMENTALES", CURIOSITY EXPLORA
+https://jmp2.uk/rok-23cf98a043e9d1336c958e6b707f81dc.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="DOCUMENTALES", DANGER TV
+https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e4a278e5f27cc0c97aae4ddbefdbc5e6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765924286648_ISBA-LATAM_HUD_logo_260x147.png" group-title="DOCUMENTALES",SOBREVIVí
+https://jmp2.uk/rok-e4a278e5f27cc0c97aae4ddbefdbc5e6.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/960px-El_Chavo_%28simple_logo%29.svg.png" group-title="TV INFANTIL",CHAVO DEL 8 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/960px-Dragon_Ball_Z_logo.svg.png" group-title="TV INFANTIL", DRAGON BALL Z 24/7
-https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" group-title="TV INFANTIL",LOS SIMPSON 24/7 
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://es.gizmodo.com/app/uploads/2015/03/buitnaepwwe3imbnh9fs.jpg" group-title="TV INFANTIL",DREAMWORKS
 http://200.7.99.59:8000/play/a0mq/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="TV INFANTIL",DISNEY CHANNEL
