@@ -415,6 +415,8 @@ https://jmp2.uk/stvp-ES1600004JV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png" group-title="CINE TERROR", CINE DE HORROR
 https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/fdb54e2b-605b-48ef-a8ec-dd8afc1c3de2.png" group-title="CINE TERROR",FILMRISE HORROR
+https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET
 https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
