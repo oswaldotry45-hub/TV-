@@ -14,7 +14,7 @@ http://45.185.163.75:8000/play/a00x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/107_RTS.png" group-title="TV ECUADOR",RTS
 http://179.60.191.102:8000/play/a0fb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
-http://205.235.6.29:8000/play/a0yd/index.m3u8?sd=10&rebase=on
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
 http://45.185.163.75:8000/play/a00s/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS 
@@ -32,7 +32,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/17
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_de_Gamavisi%C3%B3n_1995-1998.png" group-title="TV ECUADOR", GAMAVICION
 http://190.83.15.112:8000/play/a03g/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="TV ECUADOR", TC TELEVICION 
-http://205.235.6.29:8000/play/a0yg/index.m3u8?sd=10&rebase=on
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/10
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="TV ECUADOR", TC TELEVICION 
 http://181.119.185.32:8000/play/a005/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="TV ECUADOR", TC TELEVICION 
