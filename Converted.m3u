@@ -606,7 +606,7 @@ http:\\205.235.6.29:8000\play\a0y3\index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
 http://177.53.153.21:80/test/test/213.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
-http://177.53.153.21:80/test/test/213.ts
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://45.188.229.33:8000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="DEPORTES",DIRECTV SPORTS 2
