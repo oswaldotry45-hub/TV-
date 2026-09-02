@@ -89,6 +89,8 @@ https://video2.lhdserver.es/pjtv/live.m3u8?sd=10&rebase=on
 https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV ECUADOR",15TV PIÑAS ECUADOR
 https://cq15tv.com/live/cq15tv.ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/Marvel-Studios-Logo-2008-500x281.png" group-title="TV PELICULAS",MARVEL 24/7
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
