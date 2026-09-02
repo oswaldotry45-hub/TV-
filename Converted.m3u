@@ -501,8 +501,10 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://ragnarokargumental3.wordpress.com/wp-content/uploads/2016/10/locomotion_by_minino.png" group-title="TV INFANTIL",LOCOMOTION ANIME
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/960px-Bob_esponja_logotipo.svg.png" group-title="TV INFANTIL",BOB ESPONJA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/960px-Bob_esponja_logotipo.svg.png" group-title="TV INFANTIL",BOB ESPONJA 24/7
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/doraemon-png/doraemon-logo-movies-hindi-dubbed-download-34.png" group-title="TV INFANTIL",DORAEMON 24/7
+http://cdn.tvar.io/getTk247/202_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="TV INFANTIL", Retro Mágico
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14295/logo_256_1684138541.png" group-title="TV INFANTIL", RETRO CARTOON
