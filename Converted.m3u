@@ -458,7 +458,7 @@ http://179.60.191.102:8000/play/a0i2
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY ID
 http://177.10.184.193:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="DOCUMENTALES",HISTORY
-http://181.119.203.146:8000/play/a0ni/index.m3u8?sd=10&rebase=on
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
 http://181.119.203.146:8000/play/a0hg/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/08/unnamed8_O-1.jpg", group-title="DOCUMENTALES",CRIMEN & HISTORIA
