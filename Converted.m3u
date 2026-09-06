@@ -536,9 +536,9 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD 
 http://186.33.52.206:7900/play/a0p0/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD
-http://190.60.39.195:8000/play/a0w0/index.m3u8?sd=10&rebase=on
+http://201.240.104.137:8000/play/a0av/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES" ,ESPN HD CENTROAMERICA
-http://45.5.116.228:8000/play/a05f/index.m3u8?sd=10&rebase=on
+?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="DEPORTES" ,ESPN 2 
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES" ,ESPN 2
