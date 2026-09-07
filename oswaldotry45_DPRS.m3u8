@@ -101,14 +101,14 @@ http://181.119.93.83:8000/play/a0jr
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PELICULAS",FMH MOVIES
 http://190.102.120.20:8000/play/a03k/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",CINEMAX
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",CINEMAX
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",CINECANAL
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",CINECANAL
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
+http://38.52.208.106:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
+http://152.231.29.139:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
+http://181.119.93.83:8000/play/a11z
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
+http://45.5.118.167:9999/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",DHE
 
 #EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",DHE
