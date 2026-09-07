@@ -171,9 +171,9 @@ http://201.174.175.3:8000/play/a0y2/index.m3u8?sd=10&rebase=on
 http://201.174.175.3:8000/play/a0y3/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
 http://181.78.197.59:8000/play/a07g/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PELICULAS",MAX PRIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME
 http://45.181.121.57:2909/play/122
-#EXTINF:-1 tvg-logo="https://www.m3ukodi.com/site/logos_searchs/logo_serve.php?id=5701" group-title="TV PELICULAS",MAX PRIME DRAMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
