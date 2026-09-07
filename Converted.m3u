@@ -715,6 +715,8 @@ https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 https://is.gd/5jTfOy/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN VIX
 http://fortv.cc:8080/54514663/54514663/11885
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/300x300.webp?type=color_onBlack" group-title="DEPORTES",TELEMUNDO DEPORTES AHORA
+https://is.gd/FOdXuE/oswaldotry45/Desktop/master.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d43863db-af5b-4492-bebb-79842bae651f/LATIN%20AMERICAN%20SPORTS%20ORIGINAL%20.png" group-title="DEPORTES",LATIN AMERICA SPORTS
 http://45.5.118.188:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/uploads/2026/01/HEADER-FUTV-2026-2-1-300x103-1.png" group-title="DEPORTES",FUTV
