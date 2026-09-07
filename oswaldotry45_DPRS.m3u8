@@ -63,7 +63,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?sd=10&rebase=on
 https://server.asilivehd.com/live/nortvisi.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png" group-title="TV ECUADOR",RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png", group-title="TV ECUADOR",TVPJ
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png" group-title="TV ECUADOR",TVPJ
 https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="TV ECUADOR",ECOTEL TV 
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&rebase=on
@@ -89,13 +89,13 @@ http://45.5.118.167:9999/play/a033/index.m3u8
 http://181.119.86.1:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="TV PELICULAS",AMC SERIES
 http://181.224.255.210:8001/play/a0qn/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",AXN
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS",AXN
 http://45.5.118.167:9999/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",AXN
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS",AXN
 http://181.119.93.83:8000/play/a124
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",A&E
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS",A&E
 http://45.5.118.167:9999/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",A&E
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS",A&E
 http://181.119.93.83:8000/play/a0jr
 #EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PELICULAS",MEGACINE TV
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
