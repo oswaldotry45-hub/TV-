@@ -512,57 +512,57 @@ https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
 http://177.53.153.207:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
+http://190.60.59.67:8000/play/a0kc
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN CENTROAMERICA
 http://181.119.177.253:8000/play/a0ck/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 2
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 2
+http://190.60.59.67:8000/play/a0kc
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 2
+http://190.60.59.60:8000/play/a0ta/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 2 CENTROAMERICA
 http://181.119.177.253:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
-http://181.119.177.253:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 3
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 3
+http://190.60.59.67:8000/play/a0ew
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 3
+http://190.60.59.60:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 3 CENTROAMERICA
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
-
+http://181.119.177.253:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 4
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 4
+http://190.60.59.67:8000/play/a0gc
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 4
+http://190.60.59.60:8000/play/a0ur/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 4 CENTROAMERICA
+http://181.119.177.253:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 5
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 5
+http://190.60.59.67:8000/play/a0eo
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 5
+http://190.60.59.60:8000/play/a0se/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 5 CENTROAMERICA
+http://181.119.177.253:8000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 6
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 6
+http://190.60.59.67:8000/play/a0ei
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 6
+http://190.60.59.60:8000/play/a0s7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 6 CENTROAMERICA
+http://181.119.177.253:8000/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 7
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 7
+http://190.60.59.67:8000/play/a0bw
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 7
+http://190.60.59.60:8000/play/a0uk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN 7 CENTROAMERICA
+http://205.235.6.29:8000/play/a0zl/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES"ESPN
 
 
