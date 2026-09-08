@@ -462,7 +462,7 @@ https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="DOCUMENTALES",HISTORY
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
-http://181.119.203.146:8000/play/a0hg/index.m3u8?sd=10&rebase=on
+http://177.234.249.178:8888/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/08/unnamed8_O-1.jpg", group-title="DOCUMENTALES",CRIMEN & HISTORIA
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS EN ESPAÑOL
