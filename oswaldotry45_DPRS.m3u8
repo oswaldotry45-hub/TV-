@@ -561,7 +561,7 @@ https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 http://190.60.59.67:8000/play/a0bw
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES"ESPN 7
 http://190.60.59.60:8000/play/a0uk/index.m3u8
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES"ESPN 7 CENTROAMERICA
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES",ESPN 7 CENTROAMERICA
 http://205.235.6.29:8000/play/a0zl/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD 
 http://38.226.49.253:8000/play/a07t/index.m3u8?sd=10&rebase=on
