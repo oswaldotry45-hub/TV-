@@ -142,7 +142,7 @@ http://181.119.177.253:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
 http://45.5.116.228:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
-
+http://186.5.77.99:8000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
@@ -169,35 +169,36 @@ http://186.3.191.218:8000/play/a0wo
 http://186.5.77.99:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS",SPACE
 http://186.3.191.218:8000/play/a0y6
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",STUDIO UNIVERSAL
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",STUDIO UNIVERSAL
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",TNT
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",TNT
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",TNT SERIES
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",TNT SERIES
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",UNIVERSAL TV
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",UNIVERSAL TV
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",UNIVERSAL CRIME HD
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",UNIVERSAL PREMIERE HD
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",UVIVERSAL CINEMA
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",UNIVERSAL REALITY HD
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",WARNER HD
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",WARNER HD
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",USA NETWORK
+#EXTINF:-1 tvg-logo="ttps://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS",STUDIO UNIVERSAL
+http://186.5.77.99:8000/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS",STUDIO UNIVERSAL
+http://186.3.191.218:8000/play/a11f
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
+http://186.5.77.99:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
+http://186.3.191.218:8000/play/a0tz
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS",TNT SERIES
+http://186.5.77.99:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS",TNT SERIES
+http://186.3.191.218:8000/play/a0ye
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PELICULAS",UNIVERSAL TV
+http://186.5.77.99:8000/play/a0pw/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PELICULAS",UNIVERSAL TV
+http://186.3.191.218:8000/play/a0yi
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_crime-mediano.png" group-title="TV PELICULAS",UNIVERSAL CRIME HD
+http://186.5.77.99:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_premiere-mediano.png" group-title="TV PELICULAS",UNIVERSAL PREMIERE HD
+http://186.5.77.99:8000/play/a0s5/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_cinema-mediano.png" group-title="TV PELICULAS",UVIVERSAL CINEMA
+http://186.5.77.99:8000/play/a0pq/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_reality-mediano.png" group-title="TV PELICULAS",UNIVERSAL REALITY HD
+http://186.5.77.99:8000/play/a0s7/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PELICULAS",WARNER HD
+http://186.5.77.99:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PELICULAS",WARNER HD
+http://186.3.191.218:8000/play/a0wp
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/usa_network_latinoamerica-mediano.png" group-title="TV PELICULAS",USA NETWORK
+http://186.5.77.99:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/i/?w=600&i=01718695522728.png" group-title="TV PELICULAS",RTVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PELICULAS",NBC Universo West 
