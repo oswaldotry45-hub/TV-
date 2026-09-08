@@ -129,30 +129,30 @@ http://177.234.218.66:8084/play/a06x/index.m3u8
 http://38.236.104.120:51002/play/a09n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="TV PELICULAS",GOLDEN EDGE
 http://38.236.104.139:51002/play/a09n/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS",HBO
+http://181.119.177.253:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS",HBO
+http://45.5.116.228:8000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS",HBO 2
+http://181.119.177.253:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS",HBO 2
+http://45.5.116.228:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
+http://181.119.177.253:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
+http://45.5.116.228:8000/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO 2
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO 2
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO XTREME
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO XTREME
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO MUNDI
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO MUNDI
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO +
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO +
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO FAMILY
-
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",HBO FAMILY
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
+http://45.5.116.228:8000/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
+http://181.119.177.253:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
+http://181.119.177.253:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
+http://45.5.116.228:8000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME
 http://45.181.121.57:2909/play/122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME DRAMA
