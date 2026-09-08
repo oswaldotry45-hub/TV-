@@ -608,7 +608,7 @@ https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN 2 USA
 http://193.239.186.231/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
-http:\\205.235.6.29:8000\play\a0y3\index.m3u8
+http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
 http://177.53.153.21:80/test/test/213.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
