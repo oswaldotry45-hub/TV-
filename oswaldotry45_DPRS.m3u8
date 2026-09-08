@@ -491,7 +491,22 @@ http://cdn.tvar.io/getTk247/202_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14295/logo_256_1684138541.png" group-title="TV INFANTIL", RETRO CARTOON
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
+http://45.185.163.75:8000/play/a0hr/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC EVENTOS
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
+http://superxlatino.com:8880/56953914762wspzero1/cW2Kf4Ehh6Nz/520014 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
+http://45.185.163.75:8000/play/a0hf/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
+http://45.185.163.75:8000/play/a0hf/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
+http://186.5.77.99:8000/play/a0f5/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
+http://181.78.192.238:8000/play/a1uy/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
 
 
 
