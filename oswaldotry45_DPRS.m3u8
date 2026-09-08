@@ -157,14 +157,54 @@ http://45.5.116.228:8000/play/a0l5/index.m3u8
 http://45.181.121.57:2909/play/122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME DRAMA
 http://45.181.121.57:2909/play/120
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
+http://186.3.191.218:8000/play/a0xx
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
+http://186.5.77.99:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
+http://186.5.77.99:8000/play/a0nt/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
+http://186.3.191.218:8000/play/a0wo
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS",SPACE
+http://186.5.77.99:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS",SPACE
+http://186.3.191.218:8000/play/a0y6
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",MULTIPREMIER
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",STAR CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",STAR CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",SPACE
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
 
-#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",SPACE
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="TV PELICULAS",
