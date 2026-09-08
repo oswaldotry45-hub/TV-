@@ -504,13 +504,13 @@ http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
 http://186.5.77.99:8000/play/a0f5/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
-http://181.78.192.238:8000/play/a1uy/index.m3u8?sd=10&rebase=on
+http://186.33.42.33:9969/ECDF/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN
-http://177.53.153.207:8000/play/a00j/index.m3u8
+http://177.234.247.66:9975/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN
 http://190.60.59.67:8000/play/a0kc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN CENTROAMERICA
@@ -670,15 +670,15 @@ http://181.205.130.194:4000/play/a0f1
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS+ HD
 http://181.118.150.27:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN
-http://186.33.7.209:8010/play/a05r/index.m3u8
+http://132.255.210.226:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN 
-http://200.229.147.142:8000/play/a096/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
 https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
 https://is.gd/5jTfOy/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN VIX
-http://fortv.cc:8080/54514663/54514663/11885
+
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/300x300.webp?type=color_onBlack" group-title="DEPORTES",TELEMUNDO DEPORTES AHORA
 https://is.gd/FOdXuE/oswaldotry45/Desktop/master.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d43863db-af5b-4492-bebb-79842bae651f/LATIN%20AMERICAN%20SPORTS%20ORIGINAL%20.png" group-title="DEPORTES",LATIN AMERICA SPORTS
