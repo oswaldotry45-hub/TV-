@@ -582,17 +582,17 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="DEPORTES",DIRECTV SPORTS 2
 http://45.188.229.33:8000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="DEPORTES",DIRECTV SPORTS 2
-
+http://38.190.100.202:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="DEPORTES",DIRECTV SPORTS 2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
-
+http://38.190.100.202:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-logo="https://latam2025.advertisingweek.com/images/userfiles/images/Disen%CC%83o%20sin%20ti%CC%81tulo%20(3).png" group-title="DEPORTES"#EXTINF:-1 tvg-logo="FOX TUBI
 https://tubi.apollo.adrise.io/live/fox-en-tubi-pltefr.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 AR
 http://177.53.153.207:8000/play/a008/index.m3u8  
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="DEPORTES",FOX SPORT 1 AR
-
+http://38.190.100.202:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 AR
 http://177.53.153.207:8000/play/a006/index.m3u8  
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="DEPORTES",FOX SPORT 2 AR
@@ -600,7 +600,7 @@ http://45.185.163.75:8000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
 http://177.53.153.207:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="DEPORTES",FOX SPORT 3 AR
-
+http://38.190.100.202:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES",FOX SPORT MX FS 1 
 http://38.188.186.47:4000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES",FOX SPORT MX FS 1 
@@ -672,7 +672,7 @@ http://181.118.150.27:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN
 http://132.255.210.226:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN 
-
+http://45.182.22.53:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
 https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
