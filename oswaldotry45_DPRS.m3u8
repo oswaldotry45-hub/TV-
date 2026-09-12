@@ -144,7 +144,7 @@ http://45.5.116.228:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
 http://186.5.77.99:8000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
-
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108713
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
 http://45.5.116.228:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
@@ -512,7 +512,7 @@ http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_Zapping_Sports_Per%C3%BA.jpg" group-title="DEPORTES",ZAPPING SPORTS EVENTOS
 http://45.185.163.75:8000/play/a0hf/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
-http://186.5.77.99:8000/play/a0f5/index.m3u8?sd=10&rebase=on
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/168822?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES", ECDF SD
 http://186.33.42.33:9969/ECDF/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA LIBERTADORES
