@@ -436,21 +436,19 @@ https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET
 https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
-http://38.19.41.46:8000/play/a06b/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
 http://45.182.22.53:8000/play/a0cq/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
-
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/87.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL HD
-
+http://209.14.108.65:8000/play/a08w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="DOCUMENTALES",NAT GEO HD
 http://186.3.191.218:8000/play/a0yc
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
-http://179.60.190.252:8000/play/a05n/index.m3u8
+http://179.60.190.252:8000/play/a05n/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="DOCUMENTALES",DISCOVERY THEATHER HD
-http://190.83.15.112:8000/play/a0et/index.m3u8
+http://190.83.15.112:8000/play/a0et/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY H&H HD
-
+http://205.235.6.29:8000/play/a0y6/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="DOCUMENTALES",DISCOVERY H&H HD
 https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE
@@ -472,8 +470,8 @@ https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="DOCUMENTALES",HISTORY
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
-http://177.234.249.178:8888/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/08/unnamed8_O-1.jpg", group-title="DOCUMENTALES",CRIMEN & HISTORIA
+http://201.234.124.235:8000/play/a0ja/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",CRIMEN & HISTORIA
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS EN ESPAÑOL
 https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8?sd=10&rebase=on
