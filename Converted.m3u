@@ -179,6 +179,8 @@ http://45.181.121.57:2909/play/120
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://186.33.61.182:8000/play/a04q/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/285/417/185/logo-paramount-network-television-network-paramount-channel-others.jpg" group-title="TV PELICULAS",PARAMOUNT NETWORK 
+http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGPLkgujoroVxve-5DpP8jpB/m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
 http://205.235.6.29:8000/play/a0x7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
@@ -681,6 +683,8 @@ http://38.188.186.47:4000/play/Ji198/index.m3u8
 http://45.182.22.53:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",VIX LIGA ESPAñOLA
 http://45.239.49.157:8000/play/a0j8/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="DEPORTES",BEIN SPORTS Ñ ESPAÑOL
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
