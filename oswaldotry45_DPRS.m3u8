@@ -205,9 +205,9 @@ http://186.5.77.99:8000/play/a0jw/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PELICULAS🎬",NBC Universo West 
 http://45.188.229.33:8000/play/a1cw/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PELICULAS🎬", VISION TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PELICULAS🎬",VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PELICULAS🎬", VILLA ALTAGRACIA TV
+#EXTINF:-1 tvg-logo="https://villaaltagraciatv.net/wp-content/uploads/2026/04/Villa-Altagracia-TV-PNG-300x118.png" group-title="TV PELICULAS🎬" VILLA ALTAGRACIA TV
 https://stream.inliveserver.com:19360/8004/8004.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tv.wow-iptv.com/logo.png" group-title="TV PELICULAS🎬", WOW TV MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8?sd=10&rebase=on
@@ -485,6 +485,10 @@ http://200.7.99.59:8000/play/a0j0/index.m3u8
 http://200.7.99.59:8000/play/a0n0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="TV INFANTIL👶",ADULT SWIN ANIME
 http://200.7.99.59:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" group-title="TV INFANTIL👶"ENERGEEK
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="TV INFANTIL👶"ENERGEEK FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-logo="" group-title="TV INFANTIL👶",AVI KIDS
 http://200.7.99.59:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ef15682060b756ab1bcf928ae9e98e7c4b459e005ad54489ab358f60ffc47001.png" group-title="TV INFANTIL👶",CLASICOS ANIMADOS
