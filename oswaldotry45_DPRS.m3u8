@@ -399,21 +399,21 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&rebase=on
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png" group-title="CANELA TV",PELICULAS CLASICAS ARTFLIX 
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text.png" group-title="CINE TERROR",PANICO TV 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text.png" group-title="CINE TERROR☠️",PANICO TV 
 http://181.78.8.199:8000/play/a0bt/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/0e0c5f16-33cc-413d-aa79-bc15b4647e59.png" group-title="CINE TERROR", HISTORIAS DE ULTRATUMBA
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/0e0c5f16-33cc-413d-aa79-bc15b4647e59.png" group-title="CINE TERROR☠️", HISTORIAS DE ULTRATUMBA
 https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="CINE TERROR",CINE TERROR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="CINE TERROR☠️",CINE TERROR
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="CINE TERROR",MISRETIOS SIN RESOLVER
+#EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="CINE TERROR☠️",MISRETIOS SIN RESOLVER
 https://is.gd/wFABEW/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="CINE TERROR", TODO CRIMEN
 https://jmp2.uk/stvp-ES1600004JV
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_0_0.jpg" group-title="CINE TERROR", FREE TV TERROR
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_0_0.jpg" group-title="CINE TERROR☠️", FREE TV TERROR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png" group-title="CINE TERROR", CINE DE HORROR
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png" group-title="CINE TERROR☠️", CINE DE HORROR
 https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/fdb54e2b-605b-48ef-a8ec-dd8afc1c3de2.png" group-title="CINE TERROR",FILMRISE HORROR
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/fdb54e2b-605b-48ef-a8ec-dd8afc1c3de2.png" group-title="CINE TERROR☠️",FILMRISE HORROR
 https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/84.png" group-title="DOCUMENTALES",ANIMAL PLANET
 https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
@@ -485,11 +485,11 @@ http://200.7.99.59:8000/play/a0j0/index.m3u8
 http://200.7.99.59:8000/play/a0n0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="TV INFANTIL👶",ADULT SWIN ANIME
 http://200.7.99.59:8000/play/a0j6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV INFANTIL",AVI KIDS
+#EXTINF:-1 tvg-logo="" group-title="TV INFANTIL👶",AVI KIDS
 http://200.7.99.59:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ef15682060b756ab1bcf928ae9e98e7c4b459e005ad54489ab358f60ffc47001.png" group-title="TV INFANTIL👶",CLASICOS ANIMADOS
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/330px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="TV INFANTI👶L",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/330px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="TV INFANTIL👶",CARTOON NETWORK
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="TV INFANTIL👶",MAX ANIME
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
@@ -535,7 +535,7 @@ https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
 http://dalive.site:8080/RGtWZEdHcy94N2VlYjhpUHdzRnRVTnBVQ2tCM3ZMaW1DWDl2V2I4NFRucz0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES⚽",ESPN 2
 http://190.60.59.60:8000/play/a0ta/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 CENTROAMERICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES⚽",ESPN 2 CENTROAMERICA
 http://181.119.177.253:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES⚽",ESPN 3
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
