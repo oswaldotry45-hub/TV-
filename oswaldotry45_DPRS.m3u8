@@ -131,7 +131,7 @@ http://38.236.104.120:51002/play/a09n/index.m3u8
 http://38.236.104.139:51002/play/a09n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS🎬",HBO
 http://181.119.177.253:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS",HBO
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS🎬",HBO
 http://45.5.116.228:8000/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS🎬",HBO 2
 http://181.119.177.253:8000/play/a00y/index.m3u8
@@ -407,7 +407,7 @@ https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="CINE TERROR☠️",MISRETIOS SIN RESOLVER
 https://is.gd/wFABEW/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="CINE TERROR", TODO CRIMEN
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png" group-title="CINE TERROR☠️", TODO CRIMEN
 https://jmp2.uk/stvp-ES1600004JV
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_0_0.jpg" group-title="CINE TERROR☠️", FREE TV TERROR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
