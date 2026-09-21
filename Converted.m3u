@@ -416,7 +416,7 @@ https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text.png" group-title="CINE TERROR",PANICO TV 
 http://181.78.8.199:8000/play/a0bt/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/0e0c5f16-33cc-413d-aa79-bc15b4647e59.png" group-title="CINE TERROR", HISTORIAS DE ULTRATUMBA
-https://is.gd/pTUkSC/oswaldo/Downloads/master.m3u8?sd=10&rebase=on
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="CINE TERROR",CINE TERROR
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cineoculto.com/wp-content/uploads/2019/01/unsolved-mysteries-490x380.jpg" group-title="CINE TERROR",MISRETIOS SIN RESOLVER
@@ -467,6 +467,10 @@ https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
 http://201.234.124.235:8000/play/a0ja/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/featuredImage.jpg" group-title="DOCUMENTALES",PLUTO TV HISTORIA
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="DOCUMENTALES",PLUTO TV NATURALEZA
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",CRIMEN & HISTORIA
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png" group-title="DOCUMENTALES", COPS EN ESPAÑOL
@@ -509,6 +513,8 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://ragnarokargumental3.wordpress.com/wp-content/uploads/2016/10/locomotion_by_minino.png" group-title="TV INFANTIL",LOCOMOTION ANIME
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg", group-title="TV INFANTIL",SUPER CAMPEONES
+https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/960px-Bob_esponja_logotipo.svg.png" group-title="TV INFANTIL",BOB ESPONJA 24/7
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/doraemon-png/doraemon-logo-movies-hindi-dubbed-download-34.png" group-title="TV INFANTIL",DORAEMON 24/7
