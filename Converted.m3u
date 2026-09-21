@@ -267,6 +267,8 @@ https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8?sd=10&rebase=on
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/featuredImage.jpg" group-title="PLUTO TV",CINE EN ESPAÑOL
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV",SERIES
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/c264ff6f-d7fc-4b70-8ef5-be7c14b35949.png" group-title="PLUTO TV",CINE CATASTOFRES
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.blogs.es/fa2459/1366_2000romantic/1366_2000.jpeg" group-title="PLUTO TV",CINE ROMANTICO
