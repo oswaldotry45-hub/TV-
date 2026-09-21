@@ -453,6 +453,8 @@ http://179.60.191.102:8000/play/a0i2
 https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="DOCUMENTALES",HISTORY
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/featuredImage.jpg" group-title="DOCUMENTALES",PLUTO TV HISTORIA
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="DOCUMENTALES",HISTORY 2
 http://177.234.249.178:8888/HISTORY2/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/08/unnamed8_O-1.jpg", group-title="DOCUMENTALES",CRIMEN & HISTORIA
