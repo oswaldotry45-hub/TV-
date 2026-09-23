@@ -179,9 +179,9 @@ http://186.3.191.218:8000/play/a11f
 http://186.5.77.99:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS🎬",TNT
 http://186.3.191.218:8000/play/a0tz
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS🎬",TNT SERIES
+#EXTINF:-1 tvg-logo="https://cdn.stmify.com/izzigo/assets/img/channels/TNT_Series.svg" group-title="TV PELICULAS🎬",TNT SERIES
 http://186.5.77.99:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS🎬",TNT SERIES
+#EXTINF:-1 tvg-logo="https://cdn.stmify.com/izzigo/assets/img/channels/TNT_Series.svg" group-title="TV PELICULAS🎬",TNT SERIES
 http://186.3.191.218:8000/play/a0ye
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PELICULAS🎬",UNIVERSAL TV
 http://186.5.77.99:8000/play/a0pw/index.m3u8
