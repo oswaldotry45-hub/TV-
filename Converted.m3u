@@ -191,9 +191,9 @@ http://181.78.197.59:8000/play/a06t/index.m3u8?sd=10&rebase=on
 http://181.78.197.59:8000/play/a07u/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
 http://45.5.117.57:8200/play/a03c/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS", TNT Series HD
+#EXTINF:-1 tvg-logo="https://cdn.stmify.com/izzigo/assets/img/channels/TNT_Series.svg" group-title="TV PELICULAS", TNT Series HD
 http://186.33.26.18:8000/play/a0l8/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="TV PELICULAS", TNT Series HD
+#EXTINF:-1 tvg-logo="https://cdn.stmify.com/izzigo/assets/img/channels/TNT_Series.svg" group-title="TV PELICULAS", TNT Series HD
 http://181.224.255.210:8001/play/a0ls/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universal_tv-mediano.png" group-title="TV PELICULAS", UNIVERSAL TV
 http://186.148.163.17:8000/play/a08j/index.m3u8?sd=10&rebase=on
