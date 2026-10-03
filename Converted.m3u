@@ -717,8 +717,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT SPORTS
 http://45.185.163.75:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT SPORTS
-
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT SPORTS AR
+https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1229562.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
 http://45.185.163.75:8000/play/a02y/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
