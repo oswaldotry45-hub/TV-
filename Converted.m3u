@@ -689,6 +689,10 @@ http://45.5.117.99:8000/play/a03w/index.m3u8
 http://45.5.117.187:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/53380.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN LA LIGA ESPAÑOLA
+http://200.115.120.1:8000/play/ca081/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN LA LIGA ESPAÑOLA
+http://200.115.120.1:8000/play/ca081/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",LIGA ESPAñOLA
 http://45.239.49.157:8000/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",LIGA ESPAñOLA
@@ -724,11 +728,11 @@ http://45.185.163.75:8000/play/a02y/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1155814.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
-http://190.7.19.197:232/play/a04w/index.m3u8
+http://200.115.120.1:8000/play/ca043/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
+https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/8247.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
-http://181.78.192.238:8000/play/a25u/index.m3u8
+http://190.83.15.112:8000/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS
 http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS+ HD
@@ -736,7 +740,7 @@ http://181.118.150.27:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN
 http://195.178.110.110/tudn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN 
-http://200.229.147.142:8000/play/a096/index.m3u8
+http://200.115.96.61:9090/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
 https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN 
