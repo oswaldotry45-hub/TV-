@@ -16,9 +16,9 @@ http://179.60.191.102:8000/play/a0fb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
-http://45.185.163.75:8000/play/a00s/index.m3u8?sd=10&rebase=on
+http://157.100.248.242:8080/TeleamazonasHD/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS 
-http://45.185.163.75:8000/play/a056/index.m3u8?sd=10&rebase=on
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
 http://205.235.6.29:8000/play/a0yd/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="TV ECUADOR",ECUADOR TV
