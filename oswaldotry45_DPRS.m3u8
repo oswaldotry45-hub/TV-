@@ -726,7 +726,11 @@ https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES⚽",ZONA TUDN 
 https://is.gd/5jTfOy/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES⚽",TUDN VIX
-
+http://190.83.9.222:8000/play/ca099/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-700x394.png" group-title="DEPORTES⚽",EUROSPORTS 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-700x394.png" group-title="DEPORTES⚽",EUROSPORTS 2
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/300x300.webp?type=color_onBlack" group-title="DEPORTES⚽",TELEMUNDO DEPORTES AHORA
 https://is.gd/FOdXuE/oswaldotry45/Desktop/master.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/d43863db-af5b-4492-bebb-79842bae651f/LATIN%20AMERICAN%20SPORTS%20ORIGINAL%20.png" group-title="DEPORTES⚽",LATIN AMERICA SPORTS
