@@ -487,6 +487,10 @@ https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8?sd=10&rebase=on
 https://jmp2.uk/rok-e4a278e5f27cc0c97aae4ddbefdbc5e6.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/960px-El_Chavo_%28simple_logo%29.svg.png" group-title="TV INFANTIL",CHAVO DEL 8 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/y35XOCZKWPP0PVUmhrnOjUuKEgm.png" group-title="TV INFANTIL", CHAPULIN COLORADO 24/7
+https://m3u.tvcluboficial.com/free/ReachBot/Kip/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Chespirito_Cut_1617889980592.png" group-title="TV INFANTIL",CHESPIRITO 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/960px-Dragon_Ball_Z_logo.svg.png" group-title="TV INFANTIL", DRAGON BALL Z 24/7
 https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" group-title="TV INFANTIL",LOS SIMPSON 24/7 
