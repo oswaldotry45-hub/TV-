@@ -629,10 +629,12 @@ http://38.199.5.160:8000/play/a0ea/index.m3u8?sd=10&rebase=on
 http://205.235.6.29:8000/play/a0wl/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
 http://190.108.83.69:8000/play/a03w/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN USA
+http://190.197.41.183:80/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 USA
+http://190.197.41.183:80/ESPN_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN 8 USA 
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN 2 USA
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" group-title="DEPORTES",DIRECTV SPORTS
