@@ -495,6 +495,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8
 https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" group-title="TV INFANTIL",LOS SIMPSON 24/7 
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/12/464/png-clipart-spider-man-animated-series-animated-film-fernsehserie-others.png" group-title="TV INFANTIL",SPIDER-MAN 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/668/489/png-clipart-x-men-logo-professor-x-cyclops-wolverine-x-men-logo-x-men-angle-fictional-characters.png" group-title="TV INFANTIL",X-MEN 24/7
+http://cdn.tvar.io/getTk247/265_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
 #EXTINF:-1 tvg-logo="https://es.gizmodo.com/app/uploads/2015/03/buitnaepwwe3imbnh9fs.jpg" group-title="TV INFANTIL",DREAMWORKS
 http://200.7.99.59:8000/play/a0mq/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="TV INFANTIL",DISNEY CHANNEL
