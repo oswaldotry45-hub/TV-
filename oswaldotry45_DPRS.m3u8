@@ -39,7 +39,7 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/15
 http://45.185.163.75:8000/play/a00w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="TV ECUADOR",TELEVICENTRO TVC
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf09c4d9487b72e8688236448c37ae427bdcee863667a28cef53bd45b876f8f6.png" group-title="TV ECUADOR📺", FRECUENCIA MUSICAL TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf09c4d9487b72e8688236448c37ae427bdcee863667a28cef53bd45b876f8f6.png" group-title="TV ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/108_RTU_TV.png" group-title="TV ECUADOR",RTU NOTICIAS 
 http://45.224.97.181:9999/RTU/index.m3u8?sd=10&rebase=on
@@ -64,23 +64,25 @@ https://server.asilivehd.com/live/nortvisi.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png" group-title="TV ECUADOR",RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png" group-title="TV ECUADOR",TVPJ
-https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="TV ECUADOR",ECOTEL TV 
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-itCS579tqeU/Zc6rufn2y3I/AAAAAAABAmU/lfs_fdOw5E4dlKLhAf8XtFHcXuxS8DCOACK4BGAYYCw/s35/it6-op3.png" group-title="TV ECUADOR",IMPERIO TV CANAL 6 
 https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b893637f-884c-4b60-b673-8d715fe403ca.png?random=1785706733153" group-title="TV ECUADOR📺",LORETO TV ORELLANA
-https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2023/09/cropped-RTV-LOGO-2023-02-1-1536x1536.png" group-title="TV ECUADOR📺",CANAL RTV
+#EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b893637f-884c-4b60-b673-8d715fe403ca.png?random=1785706733153" group-title="TV ECUADOR",LORETO TV ORELLANA
+
+#EXTINF:-1 tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2023/09/cropped-RTV-LOGO-2023-02-1-1536x1536.png" group-title="TV ECUADOR",CANAL RTV
 https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w727044375.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" group-title="TV ECUADOR📺",CURIQUINGUE TV COTOPAXI
-https://video2.lhdserver.es/pjtv/live.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" group-title="TV ECUADOR",CURIQUINGUE TV COTOPAXI
+
 #EXTINF:-1 tvg-logo="https://www.qenta.app/wp-content/uploads/2026/01/logo.png" group-title="TV ECUADOR",QUENTA TV
-https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV ECUADOR",15TV PIÑAS ECUADOR
 https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/Marvel-Studios-Logo-2008-500x281.png" group-title="TV PELICULAS",MARVEL 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="TV PELICULAS",DR HOUSE 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-211979/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS",AMC
 https://amc-amcespanol-1-us.lg.wurl.tv/3000.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS",AMC
@@ -483,6 +485,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8
 https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/771/352/png-transparent-the-simpsons-characters-illustration-homer-simpson-marge-simpson-maggie-simpson-lisa-simpson-bart-simpson-the-simpsons-text-cartoon-fictional-character.png" group-title="TV INFANTIL",LOS SIMPSON 24/7 
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/12/464/png-clipart-spider-man-animated-series-animated-film-fernsehserie-others.png" group-title="TV INFANTIL",SPIDER-MAN 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/668/489/png-clipart-x-men-logo-professor-x-cyclops-wolverine-x-men-logo-x-men-angle-fictional-characters.png" group-title="TV INFANTIL",X-MEN 24/7
+http://cdn.tvar.io/getTk247/265_.m3u8?xauthorization=KJ+dB9nSw0K5Gscwps4Klw==
 #EXTINF:-1 tvg-logo="https://es.gizmodo.com/app/uploads/2015/03/buitnaepwwe3imbnh9fs.jpg" group-title="TV INFANTIL",DREAMWORKS
 http://200.7.99.59:8000/play/a0mq/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="TV INFANTIL",DISNEY CHANNEL
