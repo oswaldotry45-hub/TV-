@@ -91,7 +91,7 @@ https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
 https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/Marvel-Studios-Logo-2008-500x281.png" group-title="TV PELICULAS",MARVEL 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg" group-title="TV PELICULAS",NETFLIX TV 24/7
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/366/864/png-clipart-netflix-logo-illustration-netflix-streaming-media-television-show-logo-netflix-logo-television-text.png" group-title="TV PELICULAS",NETFLIX TV 24/7
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1188392.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="TV PELICULAS",DR HOUSE 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-211979/tracks-v1a1/mono.ts.m3u8
