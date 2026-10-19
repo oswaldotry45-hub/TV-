@@ -592,21 +592,21 @@ http://181.78.197.59:8000/play/a080/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 
-http://45.185.163.75:8000/play/a04v/index.m3u8?sd=10&rebase=on
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd?dvr_window_length=30
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3
 http://45.185.163.75:8000/play/a04d/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3
 http://45.188.229.33:8000/play/a12v/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 CENTRO AMERICA
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1110.m3u8?sd=10&rebase=on
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/386.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 CENTRO AMERICA
 http://181.78.197.59:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4
 https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 
-http://190.61.63.140:8000/play/a04t/index.m3u8?sd=10&rebase=on
+https://cdn.in.fibra360.net/ESPN_4/ESPN_4.isml/ESPN_4.mpd?dvr_window_length=30?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4
-http://191.52.214.129:8000/play/a09f/index.m3u8?sd=10&rebase=on
+https://zapster.trapemn.tv:1936/zapster-hls/ESPN4.stream/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
 http://45.5.116.228:8000/play/a05e/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
@@ -614,9 +614,9 @@ https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/4120.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5
 https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5
-http://45.185.163.75:8000/play/a044/index.m3u8?sd=10&rebase=on
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd?dvr_window_length=30?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5
-http://190.60.51.171:8000/play/a017/index.m3u8?sd=10&rebase=on
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1104.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5
 http://45.239.49.157:8000/play/a0m6/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 CENTRO AMERICA
@@ -626,7 +626,7 @@ http://186.33.7.209:8010/play/a07a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6
 https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6
-http://45.185.163.75:8000/play/a03y/index.m3u8?sd=10&rebase=on
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1105.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6
 http://45.239.49.157:8000/play/a0m5/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6 CENTRO AMERICA
@@ -634,9 +634,9 @@ http://45.5.116.228:8000/play/a05i/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES",ESPN 7
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES",ESPN 7
-http://45.185.163.75:8000/play/a06k/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES",ESPN 7 CENTRO AMERICA
-http://38.226.49.253:8000/play/a087/index.m3u8?sd=10&rebase=on
+https://cdn.in.fibra360.net/ESPN_7/ESPN_7.isml/ESPN_7.mpd?dvr_window_length=30?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES",ESPN 7
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1106.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN DEPORTES
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD 
@@ -710,7 +710,7 @@ http://186.33.7.209:8010/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_channel_espana-mediano.png" group-title="DEPORTES",FOX SPORT HD ESA
 http://186.5.77.99:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",Claro Spor 1 HD MX
-http://186.33.7.209:8010/play/a04w/index.m3u8
+https://360tv-live1.boldmss.com/CLARO_SPORTS/CLARO_SPORTS.isml/CLARO_SPORTS.mpd?dvr_window_length=30
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",Claro Spor 1 HD
 http://45.5.117.99:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",Claro Spor 1 HD
