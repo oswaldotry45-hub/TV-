@@ -776,6 +776,12 @@ http://190.83.15.112:8000/play/a0ec/index.m3u8
 http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS+ HD
 http://181.118.150.27:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="http://i.ibb.co/6JY0F63v/Win.png", Win Sports 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9642526f018477cb5013ef5017913f9:ee0c7d58101c59e8e895ed6bd011110d
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WINSPORTS_HD)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN
 http://195.178.110.110/tudn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN 
