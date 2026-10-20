@@ -609,7 +609,7 @@ https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 https://cdn.in.fibra360.net/ESPN_4/ESPN_4.isml/ESPN_4.mpd?dvr_window_length=30?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4
 https://zapster.trapemn.tv:1936/zapster-hls/ESPN4.stream/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png", ESPN 4 
+#EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png", group-title="DEPORTES", ESPN 4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
