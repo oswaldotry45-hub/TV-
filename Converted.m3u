@@ -609,14 +609,9 @@ https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 https://cdn.in.fibra360.net/ESPN_4/ESPN_4.isml/ESPN_4.mpd?dvr_window_length=30?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4
 https://zapster.trapemn.tv:1936/zapster-hls/ESPN4.stream/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png", group-title="DEPORTES", ESPN 4 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
+#EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
 http://45.5.116.228:8000/play/a05e/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
+#EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/4120.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5
 https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
@@ -774,16 +769,10 @@ http://200.115.120.1:8000/play/ca043/index.m3u8
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/8247.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
 http://190.83.15.112:8000/play/a0ec/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6JY0F63v/Win.png" group-title="DEPORTES",WIN SPORTS
 http://186.33.52.206:7900/play/a0pm/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-title="DEPORTES",WIN SPORTS+ HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6JY0F63v/Win.png" group-title="DEPORTES",WIN SPORTS+ HD
 http://181.118.150.27:8000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-name="Win Sports" tvg-logo="http://i.ibb.co/6JY0F63v/Win.png", Win Sports 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9642526f018477cb5013ef5017913f9:ee0c7d58101c59e8e895ed6bd011110d
-https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WINSPORTS_HD)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN
 http://195.178.110.110/tudn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN 
