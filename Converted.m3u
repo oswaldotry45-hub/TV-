@@ -823,9 +823,11 @@ https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8?sd=10&rebase=onI
 https://live.eu-north-1b.cf.dmcdn.net/sec2(PmiB29Ag97fAa6heLjbCmOIEXgk88mW4DPbkEHkGdRbZMtaCz74izThdOTSJvwwCwB6bhUlfWVKYtIhghlzaByYTi_8-VeL4csPX3_SLk6l_v1OyUEfNZYjv75qJDh7Z)/dm/3/x8nb0hx/s/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="NOTICIAS",HECHOS ECUADOR
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" tvg-chno="6" group-title="NOTICIAS",RTVE 24H ESPAÑA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="NOTICIAS",RTVE 24H ESPAÑA
 #EXTVLCOPT : almacenamiento en caché de red = 1000
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="NOTICIAS",EURONEWS HD
+https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/330px-Russia-today-logo.svg.png" group-title="NOTICIAS",RUSSIA TUDAY RT
 http://186.33.42.33:9969/RT/mpegts
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" tvg-chno="3" group-title="NOTICIAS",DW EN ESPAÑOL Ⓢ
@@ -838,8 +840,10 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" group-title="NOTICIAS",ADN MEXICO
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.videomagic.cl/wp-content/uploads/2024/03/logo-meganoticias-300x297.png" group-title="NOTICIAS",MEGA NOTICIAS CHILE
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQGfprPq89QgKUJK7LeQxPlFvM7UjUaLAudS7365TDoPnfyucWvld-QaHnRCRQr7vc6TyFgW-OOIFm6WRKiRiE2mMuIH9X1eqGIBMjArAoG_SvZBzqM7Pa-l3UUeN6zzSRerz04YD9BI/s1600/Cabecera-NI.png" group-title="NOTICIAS",NORTE INFORMATICO COSTA RICA
+https://videohd.live:19360/8076/8076.m3u8
 
 
 
