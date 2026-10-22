@@ -51,12 +51,6 @@ http://45.185.163.75:8000/play/a00w/index.m3u8?sd=10&rebase=on
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf09c4d9487b72e8688236448c37ae427bdcee863667a28cef53bd45b876f8f6.png" group-title="TV ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/108_RTU_TV.png" group-title="TV ECUADOR",RTU NOTICIAS 
-http://45.224.97.181:9999/RTU/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0b3863_5a548f9791c74f7cac4413ec6be8feb2~mv2.png" group-title="TV ECUADOR",WUANPLUS NOTICIAS
-https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8?sd=10&rebase=onI
-#EXTINF:-1 tvg-logo="https://saturnodigital.sfo3.cdn.digitaloceanspaces.com/247/noticias/2025/09/24-7-1.png" group-title="TV ECUADOR",24/7 NOTICAS
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="TV ECUADOR",TELERAMA
 https://play.once.net.ec/telerama/live.tv/538.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/austral-tv-ec.png" group-title="TV ECUADOR",AUSTRAL TV AZOGUES
@@ -813,7 +807,18 @@ https://live-manifest.production-public.tubi.io/live/d8c035df-1076-4aa6-8628-da2
 https://live-manifest.production-public.tubi.io/live/79123cfa-756c-4d5e-9f66-26755a4cd5c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562631849_ROKU-Deportes-InfoHUD-1.png" group-title="DEPORTES",Canela.TV Deportes
 https://jmp2.uk/rok-735c2b7253c551ae9f07b07ea5278b75.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/108_RTU_TV.png" group-title="NOTICIAS",RTU NOTICIAS ECUADOR
+http://45.224.97.181:9999/RTU/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0b3863_5a548f9791c74f7cac4413ec6be8feb2~mv2.png" group-title="NOTICIAS",WUANPLUS ECUADOR
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8?sd=10&rebase=onI
+#EXTINF:-1 tvg-logo="https://saturnodigital.sfo3.cdn.digitaloceanspaces.com/247/noticias/2025/09/24-7-1.png" group-title="NOTICIAS",24/7 ECUADOR
+https://live.eu-north-1b.cf.dmcdn.net/sec2(PmiB29Ag97fAa6heLjbCmOIEXgk88mW4DPbkEHkGdRbZMtaCz74izThdOTSJvwwCwB6bhUlfWVKYtIhghlzaByYTi_8-VeL4csPX3_SLk6l_v1OyUEfNZYjv75qJDh7Z)/dm/3/x8nb0hx/s/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://media.telemundo51.com/2024/11/Tile-TLMD-Noticias-Florida.png" group-title="NOTICIAS",TELEMUNDO
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="NOTICIAS",FRANCA 24 EN ESPAÑOL
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS", NT | CNN EN ESPAÑOL
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 
 
 
