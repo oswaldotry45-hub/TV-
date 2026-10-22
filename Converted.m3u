@@ -844,13 +844,17 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQGfprPq89QgKUJK7LeQxPlFvM7UjUaLAudS7365TDoPnfyucWvld-QaHnRCRQr7vc6TyFgW-OOIFm6WRKiRiE2mMuIH9X1eqGIBMjArAoG_SvZBzqM7Pa-l3UUeN6zzSRerz04YD9BI/s1600/Cabecera-NI.png" group-title="NOTICIAS",NORTE INFORMATICO COSTA RICA
 https://videohd.live:19360/8076/8076.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://noticias16.com.do/wp-content/uploads/2025/06/cropped-FEED-POST-2.png" group-title="NOTICIAS",NOTICIAS 16 República Dominicana
+https://edge.essastream.com/noticias16/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/NoticiasRCN2018.png/960px-NoticiasRCN2018.png" group-title="NOTICIAS", RCN COLOMBIA
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+#EXTINF:-1 tvg-logo="https://www.uao.edu.co/wp-content/uploads/sites/9/2014/02/90_minutos.jpg" group-title="NOTICIAS",NOTICIERO 90 MINUTOS COLOMBIA
+#EXTVLCOPT : almacenamiento en caché de red = 1000
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6898b5473553972f3a803cec/f871b7f9-a803-4983-b941-18c740eea1e6/NowMedia+ESPv3H1.png" group-title="NOTICIAS",NOWMEDIA TELEVICION MEXICO
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/TV_Per%C3%BA_Noticias_2017_-_2019.png/960px-TV_Per%C3%BA_Noticias_2017_-_2019.png" group-title="NOTICIAS",TV PERU NOTICIAS
+http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 
 
 
