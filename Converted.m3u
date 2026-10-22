@@ -823,15 +823,21 @@ https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8?sd=10&rebase=onI
 https://live.eu-north-1b.cf.dmcdn.net/sec2(PmiB29Ag97fAa6heLjbCmOIEXgk88mW4DPbkEHkGdRbZMtaCz74izThdOTSJvwwCwB6bhUlfWVKYtIhghlzaByYTi_8-VeL4csPX3_SLk6l_v1OyUEfNZYjv75qJDh7Z)/dm/3/x8nb0hx/s/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/61e6310d3789dc98e0cdf05b093919c177ea86faa06a9362ea4bc5b107517ee0.png" group-title="NOTICIAS",HECHOS ECUADOR
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" tvg-chno="6" group-title="NOTICIAS",RTVE 24H ESPAÑA
+#EXTVLCOPT : almacenamiento en caché de red = 1000
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/330px-Russia-today-logo.svg.png" group-title="NOTICIAS",RUSSIA TUDAY RT
 http://186.33.42.33:9969/RT/mpegts
+#EXTINF:-1 tvg-name="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" tvg-chno="3" group-title="NOTICIAS",DW EN ESPAÑOL Ⓢ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundo51.com/2024/11/Tile-TLMD-Noticias-Florida.png" group-title="NOTICIAS",TELEMUNDO
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="NOTICIAS",FRANCA 24 EN ESPAÑOL
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN EN ESPAÑOL
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" group-title="NOTICIAS",ADN MEXICO
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 
