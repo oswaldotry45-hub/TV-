@@ -145,6 +145,10 @@ http://181.78.197.59:8000/play/a079/index.m3u8?sd=10&rebase=on
 http://181.78.197.59:8000/play/a07a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="TV PELICULAS",GOLDEN EDGE
 https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="TV PELICULAS",LIFETIME
+http://186.33.42.33:9969/Lifetime/mpegts
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="TV PELICULAS",LIFETIME
+http://186.33.42.33:9969/Lifetime/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/hermanas-mirabal-tv-canal-33-salcedo.png" group-title="TV PELICULAS", HMTV HD 
 https://fox.hostlagarto.com:8081/hmtv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
