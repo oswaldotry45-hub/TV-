@@ -495,6 +495,9 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cinefilosfrustrados.com/wp-content/uploads/2023/02/Runtime_trash_16x9-1-696x392.jpg" group-title="RUNTIME TV",RUNTIME TRASH
 #EXTVLCOPT:network-caching=1000
 https://run-rss.otteravision.com/run/rss/rss_720.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg" group-title="RUNTIME TV",Águila Roja
+#EXTVLCOPT:network-caching=1000
+https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="RUNTIME TV",SANGRE FRIA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8?sd=10&rebase=on
@@ -754,7 +757,7 @@ http://179.60.191.102:8000/play/a0in
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
 #EXTVLCOPT:network-caching=1000
-http://181.119.97.124:8080/play/a00v/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jirI8F.png" group-title="DEPORTES",TELE UNO⚽SD EVENTOS
 #EXTVLCOPT:network-caching=1000
 https://183.bozztv.com/giatv/giatv-teleuno/teleuno/chunks.m3u8
@@ -1194,7 +1197,12 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/TV_Per%C3%BA_Noticias_2017_-_2019.png/960px-TV_Per%C3%BA_Noticias_2017_-_2019.png" group-title="NOTICIAS",TV PERU NOTICIAS
 #EXTVLCOPT:network-caching=1000
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvqbLZB.png" group-title="NOTICIAS", Moconomy Economía y Finanzas España
+#EXTVLCOPT:network-caching=1000
+https://05121b0bfc74401283b3f3848ab06336.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_MoconomyEconomiayFinanzas/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="NOTICIAS",Distrito TV España
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 
 
