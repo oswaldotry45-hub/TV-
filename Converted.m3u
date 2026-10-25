@@ -842,6 +842,9 @@ http://45.5.116.228:8000/play/a05e/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
 #EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/4120.m3u8
+#EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 BRAZIL
+#EXTVLCOPT:network-caching=1000
+http://45.177.114.115:80/ESPN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5
 #EXTVLCOPT:network-caching=1000
 https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
@@ -860,6 +863,9 @@ http://177.53.153.21:80/test/test/220.ts
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 CENTRO AMERICA
 #EXTVLCOPT:network-caching=1000
 http://186.33.7.209:8010/play/a07a/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 BRAZIL
+#EXTVLCOPT:network-caching=1000
+https://45.177.114.115:443/ESPN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6
 #EXTVLCOPT:network-caching=1000
 https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8?sd=10&rebase=on
@@ -872,6 +878,9 @@ http://45.239.49.157:8000/play/a0m5/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6 CENTRO AMERICA
 #EXTVLCOPT:network-caching=1000
 http://45.5.116.228:8000/play/a05i/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6-1024x343.png" group-title="DEPORTES",ESPN 6 BRAZIL
+#EXTVLCOPT:network-caching=1000
+https://45.177.114.115:443/ESPN_6/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-7-1024x343.png" group-title="DEPORTES",ESPN 7
 #EXTVLCOPT:network-caching=1000
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8?sd=10&rebase=on
