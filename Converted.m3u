@@ -753,7 +753,7 @@ http://200.115.120.1:8000/play/ca121/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://179.60.191.102:8000/play/a0in
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
 #EXTVLCOPT:network-caching=1000
@@ -909,13 +909,14 @@ https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/53462.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
+#EXTVLCOPT:network-caching=1000
 http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 #EXTVLCOPT:network-caching=1000
 http://177.53.153.21:80/test/test/213.ts
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="DEPORTES",DIRECTV SPORTS
 #EXTVLCOPT:network-caching=1000
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
+http://38.211.62.238:2002/play/a009/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" group-title="DEPORTES",DIRECTV SPORTS 2
 #EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/53489.m3u8
