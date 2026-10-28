@@ -987,6 +987,8 @@ http://45.5.117.99:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",CLARO SPORTS 3 HD
 #EXTVLCOPT:network-caching=1000
 http://45.5.117.187:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTES",DAZN F1
+http://myultratv.com:8080/live/93wema56we34be78/58wumu473muwu85/12397.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1
 #EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/53380.m3u8
