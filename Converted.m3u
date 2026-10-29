@@ -889,7 +889,7 @@ http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6JY0F63v/Win.png" group-title="DEPORTES",WIN SPORTS+ HD LIGA COLOMBIA
 http://181.118.150.27:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN LIGA MEXICANA
-http://195.178.110.110/tudn/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN LIGA MEXICANA
 http://200.115.96.61:9090/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN LIGA MEXICANA
