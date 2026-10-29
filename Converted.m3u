@@ -70,187 +70,127 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1321_TVPJ.png", group-title="TV ECUADOR",TVPJ
 https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="99" tvg-name="Ecotel TV" tvg-logo="https://cdn.m3u.cl/logo/99_Ecotel_TV.png" group-title="TV ECUADOR",ECOTEL TV 
-#EXTVLCOPT:network-caching=1000
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/2ce2065d-989f-4eb7-8f00-ed80cc6f3a71.png" group-title="TV ECUADOR",IMPERIO TV CANAL 6
-#EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/user_icons/b893637f-884c-4b60-b673-8d715fe403ca.png?random=1785706733153" group-title="TV ECUADOR",LORETO TV ORELLANA
-#EXTVLCOPT:network-caching=1000
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2023/09/cropped-RTV-LOGO-2023-02-1-1536x1536.png" group-title="TV ECUADOR",CANAL RTV
-#EXTVLCOPT:network-caching=1000
 https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w727044375.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://curiquinguetv.com/wp-content/uploads/2024/05/cropped-logo000-2.png" group-title="TV ECUADOR",CURIQUINGUE TV COTOPAXI
-#EXTVLCOPT:network-caching=1000
 https://video2.lhdserver.es/pjtv/live.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.qenta.app/wp-content/uploads/2026/01/logo.png" group-title="TV ECUADOR",QUENTA TV
-#EXTVLCOPT:network-caching=1000
 https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV ECUADOR",15TV PIÑAS ECUADOR
-#EXTVLCOPT:network-caching=1000
 https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/Marvel-Studios-Logo-2008-500x281.png" group-title="TV PELICULAS",MARVEL 24/7
-#EXTVLCOPT:network-caching=1000
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="TV PELICULAS",DR HOUSE 24/7
-#EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatvplayout7/giatv-211979/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/366/864/png-clipart-netflix-logo-illustration-netflix-streaming-media-television-show-logo-netflix-logo-television-text.png" group-title="TV PELICULAS",NETFLIX TV 
-#EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1188392.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/960px-Amazon_Prime_logo_%282024%29.svg.png" group-title="TV PELICULAS",AMAZON PRIME
-#EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1200682.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
-#EXTVLCOPT:network-caching=1000
 http://177.234.218.66:8083/play/a0j4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="TV PELICULAS", AMC HD
-#EXTVLCOPT:network-caching=1000
 http://45.167.1.139:8000/play/a05k
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_series-mediano.png" group-title="TV PELICULAS", AMC SERIES
-#EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0qn/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS", A&E
-#EXTVLCOPT:network-caching=1000
 http://190.83.15.112:8000/play/a063/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="TV PELICULAS", A&
-#EXTVLCOPT:network-caching=1000
 http://45.185.163.75:8000/play/a040/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS", AXN
-#EXTVLCOPT:network-caching=1000
 http://45.5.117.57:8200/play/a04d/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://ottplayer.tv/public/images/lib_channels/22239.png" group-title="TV PELICULAS", AXN HD
-#EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0m8/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PELICULAS",MEGACINE TV
-#EXTVLCOPT:network-caching=1000
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PELICULAS",FMH MOVIES
-#EXTVLCOPT:network-caching=1000
 http://190.102.120.20:8000/play/a03k/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
-#EXTVLCOPT:network-caching=1000
 http://179.60.190.252:8000/play/a091/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
-#EXTVLCOPT:network-caching=1000
 http://190.83.15.112:8000/play/a07s/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
-#EXTVLCOPT:network-caching=1000
 http://179.60.190.252:8000/play/a0g0/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
-#EXTVLCOPT:network-caching=1000
 http://179.60.191.102:8000/play/a0gw
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png" group-title="TV PELICULAS",CLARO CINEMA
-#EXTVLCOPT:network-caching=1000
 http://190.61.101.11:7050/play/a04w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINE PREMIUN
-#EXTVLCOPT:network-caching=1000
 https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINEMA PREMIUM
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a084/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE
-#EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0nt/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE HD
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a08d/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
-#EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0ge/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PELICULAS",GEN TV
-#EXTVLCOPT:network-caching=1000
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PELICULAS",GOLDEN PREMIER
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a079/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PELICULAS",GOLDEN PREMIER 2
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a07a/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge-mediano.png" group-title="TV PELICULAS",GOLDEN EDGE
-#EXTVLCOPT:network-caching=1000
 https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="TV PELICULAS",LIFETIME
-#EXTVLCOPT:network-caching=1000
 http://186.33.42.33:9969/Lifetime/mpegts
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="TV PELICULAS",LIFETIME
-#EXTVLCOPT:network-caching=1000
 http://186.33.42.33:9969/Lifetime/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/images/canales/hermanas-mirabal-tv-canal-33-salcedo.png" group-title="TV PELICULAS", HMTV HD 
-#EXTVLCOPT:network-caching=1000
 https://fox.hostlagarto.com:8081/hmtv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
-#EXTVLCOPT:network-caching=1000
 http://181.119.177.253:8000/play/a00x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
-#EXTVLCOPT:network-caching=1000
 http://200.37.201.98:8000/play/a06x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO 2
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a07e/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO 2
-#EXTVLCOPT:network-caching=1000
 http://181.119.177.253:8000/play/a00y/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
-#EXTVLCOPT:network-caching=1000
 http://181.119.177.253:8000/play/a011/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
-#EXTVLCOPT:network-caching=1000
 http://186.33.61.182:8000/play/a011/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
-#EXTVLCOPT:network-caching=1000
 http://186.5.77.99:8000/play/a0li/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
-#EXTVLCOPT:network-caching=1000
 http://38.224.231.47:8000/play/a01h/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a07f/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus-mediano.png" group-title="TV PELICULAS",HBO +
 #EXTVLCOPT:network-caching=1000
 http://201.174.175.3:8000/play/a0y2/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
-#EXTVLCOPT:network-caching=1000
 http://181.205.130.194:4000/play/a0fl?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="TV PELICULAS",HBO FAMILY
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a07g/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME
-#EXTVLCOPT:network-caching=1000
 http://45.181.121.57:2909/play/122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME DRAMA
-#EXTVLCOPT:network-caching=1000
 http://45.181.121.57:2909/play/120
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
-#EXTVLCOPT:network-caching=1000
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
-#EXTVLCOPT:network-caching=1000
 http://186.33.61.182:8000/play/a04q/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/285/417/185/logo-paramount-network-television-network-paramount-channel-others.jpg" group-title="TV PELICULAS",PARAMOUNT NETWORK
-#EXTVLCOPT:network-caching=1000
 http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGPLkgujoroVxve-5DpP8jpB/m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://205.235.6.29:8000/play/a0x7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://38.250.178.205:8000/play/a08w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE
-#EXTVLCOPT:network-caching=1000
 http://179.60.191.102:8000/play/a0i3
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE 
-#EXTVLCOPT:network-caching=1000
 http://45.228.234.62:8000/play/a06x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
-#EXTVLCOPT:network-caching=1000
 http://186.148.196.100:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
-#EXTVLCOPT:network-caching=1000
 http://181.78.197.59:8000/play/a06t/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png" group-title="TV PELICULAS",TNT
 #EXTVLCOPT:network-caching=1000
