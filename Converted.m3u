@@ -706,50 +706,35 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14295/logo_256_1684138541.png" group-title="TV INFANTIL", RETRO CARTOON
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC🥊EVENTOS
-#EXTVLCOPT:network-caching=1000
 http://45.185.163.75:8000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC🥊EVENTOS
-#EXTVLCOPT:network-caching=1000
 http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/wwe-live-logo-png-28.png" group-title="DEPORTES",🥊WWE
-#EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca121/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
-#EXTVLCOPT:network-caching=3000
 http://179.60.191.102:8000/play/a0in
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
-#EXTVLCOPT:network-caching=3000
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
-#EXTVLCOPT:network-caching=3000
 http://45.185.163.75:8000/play/a0hf/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jirI8F.png" group-title="DEPORTES",TELE UNO⚽SD EVENTOS
-#EXTVLCOPT:network-caching=1000
 https://183.bozztv.com/giatv/giatv-teleuno/teleuno/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF⚽SD
-#EXTVLCOPT:network-caching=1000
 http://186.33.42.33:9969/ECDF/mpegts?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF⚽SD
-#EXTVLCOPT:network-caching=1000
 http://186.33.42.33:9969/ECDF/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/LogoElCanalDelF%C3%BAtbolEC.png" group-title="DEPORTES",ECDF⚽SD
-#EXTVLCOPT:network-caching=1000
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1118922.m3u8
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA⚽LIBERTADORES
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD 
-#EXTVLCOPT:network-caching=1000
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD 
-#EXTVLCOPT:network-caching=1000
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD 
-#EXTVLCOPT:network-caching=1000
 https://cdn.in.fibra360.net/ESPN/ESPN.isml/ESPN.mpd?dvr_window_length=30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.21:80/test/test/215.ts?sd=10&rebase=on
+http://177.53.153.21:80/test/test/215.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD CENTRO AMERICA
 #EXTVLCOPT:network-caching=1000
 http://45.185.163.75:8000/play/a0di/index.m3u8?sd=10&rebase=on
