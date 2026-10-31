@@ -646,9 +646,9 @@ https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14295/logo_256_1684138541.png" group-title="TV INFANTIL", RETRO CARTOON
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC🥊EVENTOS
-https://propee3658c2.airspace-cdn.cbsivideo.com/stream_2/manifest.m3u8
+https://propee3658c2.airspace-cdn.cbsivideo.com/stream_2/manifest.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" group-title="DEPORTES",UFC🥊EVENTOS
-http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/wwe-live-logo-png-28.png" group-title="DEPORTES",🥊WWE
 http://200.115.120.1:8000/play/ca121/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
@@ -676,7 +676,7 @@ https://cdn.in.fibra360.net/ESPN/ESPN.isml/ESPN.mpd?dvr_window_length=30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD
 http://177.53.153.21:80/test/test/215.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD CENTRO AMERICA
-http://45.185.163.75:8000/play/a0di/index.m3u8?sd=10&rebase=on
+http://45.5.117.99:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD CENTRO AMERICA
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1155892.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2
@@ -685,8 +685,8 @@ https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8?sd=10&rebase=
 https://cdn.in.fibra360.net/ESPN_2_HD/ESPN_2_HD.isml/ESPN_2_HD.m3u8?dvr_window_length=30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2
-https://zapster.trapemn.tv:1936/zapster-hls/ESPN2.stream/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 AR
+http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 CENTRO AMERICA
 http://177.53.153.21:80/test/test/217.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 CENTRO AMERICA
@@ -835,6 +835,8 @@ http://45.5.117.99:8000/play/a03w/index.m3u8
 http://45.5.117.187:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTES",DAZN F1
 http://myultratv.com:8080/live/93wema56we34be78/58wumu473muwu85/12397.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTES",DAZN F1
+http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/53380.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/960px-DAZN_LALIGA_2024_logo.svg.png" group-title="DEPORTES",DAZN LA LIGA ESPAÑOLA
