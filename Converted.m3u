@@ -747,6 +747,8 @@ https://cdn.in.fibra360.net/ESPN_7/ESPN_7.isml/ESPN_7.mpd?dvr_window_length=30
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1106.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN DEPORTES
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD AR EVENTOS
+https://instreams.xyz/live3/H76/index.m3u8?st=iKf3S8ATJdixkiC_5xabCw&e=1793560000
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/7940.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
