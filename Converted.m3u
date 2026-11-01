@@ -874,18 +874,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_2_372x160.png" group-title="DEPORTES",La 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT SPORTS
-http://45.185.163.75:8000/play/a03q/index.m3u8
+https://m3u.tvcluboficial.com/free/ReachBot/Kip/playlist.m3u
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT SPORTS Premiun HD AR
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1229562.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD AR
-http://195.178.110.110/tntsports/index.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES",TNT Sports Premiun HD
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1155814.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
 http://200.115.120.1:8000/play/ca043/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
 #EXTVLCOPT:network-caching=1000
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/8247.m3u8
+https://ryuplay.cc:8443/live/PEPE008pepe2021ur/u/8247.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="DEPORTES",TYC SPORTS
 http://190.83.15.112:8000/play/a0ec/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6JY0F63v/Win.png" group-title="DEPORTES",WIN SPORTS LIGA COLOMBIA
@@ -895,9 +895,9 @@ http://186.33.52.206:7900/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/6JY0F63v/Win.png" group-title="DEPORTES",WIN SPORTS+ HD LIGA COLOMBIA
 http://181.118.150.27:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN LIGA MEXICANA
-
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/952.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",TUDN LIGA MEXICANA
-http://200.115.96.61:9090/play/a07u/index.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/957.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN LIGA MEXICANA
 https://is.gd/HArg4f/oswaldo/Desktop/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES",ZONA TUDN LIGA MEXICANA
