@@ -523,6 +523,8 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8?sd=10&rebase=on
 https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0e69b2_2861988a71844e4e99da101cf4c90397~mv2.jpg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90,enc_avif,quality_auto/0e69b2_2861988a71844e4e99da101cf4c90397~mv2.jpg" group-title="CANELA TV",PELICULAS CLASICAS ARTFLIX
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Dark_Teuve_2.png" group-title="CINE TERROR",DARK
+http://31.43.191.125:8080/restream/restream/782
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text.png" group-title="CINE TERROR",PANICO TV 
 http://181.78.8.199:8000/play/a0bt/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28zVt46n/download-84.jpg" group-title="CINE TERROR", MIEDO TV
