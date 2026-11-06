@@ -527,6 +527,8 @@ https://live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82
 https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Dark_Teuve_2.png" group-title="CINE TERROR",DARK
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1299152.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE TERROR" , +CINE TERROR 
+http://45.235.37.227/terrortv/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text.png" group-title="CINE TERROR",PANICO TV 
 http://181.78.8.199:8000/play/a0bt/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.findelahistoria.com/web/wp-content/uploads/2014/12/dracula_movie_logo_01_lg.jpg" group-title="CINE TERROR",CINE VAMPIROS
