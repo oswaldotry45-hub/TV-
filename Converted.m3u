@@ -109,8 +109,6 @@ http://45.5.117.57:8200/play/a04d/index.m3u8?sd=10&rebase=on
 http://181.224.255.210:8001/play/a0m8/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PELICULAS",MEGACINE TV
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PELICULAS",FMH MOVIES
-http://190.102.120.20:8000/play/a03k/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
 http://179.60.190.252:8000/play/a091/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
@@ -123,8 +121,12 @@ http://179.60.191.102:8000/play/a0gw
 http://190.61.101.11:7050/play/a04w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINE PREMIUN
 https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINEMA PREMIUM
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINE PREMIUM
 http://181.78.197.59:8000/play/a084/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="TV PELICULAS",CINE FAMILIAR
+http://190.61.44.110:2608/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-HISPANO.png" group-title="TV PELICULAS",CINE HIAPANO
+http://190.61.44.110:2608/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE
 http://181.224.255.210:8001/play/a0nt/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE HD
@@ -133,6 +135,10 @@ http://181.78.197.59:8000/play/a08d/index.m3u8?sd=10&rebase=on
 http://181.224.255.210:8001/play/a0ge/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
 http://181.78.197.59:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PELICULAS",FMH MOVIES
+http://190.61.44.110:2608/play/a02n/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png" group-title="TV PELICULAS",FMH FAMILY
+http://190.61.44.110:2608/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PELICULAS",GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="TV PELICULAS",GOLDEN PREMIER
