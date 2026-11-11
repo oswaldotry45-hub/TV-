@@ -184,13 +184,13 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://megacinetv.net/logo/megacinetv.png" group-title="TV PELICULAS",MEGACINE TV
 https://edge.essastream.com/megacinetv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME
-
+http://38.7.195.44:8000/play/a0c6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME DRAMA
-
+http://38.7.195.44:8000/play/a0c0
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
-
+http://177.53.153.21:80/test/test/341.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PELICULAS",NBC Universo West 
 http://45.188.229.33:8000/play/a1cw/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PELICULAS",ORBIT TV
