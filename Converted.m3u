@@ -191,6 +191,8 @@ http://38.7.195.44:8000/play/a0c0
 http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://177.53.153.21:80/test/test/341.ts
+#EXTINF:-1 group-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/500px-Nitro.svg.png" group-title="TV PELICULAS",NITRO HD
+http://205.235.6.29:8000/play/a0xw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="TV PELICULAS",NBC Universo West 
 http://45.188.229.33:8000/play/a1cw/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/logotv.png" group-title="TV PELICULAS",ORBIT TV
@@ -968,6 +970,8 @@ http://45.5.117.99:8000/play/a03w/index.m3u8
 http://177.53.153.21:80/test/test/312.ts
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_sports-mediano.png" group-title="DEPORTES",CLARO SPORTS 3 HD
 http://45.5.117.187:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-logo="https://imagenes.gatotv.com/logos/canales/claros/m_laliga-mediano.png" group-title="DEPORTES",MOVISTAR +
+http://200.115.120.1:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTES",DAZN F1
 http://myultratv.com:8080/live/93wema56we34be78/58wumu473muwu85/12397.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTES",DAZN F1
