@@ -47,8 +47,10 @@ http://45.224.97.181:9999/Oromar/index.m3u8
 http://45.185.163.75:8000/play/a00w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="TV ECUADOR",TELEVICENTRO TVC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Radiodiblu.png" group-title="ECUADOR",RADIO CARAVANA DIBLU TV  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Radiodiblu.png" group-title="TV ECUADOR",RADIO CARAVANA DIBLU TV  
 http://205.235.6.29:8000/play/a0x6/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Radiodiblu.png" group-title="TV ECUADOR",RADIO CARAVANA DIBLU TV  
+https://www.m3ukodi.com/site/playlist_tube/generate_m3u.php?mode=individual&db_id=438
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf09c4d9487b72e8688236448c37ae427bdcee863667a28cef53bd45b876f8f6.png" group-title="TV ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="TV ECUADOR",TELERAMA
