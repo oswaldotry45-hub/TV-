@@ -24,7 +24,7 @@ http://205.235.6.29:8000/play/a0yd/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="TV ECUADOR",ECUADOR TV
 http://205.235.6.29:8000/play/a0ye/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="TV ECUADOR",ECUADOR TV
-
+http://205.235.6.29:8000/play/a0ye/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="TV ECUADOR",ECUADOR TV
 http://45.185.163.75:8000/play/a061/index.m3u8?network_id=15601
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_de_Gamavisi%C3%B3n_1995-1998.png" group-title="TV ECUADOR", GAMAVICION
@@ -639,11 +639,11 @@ http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2505/index.m3u8?sd=10&reb
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/wwe-live-logo-png-28.png" group-title="DEPORTES",🥊WWE
 http://200.115.120.1:8000/play/ca121/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
-http://179.60.191.102:8000/play/a0in
+http://xdplus.site:8880/live/Ferrao76/WCDNR/198804.ts
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
 http://45.185.163.75:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
-http://45.185.163.75:8000/play/a0hf/index.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1217789.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" group-title="DEPORTES",ZA⚽PPING SPORTS EVENTOS PPV ECUADOR
