@@ -994,6 +994,8 @@ http://45.239.49.157:8000/play/a0j8/index.m3u8
 http://45.182.22.53:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/78gYwkzZYXybODd8BHN5ey/ee4dd02cff04df6f2fd43843a74c7dc9/laliga.jpg" group-title="DEPORTES",VIX LIGA ESPAñOLA
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/51343.m3u8
+#EXTINF:-1 tvg-logo="https://ia600604.us.archive.org/0/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="DEPORTES",SKY SPORTS 
+http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia600604.us.archive.org/0/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OmZbN3i8_gdbZ4YueHVwJ-9U8dAoJriCuMimPo3ZKg&s" group-title="DEPORTES",SKY SPORTS NFL
