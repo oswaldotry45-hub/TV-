@@ -403,52 +403,35 @@ https://jmp2.uk/stvp-ESBC2700003T8
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="RAKUTEN TV",RAKUTEN ACCION
-#EXTVLCOPT:network-caching=1000
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?sd=10&rebase=on
+?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Rakuten-TV-Pelis-TOP-en-directo-Online-696x392.png" group-title="RAKUTEN TV",RAKUTEN PELIS TOP
-#EXTVLCOPT:network-caching=1000
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="RAKUTEN TV",RAKUTEN DRAMA
-#EXTVLCOPT:network-caching=1000
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?sd=10&rebase=on
+?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/10/Rakuten-TV-en-Familia-en-directo-Online-696x392.png" group-title="RAKUTEN TV", RAKUTEN FAMILIA
-#EXTVLCOPT:network-caching=1000
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?sd=10&rebase=on
+?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="RAKUTEN TV",RAKUTEN THRILLERS
-#EXTVLCOPT:network-caching=1000
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png" group-title="RAKUTEN TV",MY TIME MOVIE NETWORK
-#EXTVLCOPT:network-caching=1000
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/04/18114951/Rakuten-1-300x169.jpg" group-title="RAKUTEN TV",RAKUTEN CRIMEN
-#EXTVLCOPT:network-caching=1000
 https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251111T011927SQUARE.png" group-title="RAKUTEN TV",RAKUTEN CINE FRIKI
-#EXTVLCOPT:network-caching=1000
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png" group-title="RAKUTEN TV", RAKUTEN CIENCIA FICCION
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/stvp-ES500004NO
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="RAKUTEN TV", RAKUTEN VIKI DORAMAS
-#EXTVLCOPT:network-caching=1000
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="RAKUTEN TV", ESTILO Y VIDA
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/stvp-ES26000068D
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion_1_0.jpg" group-title="FREE TV",FREE TV ACTION
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion_1_0.jpg" group-title="FREE TV",FREE TV ACTIO#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/estelar_1_0.jpg" group-title="FREE TV", FREE TV  STELAR
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/live_0_0.jpg" group-title="FREE TV", FREE TV LIVE
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16329
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/familia_0_0.jpg" group-title="FREE TV", FREE TV FAMILIA
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16320
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama_1_0.jpg" group-title="FREE TV", FREE TV DRAMA
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/sureno_0.jpg" group-title="FREE TV", FREE TV SURENO
 #EXTVLCOPT:network-caching=1000
