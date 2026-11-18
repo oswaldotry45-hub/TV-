@@ -608,10 +608,6 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ARGEN. HD
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN 1 SUR SD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ARG ESPN 1 ᴴᴰ
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",#ARG ESPN 1
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD PERU
@@ -624,26 +620,26 @@ https://cdn.in.fibra360.net/ESPN/ESPN.isml/ESPN.mpd?dvr_window_length=30
 http://177.53.153.21:80/test/test/215.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN COLOM ᴴᴰ
 http://190.60.46.156:8089/ESPNHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN CHILE ᴴᴰ
-http://45.181.121.85:25461/test/test/65
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN COLOM. SD
 http://45.5.59.237:8000/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN CHILE ᴴᴰ
+http://45.181.121.85:25461/test/test/65
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN CHILE ᴴᴰ
+http://45.70.168.162:84/playlist.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN CHILE ᴴᴰ
+http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN CHILE ᴴᴰ
+http://38.187.22.140:25501/play/a0770/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ᴴᴰ
 http://177.234.247.66:9975/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ᴴᴰ
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ᴴᴰ
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ᴴᴰ
 http://45.181.121.85:25461/test/test/18
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",COL ᴴᴰ
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD CENTRO AMERICA
 http://45.5.117.99:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD CENTRO AMERICA
 https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 1 MX
-
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8|
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 SUR HD
 http://138.121.15.230:9001/ESPN-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 SUR SD
@@ -657,7 +653,7 @@ https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8?sd=10&rebase=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 AR
 http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ARG ESPN 2 ᴴᴰ
-
+http://38.187.22.140:25501/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ARG ESPN 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 ᴴᴰ CHILE
@@ -669,11 +665,11 @@ https://streaming.onnethn.com/ESPN2_HD/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 CENTRO AMERICA
 http://181.78.197.59:8000/play/a080/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 MX HD
-
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 SUR HD
-
+http://190.93.224.42/ESPN-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 ARGEN HD
+http://190.97.252.174:80/espn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 SUR SD
-
+http://38.187.22.140:25501/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 PERU
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 VENEZ
@@ -690,8 +686,6 @@ http://45.181.121.85:25461/test/test/15
 https://streaming.onnethn.com/ESPN3_HD/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 CENTRO AMERICA
 http://181.78.197.59:8000/play/a081/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 MX HD
-
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 SUR HD
 
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 SUR SD
@@ -770,16 +764,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1165.m3u8?sd=10&rebase=on
 http://158.172.155.130:8000/play/a0ao/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
 http://190.108.83.69:8000/play/a03w/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM SUR FHD
-
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM SUR HD
-
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ARG ESPN PREMIUM ᴴᴰ
-
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ARG ESPN PREMIUM
-
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM CHILE
 http://45.181.121.85:25461/test/test/19
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="DEPORTES",ESPN DEPORTES
+http://38.188.186.47:4000/play/Ji198/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="DEPORTES",ESPN USA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 USA
@@ -935,23 +923,17 @@ http://45.239.49.157:8000/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/78gYwkzZYXybODd8BHN5ey/ee4dd02cff04df6f2fd43843a74c7dc9/laliga.jpg" group-title="DEPORTES",LIGA ESPAñOLA
 http://45.182.22.53:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/78gYwkzZYXybODd8BHN5ey/ee4dd02cff04df6f2fd43843a74c7dc9/laliga.jpg" group-title="DEPORTES",VIX LIGA ESPAñOLA
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/51343.m3u8
+http://38.188.186.47:4000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia600604.us.archive.org/0/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="DEPORTES",SKY SPORTS 
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://ia600604.us.archive.org/0/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OmZbN3i8_gdbZ4YueHVwJ-9U8dAoJriCuMimPo3ZKg&s" group-title="DEPORTES",SKY SPORTS NFL
 http://38.147.104.162:80/premium37/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",NFL NFL NETWORK 
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1215769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",NFL NFL #11 (Dazn)
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1215777.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OmZbN3i8_gdbZ4YueHVwJ-9U8dAoJriCuMimPo3ZKg&s" group-title="DEPORTES",NFL NFL Sky Sports HD
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1215778.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="DEPORTES",BEIN SPORTS Ñ HD 
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1155904.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="DEPORTES",US BEIN SPORTS 
-https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1279355.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="DEPORTES",BEIN SPORTS Ñ ESPAÑOL
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",BEIN SPORTS  EXTRA Ñ ESPAÑOL
