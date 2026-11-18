@@ -135,6 +135,8 @@ http://190.61.44.110:2608/play/a011/index.m3u8
 http://181.224.255.210:8001/play/a0nt/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE HD
 http://181.78.197.59:8000/play/a08d/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-channel.webp" group-title="TV PELICULAS",ENT CHANNEL
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
 http://181.224.255.210:8001/play/a0ge/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
