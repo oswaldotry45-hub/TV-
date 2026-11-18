@@ -137,6 +137,18 @@ http://181.224.255.210:8001/play/a0nt/index.m3u8?sd=10&rebase=on
 http://181.78.197.59:8000/play/a08d/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-channel.webp" group-title="TV PELICULAS",ENT CHANNEL
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-movies.webp" group-title="TV PELICULAS",ENT MOVIES
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-extreme.webp" group-title="TV PELICULAS",ENT EXTREME
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-life.webp" group-title="TV PELICULAS",ENT LIFE
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-family.webp" group-title="TV PELICULAS",ENT FAMILY
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-drama.webp" group-title="TV PELICULAS",ENT DRAMA
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-classic.webp" group-title="TV PELICULAS",ENT CLASSIC
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
 http://181.224.255.210:8001/play/a0ge/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
