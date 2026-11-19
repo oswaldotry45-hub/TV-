@@ -643,7 +643,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/400.m3u8|
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 SUR HD
 http://138.121.15.230:9001/ESPN-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 SUR SD
-
+http://205.235.6.29:8000/play/a11i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 PERU
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/960px-Espn2.svg.png" group-title="DEPORTES",ESPN 2 VENE
