@@ -687,9 +687,9 @@ https://streaming.onnethn.com/ESPN3_HD/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="DEPORTES",ESPN 3 CENTRO AMERICA
 http://181.78.197.59:8000/play/a081/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 SUR HD
-
+http://190.60.47.182:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 SUR SD
-
+http://190.93.224.42:80/ESPN-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 PERU
 https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-4-1024x343.png" group-title="DEPORTES",ESPN 4 VENEZ
@@ -701,9 +701,6 @@ http://45.181.121.85:25461/test/test/16
 #EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
 https://streaming.onnethn.com/ESPN_4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 CENTRO AMERICA
-
-#EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 MX
-
 #EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 BRAZIL
 http://45.162.64.114/ESPN_4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 SUR HD
