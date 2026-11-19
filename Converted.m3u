@@ -705,7 +705,7 @@ http://45.5.116.228:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="DEPORTES",ESPN 4 BRAZIL
 http://45.162.64.114/ESPN_4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 SUR HD
-
+http://158.172.217.18:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 SUR SD
 
 #EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5-1024x343.png" group-title="DEPORTES",ESPN 5 PERU
@@ -757,7 +757,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
 http://190.93.224.42:80/ESPN-PREMIUM/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
-
+http://181.78.79.131:8000/play/a0r2
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
 http://158.172.155.130:8000/play/a0ao/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png" group-title="DEPORTES",ESPN PREMIUM HD
