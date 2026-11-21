@@ -604,9 +604,11 @@ http://186.33.42.33:9969/ECDF/playlist.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://farandula.co/wp-content/uploads/2023/04/Untitled-design-1024x1024.png" group-title="DEPORTES",PLUTO TV COPA⚽LIBERTADORES
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ARGEN.HD mac
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:51:04:51&stream=1090640&extension=ts&play_token=q73ihjt4gx
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN HD CHILE
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ARGEN. HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",ESPN ARGEN.HD
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES",#ARG ESPN 1
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8
