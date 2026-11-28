@@ -108,13 +108,13 @@ http://181.224.255.210:8001/play/a0m8/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_372,h_372,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AuroraMedia.png" group-title="TV PELICULAS",AURORA MEDIA FILMS
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
-http://179.60.190.252:8000/play/a091/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a1dl/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="TV PELICULAS",CINECANAL
-http://190.83.15.112:8000/play/a07s/index.m3u8?sd=10&rebase=on
+http://168.228.44.241:9997/play/a03d/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
-http://179.60.190.252:8000/play/a0g0/index.m3u8?sd=10&rebase=on
+http://177.234.218.66:8083/play/a06v/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="TV PELICULAS",CINEMAX
-http://179.60.191.102:8000/play/a0gw
+http://45.188.229.33:8000/play/a1jh/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/claro_tv-mediano.png" group-title="TV PELICULAS",CLARO CINEMA
 http://190.61.101.11:7050/play/a04w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="TV PELICULAS",CINE PREMIUN
@@ -126,7 +126,7 @@ http://190.61.44.110:2608/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-HISPANO.png" group-title="TV PELICULAS",CINE HIAPANO
 http://190.61.44.110:2608/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE
-http://181.224.255.210:8001/play/a0nt/index.m3u8?sd=10&rebase=on
+http://177.234.218.66:8083/play/a0ha/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dhe-mediano.png" group-title="TV PELICULAS",DHE HD
 http://181.78.197.59:8000/play/a08d/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-channel.webp" group-title="TV PELICULAS",ENT CHANNEL
@@ -144,11 +144,11 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/channels/ent-classic.webp" group-title="TV PELICULAS",ENT CLASSIC
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
-http://181.224.255.210:8001/play/a0ge/index.m3u8?sd=10&rebase=on
+http://181.78.12.119:16123/play/ch08/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="TV PELICULAS",FX
 http://181.78.197.59:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/img/logo_movies.png" group-title="TV PELICULAS",FMH MOVIES
-http://190.61.44.110:2608/play/a02n/index.m3u8?sd=10&rebase=on
+http://181.78.8.199:8000/play/a06u/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png" group-title="TV PELICULAS",FMH FAMILY
 http://190.61.44.110:2608/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="TV PELICULAS",GEN TV
@@ -170,13 +170,13 @@ https://fox.hostlagarto.com:8081/hmtv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
 http://181.119.177.253:8000/play/a00x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO
-http://45.188.229.33:8000/play/a12r/index.m3u8?sd=10&rebase=on
+http://168.228.44.241:9997/play/a00b/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO 2
 http://181.78.197.59:8000/play/a07e/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="TV PELICULAS", HBO 2
-http://181.119.177.253:8000/play/a00y/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a1cz/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
-http://181.119.177.253:8000/play/a011/index.m3u8?sd=10&rebase=on
+http://168.228.44.241:9997/play/a00f/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_xtreme-mediano.png" group-title="TV PELICULAS",HBO XTREME
 http://45.188.229.33:8000/play/a13n/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="TV PELICULAS",HBO MUNDI
@@ -200,7 +200,7 @@ http://38.7.195.44:8000/play/a0c6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="TV PELICULAS",MAX PRIME DRAMA
 http://38.7.195.44:8000/play/a0c0
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
-http://38.65.175.87:8000/play/a0cp/index.m3u8u?sd=10&rebase=on
+http://168.228.44.241:9997/play/a02p/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png" group-title="TV PELICULAS",MULTIPREMIER
 http://177.53.153.21:80/test/test/341.ts
 #EXTINF:-1 group-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/500px-Nitro.svg.png" group-title="TV PELICULAS",NITRO HD
