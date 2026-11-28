@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
-http://45.224.97.181:9999/Ecuavisa/index.m3u8
+http://45.188.229.33:8000/play/a1gj/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
 http://45.134.141.161:2200/ARG/ECUAVISA/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
