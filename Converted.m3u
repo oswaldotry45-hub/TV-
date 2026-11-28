@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
-http://45.188.229.33:8000/play/a1gj/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a0vj/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
 http://45.134.141.161:2200/ARG/ECUAVISA/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1324" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/960px-Logo_Ecuavisa.svg.png" group-title="TV ECUADOR",ECUAVISA
@@ -12,9 +12,7 @@ http://186.33.42.33:9969/RTS_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/107_RTS.png" group-title="TV ECUADOR",RTS
 http://45.185.163.75:8000/play/a00x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/107_RTS.png" group-title="TV ECUADOR",RTS
-http://179.60.191.102:8000/play/a0fb
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
-http://186.33.42.33:9969/TeleamazonasHD/playlist.m3u8
+http://45.188.229.33:8000/play/a1iu/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS
 http://157.100.248.242:8080/TeleamazonasHD/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="TV ECUADOR",TELEAMAZONAS 
@@ -28,29 +26,27 @@ http://205.235.6.29:8000/play/a0ye/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/960px-EcuadorTV_logo.png" group-title="TV ECUADOR",ECUADOR TV
 http://45.185.163.75:8000/play/a061/index.m3u8?network_id=15601
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_de_Gamavisi%C3%B3n_1995-1998.png" group-title="TV ECUADOR", GAMAVICION
-http://186.33.42.33:9969/GamavisionHD/index.m3u8
+http://186.33.42.33:9969/GamavisionHD/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_de_Gamavisi%C3%B3n_1995-1998.png" group-title="TV ECUADOR", GAMAVICION
 http://190.83.15.112:8000/play/a03g/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="TV ECUADOR", TC TELEVICION 
-http://186.33.42.33:9969/TCHD/playlist.m3u8
+http://45.188.229.33:8000/play/a1ir/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="TV ECUADOR", TC TELEVICION 
 http://181.119.185.32:8000/play/a005/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tc_television-mediano.png" group-title="TV ECUADOR", TC TELEVICION 
-http://45.224.97.181:9999/TC/index.m3u8?sd=10&rebase=on
+http://45.188.229.33:8000/play/a0vg/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/478-4786823_canal-uno-ecuador-canal-uno-logo-png-transparent.png" group-title="TV ECUADOR",CANAL UNO 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="TV ECUADOR",OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="TV ECUADOR",OROMAR TV
-http://45.224.97.181:9999/Oromar/index.m3u8
+http://45.188.229.33:8000/play/a1ki/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="TV ECUADOR",TELEVICENTRO 
 http://45.185.163.75:8000/play/a00w/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://alba-ec-tvc.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-150x150.png" group-title="TV ECUADOR",TELEVICENTRO TVC
 https://lilac08.pontiscloud.com/TELEVICENTRO/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Radiodiblu.png" group-title="TV ECUADOR",RADIO CARAVANA DIBLU TV  
 http://205.235.6.29:8000/play/a0x6/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Radiodiblu.png" group-title="TV ECUADOR",RADIO CARAVANA DIBLU TV  
-https://www.m3ukodi.com/site/playlist_tube/generate_m3u.php?mode=individual&db_id=438
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf09c4d9487b72e8688236448c37ae427bdcee863667a28cef53bd45b876f8f6.png" group-title="TV ECUADOR", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="TV ECUADOR",TELERAMA
@@ -88,9 +84,7 @@ https://stream.quenta.online/quenta/tv/tracks-v1a1/mono.ts.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cq15tv.com/static/img/cq15tv-logo.png" group-title="TV ECUADOR",15TV PIÑAS ECUADOR
 https://cq15tv.com/live/cq15tv.ts
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/Marvel-Studios-Logo-2008-500x281.png" group-title="TV PELICULAS",MARVEL 24/7
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg" group-title="TV PELICULAS",DR HOUSE 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-211979/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/366/864/png-clipart-netflix-logo-illustration-netflix-streaming-media-television-show-logo-netflix-logo-television-text.png" group-title="TV PELICULAS",NETFLIX TV 
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1188392.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/960px-Amazon_Prime_logo_%282024%29.svg.png" group-title="TV PELICULAS",AMAZON PRIME
