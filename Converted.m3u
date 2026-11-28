@@ -220,7 +220,7 @@ http://205.235.6.29:8000/play/a0x7/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="TV PELICULAS",STAR CHANNEL
 http://45.188.229.33:8000/play/a10i/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE
-http://179.60.191.102:8000/play/a0i3
+http://168.228.44.241:9997/play/a02x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="TV PELICULAS", SPACE 
 http://45.228.234.62:8000/play/a06x/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/studio_universal-mediano.png" group-title="TV PELICULAS", STUDIO UNIVERSAL
@@ -256,7 +256,7 @@ https://cdn.streamrd.cloud/watch/villa-altagracia-tv.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="TV PELICULAS", VISION TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PELICULAS", WARNER HD
-http://179.60.191.102:8000/play/a0if
+http://45.188.229.33:8000/play/a1b3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/warner_tv-mediano.png" group-title="TV PELICULAS",WARNER HD
 http://181.78.197.59:8000/play/a07s/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://tv.wow-iptv.com/logo.png" group-title="TV PELICULAS", WOW TV MOVIES
@@ -306,7 +306,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
 http://45.5.117.57:8200/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_channel-mediano.png" group-title="SONY CINE",SONY CHANNEL
-http://179.60.191.102:8000/play/a0i0
+http://168.228.44.241:9997/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="SONY CINE",SONY MOVIES HD
 http://45.5.117.57:8200/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/sony_movies-mediano.png" group-title="SONY CINE",SONY MOVIES HD
